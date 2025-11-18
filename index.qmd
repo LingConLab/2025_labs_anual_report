@@ -1,7 +1,10 @@
-```{r, include=FALSE}
+```{r}
+#| include: false
+
 library(tidyverse)
 library(bib2df)
 read_tsv("bibliography.tsv") |> 
+  distinct() |> 
   df2bib(file = "bibliography.bib")
 ```
 
@@ -39,30 +42,194 @@ read_csv("data/people.csv", na = "NA") |>
 
 В разделе 1 описывается 
 
-# ПЕРЕЧЕНЬ СОКРАЩЕНИЙ И ОБОЗНАЧЕНИЙ {.unnumbered .unlisted}
+# ПЕРЕЧЕНЬ СОКРАЩЕНИЙ И ОБОЗНАЧЕНИЙ (переведут на русский) {.unnumbered .unlisted}
 
 В настоящем отчете о НИР применяют следующие сокращения и обозначения.
 
-1, 2, 3 --- лицо
+1 --- первое лицо;
 
-1, 2, 3, 4 --- род существительного
+1du --- первое лицо двойственного числа;
 
-2PL  — второе лицо множественного числа
+1pl --- первое лицо множественного числа;
 
-2SG  — второе лицо единственного числа
+1sg --- первое лицо единственного числа;
 
-ABS  — абсолютивный падеж
+2 --- second person;
 
-DAT  — дательный падеж
+2/3 --- second or third person;
 
-IMP  — императив
+2sg --- second person singular;
 
-IN  — инэссив
+3 --- third person;
 
-PFV  — совершенный вид
+3pl --- third person plural;
 
-PL  — множественное число
+3sg --- third person singular;
 
-PRF  — перфект
+abl --- ablative;
 
-SG  — единственное число
+abs --- absolutive;
+
+acc --- accusative;
+
+add --- additive;
+
+adv --- adverb;
+
+agr --- agreement;
+
+an --- animate;
+
+aug --- augment;
+
+ben --- benefactive;
+
+caus --- causative;
+
+cng --- connegative;
+
+comp --- complementizer;
+
+comp --- компаратив;
+
+coord --- сочинительный союз;
+
+cvb --- converb;
+
+d1 --- демонстративы разных серий;
+
+d3 --- демонстративы разных серий;
+
+dat --- dative;
+
+def --- definite;
+
+dem --- demonstrative;
+
+detr --- detransitive;
+
+dim --- diminutive;
+
+du --- dual;
+
+edge --- edge;
+
+el --- elative;
+
+emp --- emphatic;
+
+emph --- emphatic;
+
+eq --- equative;
+
+erg --- ergative;
+
+ess --- essive;
+
+f --- женский род;
+
+freq --- frequentative;
+
+fut --- future;
+
+gen --- genitive;
+
+i --- class I;
+
+imp --- imperative;
+
+imp --- императив;
+
+impf --- imperfective;
+
+in --- in a container;
+
+indef --- indefinite;
+
+indef --- неопределенное местоимение;
+
+inf --- инфинитив;
+
+ins --- instrumental;
+
+int --- interrogative;
+
+intj --- interjection;
+
+io --- indirect object;
+
+ipfv --- imperfective;
+
+it --- itive;
+
+loc --- locative;
+
+m --- мужской род;
+
+msd --- masdar;
+
+n --- neuter;
+
+neg --- negation;
+
+nfin --- non-finite;
+
+nfut --- non-future;
+
+nom --- nominative;
+
+npfv --- imperfective;
+
+npst --- non-past;
+
+nsg --- neutral singular;
+
+o --- косвенная форма местоимения;
+
+obl --- oblique;
+
+p --- patient-like argument of a canonical transitive verb;
+
+pass --- passive;
+
+pf --- perfective;
+
+pfv --- perfective;
+
+pl --- plural;
+
+pl --- множественное число;
+
+plz --- pluralization;
+
+poss --- possessive;
+
+pot --- potential;
+
+prf --- perfect;
+
+prn --- местоимение;
+
+proh --- prohibitive;
+
+prs --- present;
+
+pst --- past;
+
+ptcl --- particle;
+
+ptcp --- participle;
+
+purp --- purposive;
+
+ref --- referential;
+
+refl --- reflexive;
+
+s --- single argument of canonical intransitive verb;
+
+sa --- S or A participant;
+
+sg --- singular;
+
+sg --- единственное число
