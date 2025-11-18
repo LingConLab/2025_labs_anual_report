@@ -1,0 +1,44 @@
+project:
+  type: book
+  output-dir: result
+
+book:
+  title: "ОТЧЕТ О НАУЧНО-ИССЛЕДОВАТЕЛЬСКОЙ РАБОТЕ"
+  subtitle: "ЯЗЫКОВОЕ И КОГНИТИВНОЕ МНОГООБРАЗИЕ В ФОРМАЛЬНЫХ МОДЕЛЯХ, КОМПЬЮТЕРНЫХ ИНСТРУМЕНТАХ И ОБРАЗОВАТЕЛЬНЫХ РЕСУРСАХ (заключительный)"
+  date: "2025"
+  date-format: "YYYY"
+  output-file: "ОТЧЕТ-О-НАУЧНО-ИССЛЕДОВАТЕЛЬСКОЙ-РАБОТЕ_2025_v1"
+  chapters:
+    - index.qmd
+    - 01_chapter.qmd
+    - 13_references.qmd
+    
+bibliography: bibliography.bib
+csl: gost-r-7-0-5-2008-numeric-iaa.csl
+prefer-html: true
+
+crossref: 
+  title-delim: "\u202F–"
+  fig-title: "Рисунок"
+  tbl-title: "Таблица"
+
+format:
+  html: 
+    df-print: kable
+    html-table-processing: none
+    echo: false
+    message: false
+    warning: false
+    fig-align: center
+    toc: true
+    toc-title: СОДЕРЖАНИЕ
+    number-sections: true
+    highlight-style: github
+    reference-doc: reference.docx
+    language: _language.yml
+    always_allow_html: true
+    knitr:
+      opts_chunk: 
+        echo: false
+        message: false
+        warning: false

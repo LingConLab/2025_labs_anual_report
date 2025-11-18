@@ -1,0 +1,68 @@
+```{r, include=FALSE}
+library(tidyverse)
+library(bib2df)
+read_tsv("bibliography.tsv") |> 
+  df2bib(file = "bibliography.bib")
+```
+
+# СПИСОК ИСПОЛНИТЕЛЕЙ {.unnumbered .unlisted}
+
+Руководители темы:
+
+```{r}
+read_csv("data/people_head.csv", na = "NA") |>  
+  mutate_all(function(i){ifelse(is.na(i), "", i)}) |> 
+  gt::gt() |>
+  gt::tab_options(column_labels.hidden = TRUE,
+                  table.align = "left") |>
+  gt::opt_table_lines(extent = "none") 
+```
+
+Исполнители:
+
+```{r}
+read_csv("data/people.csv", na = "NA") |>
+  mutate_all(function(i){ifelse(is.na(i), "", i)}) |> 
+  gt::gt() |>
+  gt::tab_options(column_labels.hidden = TRUE,
+                  table.align = "left") |>
+  gt::opt_table_lines(extent = "none") 
+```
+
+# РЕФЕРАТ {.unnumbered .unlisted}
+
+Отчет ... стр., рис. ..., табл. ..., ... источник.
+
+ЯЗЫКИ РОССИИ, ЯЗЫКОВЫЕ КОРПУСА, ...
+
+В настоящем отчете содержатся результаты исследований, проведенных сотрудниками Международной лаборатории языковой конвергенции, ... в 2025 году.
+
+В разделе 1 описывается 
+
+# ПЕРЕЧЕНЬ СОКРАЩЕНИЙ И ОБОЗНАЧЕНИЙ {.unnumbered .unlisted}
+
+В настоящем отчете о НИР применяют следующие сокращения и обозначения.
+
+1, 2, 3 --- лицо
+
+1, 2, 3, 4 --- род существительного
+
+2PL  — второе лицо множественного числа
+
+2SG  — второе лицо единственного числа
+
+ABS  — абсолютивный падеж
+
+DAT  — дательный падеж
+
+IMP  — императив
+
+IN  — инэссив
+
+PFV  — совершенный вид
+
+PL  — множественное число
+
+PRF  — перфект
+
+SG  — единственное число
