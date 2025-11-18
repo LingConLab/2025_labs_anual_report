@@ -33,7 +33,7 @@ ru	article	Berger2017	Берджер, Д.	{З}ачем смотреть на ж�
 ru	article	Krylova2023	Крылова, К.	{Р}ынок удобных животных	2023	НЛО	Москва	408								
 	article	Markowitz2020	Markowitz, D.M.	{P}utting your best pet forward: {L}anguage patterns of persuasion in online pet advertisements	2020			160-173			Journal of Applied Social Psychology	3			50	
 ru	article	Aznacheeva2011	Азначеева, Е.Н.	{А}стрологический дискурс: семиотический и когнитивный аспекты	2011			19-21			Вестник Челябинского государственного университета	33				
-ru	article	Vepreva2017	Вепрева, И.Т.	{Б}азовый лексикон астрологического прогноза: о словах с "размытым" содержанием	2017			57-63			Экология языка и коммуникативная практика	1				
+ru	article	Vepreva2017	Вепрева, И.Т.	"{Б}азовый лексикон астрологического прогноза: о словах с ""размытым"" содержанием"	2017			57-63			Экология языка и коммуникативная практика	1				
 ru	article	Laletina2007	Лалетина, А.О.	«{Г}ороскоп» как гендерно-маркированный медиажанр	2007			288-294	Жанры и типы текста в научном и медийном дискурсе							
 	article	BirdKleinLoper2009	Bird, S., Klein, E., Loper, E.	{N}atural {L}anguage {P}rocessing with {P}ython	2009	O’Reilly Media Inc.								https://www.nltk.org/book		
 ru	article	LukashevichLevchik2016	Лукашевич, Н.В., Левчик, А.В.	{С}оздание лексикона оценочных слов русского языка {Р}у{С}ентилекс	2016			377-382	Труды конференции OSTIS-2016							
@@ -153,22 +153,22 @@ ru	book	oslon2018	Ослон М. В.	Язык котляров-молдован.
 	article	panse2018	Panse, C.	Rectangular statistical cartograms in R: The recmap package	2018			1-27			Journal of Statistical Software				86	
 	article	moroz2021	Moroz, George 	On phonology of East Caucasian languages	2021	Linguistic Convergence Laboratory	Moscow		Typological Atlas of the Languages of Daghestan (TALD)	Michael Daniel, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato, Samira Verhees						
 	misc	bates2014	Bates, D.	Fitting linear mixed-effects models using lme4	2014									https://arxiv.org/abs/1406.5823		
-	inbook	caponigropearl2008	Caponigro, I., & Pearl, L.	Silent prepositions: Evidence from free relatives.	2008			365–385	The Syntax and Semantics of Spatial P					https://chooser.crossref.org/?doi=10.1075%2Fla.120.18cap		
-	article	danieletal2010	Daniel, M., Dobrushina, N., & Knyazev, S.	Highlanders’ Russian: Case study in bilingualism and language interference in Central Daghestan	2010			65-93			Slavica Helsingiensia				40	
+	inbook	caponigropearl2008	Caponigro, I., & Pearl, L.	Silent prepositions: Evidence from free relatives.	2008			365–385	The Syntax and  Semantics of Spatial P					https://chooser.crossref.org/?doi=10.1075%2Fla.120.18cap		
+	article	danieletal2010	Daniel, M., Dobrushina, N., & Knyazev, S.	Highlanders’ Russian: Case study in bilingualism  and language interference in Central Daghestan	2010			65-93			Slavica Helsingiensia				40	
 	article	gehrkelekakou2013	Gehrke, B., & Lekakou, M.	How to miss your preposition	2013			92-106			Studies in Greek Linguistics			https://www.academia.edu/2092553/How_to_miss_your_preposition_with_Marika_Lekakou_	33	
 	inproceeding	khomchenkovaetal2018	Khomchenkova, I., Pleshak, P., & Stoynova, N.	Gender disagreement in the contactinfluenced Russian of Northern Siberia and Russian Far East	2018			14–15	Theoretical and Experimental Approaches to Gender							
 	book	levshina2015	Levshina, N.	How to do linguistics with R	2015	John Benjamins								https://doi.org/10.1075/z.195.website 		
 	article	naccaratomoroz2025	Naccarato, C., & Moroz, G.	Non-standard numeral constructions in L2 Russian: A corpusbased study	2025						International Journal of Bilingualism			https://doi.org/10.1177/13670069251323203		
-	article	panovaphilippova2021	Panova, A., & Philippova, T.	When a cross-linguistic tendency marries incomplete acquisition: Preposition drop in Russian spoken in Daghestan	2021			640-667			International Journal of Bilingualism	3		https://doi.org/10.1177/1367006921990442	25	
-	inbook	savelyev2020	Savelyev, A.	Chuvash and the Bulgharic languages	2020			446-464	The Oxford Guide to the Transeurasian Languages					https://doi.org/10.1093/oso/9780198804628.003.0028		
+	article	panovaphilippova2021	Panova, A., & Philippova, T.	When a cross-linguistic tendency marries incomplete acquisition: Preposition drop in Russian spoken in Daghestan	2021			640-667			International Journal of Bilingualism	3		https://doi.org/10.1177/1367006921990442		
+	inbook	savelyev2020	Savelyev, A.	Chuvash and the Bulgharic languages	2020			446-464	The Oxford Guide to the Transeurasian Languages					https://doi.org/10.1093/oso/9780198804628.003.0028		
 	inbook	shagal2016	Shagal, K.	Contact-induced grammatical phenomena in the Russian of Erzya Speakers	2016	University of Helsinki	Helsinki	363–377	Mordvin languages in the field							
 ru	inbook	andreev1961	Андреев, Н. А.	Краткий грамматический очерк чувашского языка.	1961	Государственное издательство иностранных и национальных словарей			Чувашско-русский словарь							
 ru	book	ashmarin1903	Ашмарин, Н. И.	Опыт исследования чувашского синтаксиса: часть первая	1903	Типолитография Клучникова										
 ru	inbook	bubrikh1985	Бубрих, Д. В.	Русский язык в его отличиях от мордовского.	1985	Мордов. кн. изд-во		146–165	Проблемы мордовско-русского билингвизма							
 ru	book	myiznikov2005	Мызников, С. А.	Русские говоры Среднего Поволжья	2005	Наука										
-ru	book	pavlov2017	Павлов, И. П.	Современный чувашский язык (Vol. 2)	2017	Чувашский гос. ин-т гуманитарных наук.										
-ru	book	rezyukov1959	Резюков, Н. А.	Сопоставительная грамматика чувашского и русского языков.	1959	Гос. изд. Чувашской АССР										
-ru	article	stoynovashluinskiy2010	Стойнова, Н. М., & Шлуинский, А. Б.	Русская речь лесных энцев: зарисовки исследователей вымирающего языка	2010			153–165			Slavica Helsingiensia				40	
+ru	book	pavlov2017	Павлов, И. П.	Современный чувашский язык (Vol. 2)	2017	Чувашский гос. ин-т гуманитарных наук										
+ru	book	rezyukov1959	Резюков, Н. А.	Сопоставительная грамматика чувашского и русского языков.	1959	Гос.  изд. Чувашской АССР										
+ru	article	stoynovashluinskiy2010	Стойнова, Н. М., & Шлуинский, А. Б.	Русская речь лесных энцев: зарисовки исследователей вымирающего языка	2010			153–165			Slavica Helsingiensia					
 ru	misc	corpus2020a	Архангельский Т. А.	Корпус русской речи бесермян.	2020	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва									
 ru	misc	corpus2018a	Байда (Иванова) К. А., Холодилова М. A., Егорова (Кожемякина) А. Д., Романова Е. А., Ремизова Т. Е., Сторожева А. А., Тарасова Н. К., Зорина В. А., Морозова В. А., Панова А. Б., Добрушина Н. Р.	Корпус русской речи Чувашии.	2018	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва									
 ru	misc	corpus2022	Влахов А. В, Лапина М. С., Смирнова А. А. Елагина А. А., Мордасов М. А., Рыжков А. М., Булгаков Г. П., Смирнова Е. В., Тимошина А. А.	Корпус русской речи Карелии.	2022	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва									
@@ -213,7 +213,7 @@ ru	article	Ladov2024	Ладов, Всеволод Адольфович	Знач�
 	article	pietarinenbeni2021	Pietarinen, Ahti-Veikko and Beni, Majid D.	Active inference and abduction	2021	Springer		499--517			Biosemiotics	2			14	
 	article	quine1960	Quine, Willard Van Orman	Carnap and Logical Truth	1960			350--374			Synthese	4			12	
 	article	Rolf1980	Rolf, Bertil	A theory of vagueness	1980	Springer		315--325			Journal of Philosophical Logic	3			9	
-	article	watsonlevin2023	Watson, Richard and Levin, Michael	The collective intelligence of evolution and development	2023	Sage Publications Sage UK: London, England		26339137231168355			Collective Intelligence	2			2	
+	article	watsonlevin2023	Watson, Richard and Levin, Michael	The collective intelligence of evolution and development	2023	Sage Publications Sage UK: London, England		2.63391372311684E+016			Collective Intelligence	2			2	
 	article	wright2001	Wright, Crispin	On being in a quandary. Relativism, vagueness, logical revisionism	2001			45--98			Mind	1			110	
 	article	Zardini2008a	Zardini, Elia	A Model of Tolerance	2008	Springer		337--368			Studia Logica	3			90	
 	article	Haack2005	Haack, Susan	Not cynicism, but synechism: Lessons from classical pragmatism	2005			239--253			Trans.  Charles S Peirce Soc. : A Quarterly Journal in American Philosophy	2			41	
@@ -329,3 +329,91 @@ ru	article	kuvshinskaya2024	Кувшинская, Ю. М.	{У}потреблен
 ru	article	rostovtsevpopel2019	Ростовцев-Попель, А. А.	{Т}ипология демонстративов: средние дейктики	2009			22-34			Вопросы языкознания	2				
 	article	dabirmoghaddam1997	Dabir-Moghaddam, M.	{C}ompound verb in {P}ersian	1997			25-59			Studies in the Linguistic Science	2			27	
 	misc	boersmaweenink2025	Boersma, P., and Weenink, D.	{P}raat: doing phonetics by computer. {A}vailable online at: http://www.praat.org/	2025											
+ru	article	Borisov2024a	Борисов, Евгений Васильевич	Прямое решение проблемы Крипке	2024			23--32			Эпистемология и философия науки	2			61	
+ru	article	Borisov2024b	Борисов, Евгений Васильевич	Ответ оппонентам	2024			89--94			Эпистемология и философия науки	2			61	
+ru	article	Ladov2024	Ладов, Всеволод Адольфович	Значение: реализм vs скептицизм	2024			43--50			Эпистемология и философия науки	2			61	
+	article	Achouriotietal2014	Achourioti, Theodora and Fugard, Andrew J. B. and Stenning, Keith	The Empirical Study of Norms Is Just What We Are Missing	2014			1--15			Frontiers in Psychology				5	
+	article	AnderBoisetal2015	AnderBois, Scott and Brasoveanu, Adrian and Henderson, Robert	At-issue proposals and appositive impositions in discourse	2015			93--138			Journal of Semantics	1			32	
+	article	Asher2000	Asher, Nicholas	Truth conditional discourse semantics for parentheticals	2000			31--50			Journal of Semantics	1			17	
+	article	belluccipietarinen2016	Bellucci, Francesco and Pietarinen, Ahti-Veikko	Existential graphs as an instrument of logical analysis: Part I. Alpha	2016	Cambridge University Press		209--237			The Review of Symbolic Logic	2			9	
+	article	Buring2003	Büring, Daniel	On d-trees, beans, and b-accents	2023			511--545			Linguistics and Philosophy	5			26	
+	article	cannizzaro2016	Cannizzaro, Sara	Internet memes as internet signs: A semiotic view of digital culture	2016	Ulikooli Kirjastus	Tartu	562--586			Sign Systems Studies	4			44	
+	article	clawsonlevin2023	Clawson, Wesley P. and Levin, Michael	Endless forms most beautiful 2.0: teleonomy and the bioengineering of chimaeric and synthetic organisms	2023	Oxford University Press UK		457--486			Biological Journal of the Linnean Society	4			139	
+	article	conant1991	Conant, James	In Search of Logical Alien Thought -- Descartes, Kant, Frege and the Tractatus	1991			115--180			Philosophical Topics	1			20	
+	article	davies2023	Davies, Jamie and Levin, Michael	Synthetic morphology with agential materials	2023	Nature Publishing Group UK London		46--59			Nature Reviews Bioengineering	1			1	
+	article	ebrahimkhani2021	Ebrahimkhani, Mo R and Levin, Michael	Synthetic living machines: A new window on life	2021	Elsevier		102505			Iscience	5			24	
+	article	FarkasBruce2010	Farkas, Donka F. and Bruce, Kim B.	On Reacting to Assertions and Polar Questions	2010			81--118			Journal of Semantics				27	
+	article	fieldsetal2021	Fields, Chris and Glazebrook, James F and Levin, Michael	Minimal physicalism as a scale-free substrate for cognition and consciousness	2021	Oxford University Press		niab013			Neuroscience of Consciousness	2			2021	
+	article	friston2009	Friston, Karl	The free-energy principle: a rough guide to the brain?	2009	Elsevier		293--301			Trends in cognitive sciences	7			13	
+	article	fristonetal2016	Friston, Karl and FitzGerald, Thomas and Rigoli, Francesco and Schwartenbeck, Philipp and Pezzulo, Giovanni and others	Active inference and learning	2016	Elsevier		862--879			Neuroscience & Biobehavioral Reviews				68	
+	article	friston2010	Friston, Karl	The free-energy principle: a unified brain theory?	2010	Nature publishing group		127--138			Nature reviews neuroscience	2			11	
+	article	ginsborg2012	Ginsborg, Hannah	Normativity of Meaning	2012	Oxford University Press		127--146			Proceedings of the Aristotelian Society. Supplementary Volume				86	
+	article	Koev2021	Koev, Todor	Gradient At-issueness vs. Uncertainty about Binary At-issueness	2021			130--140			Theoretical Linguistics				44	
+	article	lagasselevin2023	Lagasse, Eric and Levin, Michael	Future medicine: from molecular pathways to the collective intelligence of the body	2023	Elsevier		687--710			Trends in molecular medicine	9			29	
+	article	levinmartinez2019	Levin, Michael and Martinez Arias, Alfonso	Reverse-engineering growth and form in Heidelberg	2019	The Company of Biologists Ltd		dev177261			Development	14			146	
+	article	levin2019	Levin, Michael	The computational boundary of a “self”: developmental bioelectricity drives multicellularity and scale-free cognition	2019	Frontiers Media SA		2688			Frontiers in psychology				10	
+	article	levin2021	Levin, Michael	Life, death, and self: Fundamental questions of primitive cognition viewed through the lens of body plasticity and synthetic organisms	2021	Elsevier		114--133			Biochemical and Biophysical Research Communications				564	
+	article	levin2022	Levin, Michael	Technological approach to mind everywhere: an experimentally-grounded framework for understanding diverse bodies and minds	2022	Frontiers Media SA		768201			Frontiers in systems neuroscience				16	
+	article	manickalevin2022	Manicka, Santosh and Levin, Michael	Minimal developmental computation: a causal network approach to understand morphogenetic pattern formation	2022	MDPI		107			Entropy	1			24	
+	article	moltmann2013	Moltmann, Frederike	Propositions, attitudinal objects, and the distinction between actions and products	2013	University of Calgary Press		679--701			Canadian Journal of Philosophy	5/6			43	
+	article	moltmann2020	Moltmann, Frederike	Truthmaker semantics for natural language: Attitude verbs, modals, and intensional transitive verbs	2020	Mouton de Gruyter		159--200			Theoretical Linguistics	3-4			46	
+	article	nagel1974	Nagel, Thomas	What Is It Like to Be a Bat?	1974			435--450			The Philosophical Review	4			83	
+	article	pezzulolevin2016	Pezzulo, Giovanni and Levin, Michael	Top-down models in biology: explanation and control of complex living systems above the molecular level	2016	The Royal Society		20160555			Journal of The Royal Society Interface	124			13	
+	article	pietarinenbeni2021	Pietarinen, Ahti-Veikko and Beni, Majid D.	Active inference and abduction	2021	Springer		499--517			Biosemiotics	2			14	
+	article	quine1960	Quine, Willard Van Orman	Carnap and Logical Truth	1960			350--374			Synthese	4			12	
+	article	Rolf1980	Rolf, Bertil	A theory of vagueness	1980	Springer		315--325			Journal of Philosophical Logic	3			9	
+	article	watsonlevin2023	Watson, Richard and Levin, Michael	The collective intelligence of evolution and development	2023	Sage Publications Sage UK: London, England		2.63391372311684E+016			Collective Intelligence	2			2	
+	article	wright2001	Wright, Crispin	On being in a quandary. Relativism, vagueness, logical revisionism	2001			45--98			Mind	1			110	
+	article	Zardini2008a	Zardini, Elia	A Model of Tolerance	2008	Springer		337--368			Studia Logica	3			90	
+	article	Haack2005	Haack, Susan	Not cynicism, but synechism: Lessons from classical pragmatism	2005			239--253			Trans.  Charles S Peirce Soc. : A Quarterly Journal in American Philosophy	2			41	
+ru	article	Tsypanov2002	Цыпанов, Евгений Александрович	К вопросу о факторах, определяющих употребление I и II прошедших времен в коми языке	2002			165--175			Linguistica uralica				XXXVIII	
+ru	article	LeinonenTsypanov2007	Лейнонен, Марья and Цыпанов, Евгений Александрович	Грамматическая семантика эвиденциальности в коми языке (на материале модального перфекта)	2009			23--35			Linguistica uralica				XLV	
+	article	LeinonenVilkuna2008	Leinonen, Marija and Vilkuna, Maria	Past tenses in Permic languages	2008			495--514			Tense and Aspect in the Languages of Europe					
+	article	Anderson1986	Anderson, Lloyd B.	Evidentials, paths of change, and mental maps: typologically regular asymmetries	1986			273--312			Advances in Discourse Processes				20	
+	article	Matthewsonetal2007	Matthewson, Lisa and Davis, Henry and Rullmann, Hotze	Evidentials as epistemic modals: evidence from St’ ́at’imcets’	2007			201--254			Linguistic Variation Yearbook				7	
+	article	SauerlandSchenner2007	Sauerland, Uli and Schenner, Mathias	Embedded evidentials in Bulgarian	2007			495--509			Proceedings of Sinn und Bedeutung				11	
+	article	Koev2017	Koev, Todor	Evidentiality, Learning Events, and Spatiotemporal Distance: The View from Bulgarian	2017			1--41			Journal of Semantics	1			34	
+	article	Murray2014	Murray, Sarah	Varieties of update	2014			1--53			Semantics & Pragmatics	2			7	
+	article	vonFintelGillies2010	von Fintel, Kai and Gillies, Anthony S.	Must... stay... strong!	2010			350--383			Natural Language Semantics				18	
+ru	book	Ladov2008	Ладов, Всеволод Адольфович	Иллюзия значения: Проблема следования правилу в аналитической философии	2008	Изд-во Томcкого университета	Томск									
+	book	armstrongmalcolm1984	Armstrong, David Malet and Malcolm, Norman	Consciousness and Causality. A Debate on the Nature of Mind	1984	Basil Blackwell	Oxford									
+	book	austin1962	Austin, John Langshaw	How to Do Things with Words	1962	Clarendon Press	Oxford									
+	book	Bacon2018	Bacon, Andrew	Vagueness and Thought	2018	Oxford University Press	Oxford									
+	book	Dawkins1976	Dawkins, Richard	The Selfish Gene	1976	Oxford University Press	New York									
+	book	Dawkins2006	Dawkins, Richard	The God Delusion	2006	Transworld Publishers	Kent									
+	book	frege1964	Frege, Gottlob	The Basic Laws of Arithmetic	1964	University of California Press	Berkeley									
+	book	Jackendoff1972	Jackendoff, Ray S.	Semantic Interpretation in Generative Grammar	1972	MIT Press	Cambridge, Mass.									
+	book	moltmann2024	Moltmann, Frederike	Objects and Attitudes	2024	Oxford University Press	Oxford									
+	book	putnam1981	Putnam, Hilary	Reason, truth and history	1981	Cambridge University Press	Cambridge									
+	book	putnam1987	Putnam, Hilary	The Many Faces of Realism: The Paul Carus Lectures	1987	Open Court	LaSalle, Illinois									
+	book	williamson2022	Williamson, Timothy	The Philosophy of Philosophy. Second Edition	2022	Wiley-Blackwell	Hoboken and Chichester									
+ru	book	Bubrich1949	Бубрих, Дмитрий Владимирович	Грамматика литературного коми языка	1949	ЛГУ им. А. А. Жданова	Ленинград									
+ru	book	Serebrennikov1960	Серебренников, Борис Александрович	Категория времени и вида в финно-угорских языках пермской и волжской группы	1960	Наука	Москва									
+ru	book	Tsypanov2005	Цыпанов, Евгений Александрович	Грамматические категории глагола в коми языке	2005		Сыктывкар									
+	book	Aikhenvald2004	Aikhenvald, Alexandra	Evidentiality	2004	Oxford University Press	Oxford									
+	book	Peirce1966	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume VII. Science and Philosophy and Volume VIII. Reviews, Correspondence and Bibliography	1966	Belknap Press of Harvard University Press	Cambridge, MA			Burks, Arthur W.						
+	book	Peirce1960a	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume I. Principles of Philosophy and Volume II. Elements of Logic	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul						
+	book	Peirce1960b	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume V. Pragmatism and Pragmaticism and Volume VI. Scientific Metaphysics	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul						
+	book	Peirce1960c	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume III. Exact Logic (Published Papers) and Volume IV. The Simplest Mathematics	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul						
+ru	incollection	Kant1994	Кант, Иммануил	Логика, 1800	1994	Издательство «Чоро»	Москва	266--398	Кант И. Собрание сочинений в восьми томах. Том 8.	Гулыга, Арсений Владимирович						
+	incollection	bobrovapietarinen2019	Bobrova, Angelina and Pietarinen, Ahti-Veikko	Thoughts, things and logical guidance	2019	Springer	Cham	43--58	Peirce and Husserl: Mutual insights on logic, mathematics and cognition	Shafiei, Mohammad and Pietarinen, Ahti-Veikko					46	Logic, Epistemology, and the Unity of Science
+	incollection	Buring2007	Büring, Daniel	Intonation, semantics and information structure	2007	Oxford University Press	Oxford	445--474	The Oxford Handbook of Linguistic Interfaces	Ramchand, Gillian and Reiss, Charles						
+	incollection	Edgington1997	Edgington, Dorothy	Vagueness by degrees	1997	MIT Press	Cambridge, MA	294--316	Vagueness: A Reader	Keefe, Rosanna and Smith, Peter						
+	incollection	Hooper1975	Hooper, Joan B.	On assertive predicates	1975	BRILL	Leiden; Boston	91--124	Syntax and Semantics	Kimball, John P.					4	Syntax and Semantics
+	incollection	moltmann2023	Moltmann, Frederike	Attitudinal objects and propositions	2023	Routledge	New York and London	408--423	Routledge Handbook of Propositions	Tillman, Chris and Murray, Adam Russell						
+	incollection	Roberts1996	Roberts, Craige	Information structure: Towards an integrated formal theory of pragmatics	1996	The Ohio State University Department of Linguistics	Columbus, OH	91--136	Papers in Semantics	Yoon, Jae Hak and Kathol, Andreas					49	OSU Working Papers in Linguistics
+	incollection	ross1973	Ross, John Robert	Slifting	1973	Mouton de Gruyter	The Hague; Paris	133--169	The Formal Analysis of Natural Languages	Gross, Maurice and Halle, Morris and Schützenberger, Marcel-Paul						
+	incollection	Stalnaker1978	Stalnaker, Robert	Assertion	1978	Academic Press	New York	315--332	Pragmatics	Cole, Peter					9	Syntax and Semantics
+	incollection	Leinonen2000	Leinonen, Marija	Evidentiality in Komi Zyryan	2000	De Gruyter Mouton	Berlin, Boston	419--440	Evidentials: Turkic, Iranian and Neighbouring Languages	Johanson, Lars and Utas, Bo						
+	incollection	Grice1975	Grice, Paul	Logic and Conversation	1975	Academic Press	New York	43--58	Speech Acts	Cole, Peter and Morgan, Jerry L.					3	Syntax and Semantics
+	inproceedings	AnderBoisetal2010	AnderBois, Scott and Brasoveanu, Adrian and Henderson, Robert	Crossing the Appositive/At-issue Meaning Boundary	2010	Linguistic Society of America	Ithaca, NY	328--346	Proceedings of Semantics and Linguistic Theory 20	Li, Nan and Lutz, David					20	Proceedings of Semantics and Linguistic Theory
+	inproceedings	bellucciburton2020	Bellucci, Francesco and Burton, Jim	Observational advantages and occurrence referentiality	2020	Springer	Basel	202--215	Diagrammatic Representation and Inference. 11th International Conference, Diagrams	Pietarinen, Ahti-Veikko and Chapman, Peter and Bosveld-de Smet, Leonie and Giardino, Valeria and Corter, James and Linker, Sven					12169	Lecture Notes in Computer Science
+	inproceedings	Simonsetal2010	Simons, Mandy and Tonhauser, Judith and Beaver, David and Roberts, Craige	What projects and why	2010	Linguistic Society of America	Ithaca, NY	309--327	Proceedings of Semantics and Linguistic Theory 20	Li, Nan and Lutz, David					20	Proceedings of Semantics and Linguistic Theory
+	inproceedings	Izvorski1997	Izvorski, Roumyana	The present perfect as an epistemic modal	1997	Linguistic Society of America	Ithaca, NY	222--239	Proceedings of Semantics and Linguistic Theory 7	Lawson, Aaron					7	Proceedings of Semantics and Linguistic Theory
+	misc	levinetal2021	Levin, Michael and Keijzer, Fred and Lyon, Pamela and Arendt, Detlev	Uncovering cognitive similarities and differences, conservation and innovation	2021	The Royal Society		20200458			Philosophical Transactions of the Royal Society B	1821			376	
+	phdthesis	Zardini2008b	Zardini, Elia	Living on the slippery slope. The nature, sources and logic of vagueness	2008								University of St Andrews			
+ru	phdthesis	Subbota2008	Суббота, Клавдия Александровна	Глагол в ижемском диалекте коми языка: грамматические категории и словообразование (на материале казымского говора)	2008								ГОУ ВПО «Сыктывкарский Государственный Университет»			
+	phdthesis	Siegl2004	Siegl, Florian	The second past in the Permic languages: form, function, and a comparative analysis from a typological perspective	2004								University of Tartu			
+	phdthesis	Faller2002	Faller, Martina	Semantics and Pragmatics of Evidentials in Cuzco Quechua	2002								Stanford University			
+	phdthesis	Murray2010	Murray, Sarah	Evidentiality and the Structure of Speech Acts	2010								Rutgers University			
+	phdthesis	Garrett2001	Garrett, Edward John	Evidentiality and Assertion in Tibetan	2001								UCLA			
