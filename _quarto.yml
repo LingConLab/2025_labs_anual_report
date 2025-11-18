@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: result
+  output-dir: docs
 
 book:
   title: "ОТЧЕТ О НАУЧНО-ИССЛЕДОВАТЕЛЬСКОЙ РАБОТЕ"
