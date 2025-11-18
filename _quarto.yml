@@ -12,6 +12,7 @@ book:
     - index.qmd
     - 01_chapter.qmd
     - 02_chapter.qmd
+    - 03_chapter.qmd
     - 13_references.qmd
     
 bibliography: bibliography.bib

@@ -1,419 +1,495 @@
-NOTE	CATEGORY	BIBTEXKEY	AUTHOR	TITLE	YEAR	PUBLISHER	ADDRESS	PAGES	BOOKTITLE	EDITOR	JOURNAL	NUMBER	SCHOOL	URL	VOLUME	SERIES
-	article	RozovskayaRoth2019	Rozovskaya, A., Roth, D.	{G}rammar error correction in morphologically rich languages: {T}he case of {R}ussian	2019	MIT Press	Cambridge, Massachusetts	1–17	Transactions of the Association for Computational Linguistics	Asli Celikyilmaz, Roi Reichart and Dilek Hakkani Tur						
-	article	Kosakinetal2024	Kosakin, D., Obiedkov, S., Smirnov, I., Rakhilina, E., Vyrenkova, A., Zalivina, E.	{T}owards {E}rror-{C}ause {A}nnotation for {L}2 {R}ussian	2024	ELRA and ICCL	Torino, Italy	14240-14258	Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)	Nicoletta Calzolari, Min-Yen Kan, Veronique Hoste, Alessandro Lenci, Sakriani Sakti and Nianwen Xue						
-	article	Warrineretal2017	Warriner, A.B., Shore, D.I., Schmidt, L.A., Imbault, C.L., Kuperman, V.	{S}liding into happiness: a new tool for measuring affective responses to words	2017	CPA	Ottawa, Canada	71-88			Canadian Journal of Experimental Psychology	1			71	
-	article	BradleyLang1999	Bradley, M.M., Lang, P.J.	{A}ffective norms for {E}nglish words ({A}{N}{E}{W}): {I}nstruction manual and affective ratings	1999	University of Florida	US		Technical Report C-1							
-	article	CheekBuss1981	Cheek, J. M., Buss, A. H.	{S}hyness and sociability	1981	APA	Washington, D.C.	330–339			Journal of Personality and Social Psychology	41				
-	article	JolliffeFarrington2006	Jolliffe, D., Farrington, D. P.	{D}evelopment and validation of the {B}asic {E}mpathy {S}cale	2006	Wiley	USA	589–611			Journal of Adolescence	4			29	
-	article	CarverWhite1994	Carver, C. S., White, T. L.	{B}ehavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: {T}he {B}{I}{S}/{B}{A}{S} {S}cales	1994	APA	Washington, D.C.	319–333			Journal of Personality and Social Psychology	2			67	
-ru	incollection	NedjalkovJaxontov1983	Недялков, В. П. and Яхонтов, С. Е.	{Т}ипология результативных конструкций	1983	Наука	Ленинград	5–41	Типология результативных конструкций (результатив, статив, пассив, перфект)	Недялков, В. П.						
-ru	incollection	Volodin1969	Володин, А. П.	{К}аузативные глаголы и каузативные глагольные структуры в ительменском языке	1969	Наука	Ленинград	170–178	Типология каузативных конструкций. Морфологический каузатив	Холодович, А. А.						
-	article	PakendorfKrivoshapkina2014	Pakendorf, B. and Krivoshapkina, I. V.	{Ė}ven nominal evaluatives and the marking of definiteness	2014			289–331			Linguistic Typology	2			18	
-	article	KopeckaVuillermet2021	Kopecka, A. and Vuillermet, M.	{S}ource-{G}oal (a)symmetries across languages	2021			2–35			Studies in Language	1			45	
-	article	Ylikoski2016	Ylikoski, J.	{T}he origins of the western {U}ralic s-cases revisited: historiographical, functional-typological and {S}amoyedic perspectives	2016			6–78			Finnisch-Ugrische Forschungen				63	
-	book	NikolaevaTolskaya2001	Nikolaeva, I. and Tolskaya M.	{A} grammar of {U}dihe	2001	De Gruyter Mouton	Berlin, New York									Mouton Grammar Library [MGL]
-ru	booklet	EliseevZaitseva2007		{С}опоставительно-ономасиологический словарь диалектов карельского, вепсского, саамского языков	2007		Петрозаводск			Елисеев, Ю. С. and Зайцева, Н. Г.						
-ru	article	Okninaetal2025	Окнина, Л. Б. and Подлепич, В. В. and Вологдина, Я. О. and Зибер, И. А. and Машеров, Е. Л. and Слезкин, А. А. and Стрельникова, Е. В. and Канцерова, А. О.	{О}собенности восприятия собственного имени человеком по сравнению с восприятием имен сходного и отличного звучания: анализ потенциалов, связанных с событиями	2025			3–13			Физиология человека	2			51	
-ru	book	Gasparov1984	Гаспаров, М. Л.	{О}черк истории русского стиха: {М}етрика, ритмика, рифма, строфика	1984	Наука	Москва									
-	incollection	Zwicky1976	Zwicky, A. M.	{W}ell, this rock and roll has got to stop. {J}unior’s head is hard as a rock	1976	Chicago Linguistic Society	Chicago	676–697	Papers from the Twelfth Regional Meeting of the Chicago Linguistic Society	Mufwene, S. S. and Walker, C. A. and Steever, S. B.						
-	article	GrangerPaquot2010	Granger, S., Paquot, M.	{C}ustomising a general {E}{A}{P} dictionary to meet learner needs	2010	Presses universitaires de Louvain	Louvain	87–96	Lexicography in the 21st century: New challenges, new applications. Proceedings of ELEX2009	S. Granger & M. Paquot						
-	article	GrangerPaquot2015	Granger, S., Paquot, M.	{E}lectronic lexicography goes local: {D}esign and structures of a needs-driven online academic writing aid	2015			118-141			Lexicographica	31(1)				
-	article	Paquot2012	Paquot, M.	{T}he {L}{E}{A}{D} dictionary-cum-writing aid: {A}n integrated dictionary and corpus tool	2012	Oxford University Press	Oxford	163–186	Electronic lexicography	S. Granger & M. Paquot						
-	article	LinEtAl2023	Lin, Z., Chen, X., Pathak, D. et al.	{R}evisiting the {R}ole of {L}anguage {P}riors in {V}ision-{L}anguage {M}odels	2023									https://arxiv.org/abs/2306.01879		
-	article	SubbiahEtAl2024	Subbiah, M., Zhang, S., Chilton, L. B., McKeown, K.	{R}eading subtext: {E}valuating large language models on short story summarization with writers	2024			1290–1310			Transactions of the Association for Computational Linguistics				12	
-	article	Schmid2003	Шмид, В.	{Н}арратология	2003	Языки славянской культуры	Москва									
-	article	Lin2004	Lin, C. Y.	{ROUGE}: {A} package for automatic evaluation of summaries	2004			74–81	Text Summarization Branches Out							
-	article	PapineniEtAl2002	Papineni, K., Roukos, S., Ward, T., Zhu, W. J.	{BLEU}: {A} {M}ethod for {A}utomatic {E}valuation of {M}achine {T}ranslation	2002			311–318	Proc. of the 40th Annual Meeting of the Association for Computational Linguistics							
-	article	ZhangEtAl2019	Zhang, T., Kishore, V., Wu, F., Weinberger, K. Q., Artzi, Y.	{BERT}Score: {E}valuating text generation with {BERT}	2019						arXiv preprint arXiv:1904.09675					
-ru	article	BogdanovaBeglarianEtAl2016	Богданова-Бегларян, Н.В., Шерстинова, Т.Ю., Баева, Е.М., и др.	{Р}усский язык повседневного общения: особенности функционирования в разных социальных группах	2016	Лайка	Санкт-Петербург	244								
-ru	article	KarpovKipyatkova2012	Карпов, А.А., Кипяткова, И.С.	{М}етодология оценивания работы систем автоматического распознавания речи	2012			38-43			Известия высших учебных заведений. Приборостроение	11			55	
-	article	SherstinovaEtAl2024	Sherstinova, T., Mikhaylovskiy, N., Kolpashchikova, E., et al.	{B}ridging {G}aps in {R}ussian {L}anguage {P}rocessing: {AI} and {E}veryday {C}onversations	2024		Tampere, Finland	665-674	35th Conference of Open Innovations Association (FRUCT)							
-	article	BredinEtAl2019	Bredin, H., Yin, R., Coria, J.M., et al.	{P}yannote.audio: {N}eural building blocks for speaker diarization	2019									https://arxiv.org/abs/1911.01255		
-ru	article	Berger2017	Берджер, Д.	{З}ачем смотреть на животных?	2017	Ад Маргинем Пресс	Москва	160								
-ru	article	Krylova2023	Крылова, К.	{Р}ынок удобных животных	2023	НЛО	Москва	408								
-	article	Markowitz2020	Markowitz, D.M.	{P}utting your best pet forward: {L}anguage patterns of persuasion in online pet advertisements	2020			160-173			Journal of Applied Social Psychology	3			50	
-ru	article	Aznacheeva2011	Азначеева, Е.Н.	{А}стрологический дискурс: семиотический и когнитивный аспекты	2011			19-21			Вестник Челябинского государственного университета	33				
-ru	article	Vepreva2017	Вепрева, И.Т.	"{Б}азовый лексикон астрологического прогноза: о словах с ""размытым"" содержанием"	2017			57-63			Экология языка и коммуникативная практика	1				
-ru	article	Laletina2007	Лалетина, А.О.	«{Г}ороскоп» как гендерно-маркированный медиажанр	2007			288-294	Жанры и типы текста в научном и медийном дискурсе							
-	article	BirdKleinLoper2009	Bird, S., Klein, E., Loper, E.	{N}atural {L}anguage {P}rocessing with {P}ython	2009	O’Reilly Media Inc.								https://www.nltk.org/book		
-ru	article	LukashevichLevchik2016	Лукашевич, Н.В., Левчик, А.В.	{С}оздание лексикона оценочных слов русского языка {Р}у{С}ентилекс	2016			377-382	Труды конференции OSTIS-2016							
-	article	HuLiu2004	Hu, M., Liu, B.	{M}ining opinion features in customer reviews	2004			755-760	Proceedings of AAAI Conference on Artificial Intelligence						4	
-ru	article	KolmogorovaEtAl2024	Колмогорова, А.В., Колмогорова, П.А., Куликова, Е.Р.	{О} прошлом, но в разное время: компьютерный анализ текстов учебников по истории {СССР}/ {Р}оссии для шести поколений студентов	2024			73-103			Вестник Томского государственного университета. Филология	89				
-	article	Ling2016	Ling, Y.S.C.	{T}he use of modal auxiliary verbs in horoscope: a corpus-based study	2016						Issues in Language Studies	2			5	
-ru	article	MartynenkoEtAl2018	Мартыненко, Г.Я., Шерстинова, Т.Ю., Мельник, А.Г., Попова, Т.И.	{М}етодологические проблемы создания компьютерной антологии русского рассказа как языкового ресурса для исследования языка и стиля русской художественной прозы в эпоху революционных перемен (первой трети XX века)	2018			97-102			Компьютерная лингвистика и вычислительные онтологии	2				
-ru	article	MartynenkoEtAlTEL2018	Мартыненко, Г.Я., Шерстинова, Т.Ю., Попова, Т.И., Мельник, А.Г., Замирайлова, Е.В.	{О} принципах создания корпуса русского рассказа первой трети XX века	2018			180-197	Труды XV Международной конференции по компьютерной и когнитивной лингвистике «TEL 2018»							
-	article	Skrebtsova2020	Skrebtsova, T.	{T}hematic {T}agging of {L}iterary {F}iction: {T}he {C}ase of {E}arly 20th {C}entury {R}ussian {S}hort {S}tories	2020			265-276	CEUR Workshop Proceedings: Proceedings of the International Conference 'Internet and Modern Society' (IMS-2020)						2813	
-ru	article	SherstinovaEtAl2023	Шерстинова, Т.Ю., Колпащикова, Е.О., Сейнова, А.Р., Максименко, П.И., Родионов, Р.А.	{Р}усский рассказ 1900-1930-х и его восприятие читателем: опыт квантитативного анализа оценки художественного текста	2023			164-184			Человек: Образ и сущность. Гуманитарные аспекты	2 (54)				
-	article	Ekman1999	Ekman, P.	{F}acial {E}xpressions	1999	Wiley	Chichester	301-320	Handbook of Cognition and Emotion							
-ru	article	KirinaLukianchikova2024	Кирина, М.А., Лукьянчикова, А.С.	{Г}олос эпохи: лингвостатистические показатели прямой речи в русском рассказе XX века	2024	Балтийский федеральный университет им. И. Канта	Калининград	69-73	Восьмая Калининградская школа по гуманитарной информатике. Сборник докладов. Калининград, 12–14 декабря 2024 года							
-ru	article	SherstinovaKirinaHl2023	Шерстинова, Т.Ю., Кирина, М.А., Хлусова, Я.К.	{К}орпус русского рассказа как база для проведения социолингвистических исследований русской литературы	2023	Сибирский федеральный университет	Красноярск	200-211	Информационные технологии в гуманитарных исследованиях: Материалы Международной научно-практической конференции, Красноярск, 25–28 сентября 2023 г.							
-	article	MoskvinaKirina2024	Moskvina, A., Kirina, M.	{F}ear and {L}oathing in {R}ussian {L}iterature: {A} {C}ase of {E}motion {A}nnotation of {S}hort {S}tories of the 20th {C}entury	2024	Springer Nature Switzerland	Cham	113-129	International Conference on Internet and Modern Society							
-ru	article	Delazari2023	Делазари, И.	{К}омиксы на слух: диегетический звук как трансмедиальная категория	2023			118-132			Новое литературное обозрение	1			179	
-ru	article	Sherstinova2019	Шерстинова, Т.Ю.	{Б}иографическая база данных русских писателей (к созданию корпуса русского рассказа XX века)	2019			439-447	Корпусная лингвистика-2019							
-	article	MoskvinaKirina2025	Moskvina, A., Kirina, M.		2025											
-ru	article	SherstinovaPetrova2023	Шерстинова, Т.Ю., Петрова, И.А.	{М}оделирование повседневного речевого поведения: Корпус устной речи молодежи, или ОРД V. 2.0	2023						Социо- и психолингвистические исследования				11	
-	article	AsinovskyEtAl2009	Asinovsky, A., et al.	{T}he ORD {S}peech {C}orpus of Russian Everyday Communication 'One Speaker’s Day': {C}reation {P}rinciples and {A}nnotation	2009	Springer		250-257	Text, Speech and Dialogue: 12th International Conference (TSD 2009)							
-	article	Sherstinova2009	Sherstinova, T.	{T}he {S}tructure of the ORD {S}peech {C}orpus of Russian Everyday Communication	2009	Springer		258-265	International Conference on Text, Speech and Dialogue							
-	article	BogdanovaBeglarianEtAl2016	Bogdanova-Beglarian, N., et al.	{S}ociolinguistic {E}xtension of the ORD {C}orpus of Russian Everyday Speech	2016	Springer		659-666	Speech and Computer: 18th International Conference (SPECOM 2016), 23 - 27 August 2016, Budapest, Hungary							
-ru	article	BogdanovaBeglarianEtAlORD2019	Богданова-Бегларян, Н.В., и др.	{К}орпус русского языка повседневного общения «Один речевой день» (ОРД): текущее состояние и перспективы	2019			100-110	Труды Института русского языка им. В. В. Виноградова						21	
-ru	article	Sherstinova2013	Шерстинова, Т.Ю.	{К}оммуникативные макроэпизоды в корпусе повседневной русской речи «Один речевой день»: принципы аннотирования и результаты статистической обработки	2013		СПб	449-456	Корпусная лингвистика-2013: тр. междунар. конф.							
-	article	Alsha2005	Al–Shaer, I.	The Collapse of Grammatical Rules Under the Pressure of Semantic Content: Subject-Verb Concord	2005			295-314			An-Najah University Journal for Research - B (Humanities)	19(1)				
-	book	Biber1999	Biber, D., Johansson, S., Leech, G., Conrad, S., Finegan, E., & Quirk, R.	Longman grammar of spoken and written English	1999	Longman										
-	book	Murcia2008	Celce-Murcia, M., Larsen-Freeman, D.	The grammar book	2008	Thomson Learning Ltd.										
-	book	Cohen1988	Cohen, J.	Statistical Power Analysis for the Behavioral Sciences (2nd ed.)	1988	Routledge										
-	article	Fernandez2017	Fernández-Pena, Y. 	Exploring the patterns of verbal agreement of collective noun-headed subjects in a parsed corpus of Present-Day English	2017			325–334	EPiC Series in Language and Linguistics	Chelo Vargas-Sierra		2				
-	article	Fernandez2022	Fernández-Pena, Y.	Modelling verb number agreement variation with complex collective subjects in inner-circle varieties of English	2022	Peter Lang		125-153	Perspectives on contemporary English: Structure, variation, cognition	M. Krug, V. Werner, O. Schützler y F. Vetter						
-	article	Gao2016	Gao, X.	A cross-disciplinary corpus-based study on English and Chinese native speakers' use of linking adverbials in academic writing	2016			14-28			Journal of English for Academic Purposes	24				
-	article	Gong2024	Gong, Z., Liu, Y., & Liu, Y.	A comparative study of research questions written by L1 English authors and Chinese EFL scholars	2024			101383			Journal of English for Academic Purposes	69				
-	article	Kodera2020	Kodera, M.	An Overview of the Count/Noncount Distinction of English Nouns	2020			23-51			阪南論集. 人文・自然科学編	55(2)				
-	book	Levin2001	Levin, M.	Agreement with collective nouns in English	2001	Lund University	Lund									
-	article	Morallo2022	Morallo, A.B.	Corpus-based investigation of S-V concord patterns of nouns with Latin plural endings	2022			97-116			Malaysian Journal of ELT Research	19(2)				
-	article	Tsang2017	Tsang, A.	Judgement of countability and plural marking in English by native and non-native English speakers	2017			343-359			Language Awareness	26(4)				
-	article	Afros2009	Afros, E., Schryer, C. F.	Promotional (meta)discourse in research articles in language and literary studies	2009			58–68			English for Specific Purposes	28(1)				
-	book	Bhatia1993	Bhatia, V. K.	Analysing genre: Language use in professional settings	1993	Longman										
-	article	Cao2021	Cao, X., Lei, L., Wen, J.	Promoting science with linguistic devices: A large-scale study of positive and negative words in academic writing	2021			82–88			Learned Publishing	34(2)				
-	book	Faircough1993	Fairclough, N.	Discourse and social change	1993	Polity Press										
-	article	Hyland2005	Hyland, K.	Stance and engagement: A model of interaction in academic discourse	2005			173–192			Discourse Studies	7(2)				
-	article	Hyland2008	Hyland, K.	Metadiscourse: Exploring interaction in writing	2008						Continuum					
-	article	Hyland2021	Hyland, K., Jiang, F.	‘Our striking results demonstrate …’: Persuasion and the growth of academic hype	2021			189–202			Journal of Pragmatics	182				
-	article	Martin2014	Martín, P., León Pérez, I. K.	Convincing peers of the value of one’s research: A genre analysis of rhetorical promotion in academic texts	2014			1–13			English for Specific Purposes	34				
-	article	Millar2020	Millar, N., Budgell, B., Salager-Meyer, F.	Hype in reports of clinical research: The authors’ perspectives	2020			53–64			English for Specific Purposes	60				
-	article	Pho2008	Pho, P. D.	Research article abstracts in applied linguistics and educational technology: A study of linguistic realizations of rhetorical structure and authorial stance	2008			231–250			Discourse Studies	10(2)				
-	article	Wang2015	Wang, W., Yang, C.	Claiming centrality as promotion in applied linguistics research article introductions	2015			162–175			Journal of English for Academic Purposes	20				
-	article	Xie2023	Xie, S., Mi, C.	Promotion and caution in research article abstracts: The use of positive, negative and hedge words across disciplines and rankings	2023			249–265			Learned Publishing	36(2)				
-	book	Austin1962	Austin, J. L.	How to Do Things with Words: The William James Lectures Delivered at Harvard University	1962	Harvard University Press	Cambridge, M.A.									
-	book	Charteris2011	Charteris-Black, J.	Politicians and Rhetoric: The Persuasive Power of Metaphor	2011	Palgrave Macmillan	London									
-	book	Claridge2011	Claridge, C.	Hyperbole in English: A Corpus-based Study of Exaggeration	2011	Cambridge University Press	Cambridge									
-	article	Claridge2018	Claridge, C.	Lying, Metaphor, and Hyperbole	2018	Oxford University Press	Oxford	370–381	The Oxford Handbook of Lying	Jörg Meibauer						
-	book	Cruse2004	Cruse, A.	Meaning in Language: An Introduction to Semantics and Pragmatics	2004	Oxford University Press	Oxford									
-	article	DSM2019	Da San Martino, G., Yu, A., Barrón-Cedeño, A., Petrov, R., Nakov, P.	Fine-Grained Analysis of Propaganda in News Articles	2019	Association for Computational Linguistics.	Hong Kong, China	5636–5646	Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)	Inui, K., Jiang, J., Ng, V.,  Wan, X.						
-	article	Dayter2025a	Dayter, D., Rüdiger, S.	Corpus Linguistics and Persuasion	2025a	Elsevier	Amsterdam		International Encyclopedia of Language and Linguistics, 3rd ed. 	Nesi, H., Milin, P.						
-	article	Dayter2025b	Dayter, D., Rüdiger, S.	Persuasion and Influence in Linguistic Research	2025b	Cambridge University Press	Cambridge	3-18	Manipulation, Influence and Deception: The Changing Landscape of Persuasive Language	Rüdiger, S., Dayter, D.						
-	article	Dubois2014	Du Bois, J. W.	Towards a Dialogic Syntax	2014			359 – 410			Cognitive Linguistics	25(3)				
-	book	Faircough2010	Fairclough, N.	Critical Discourse Analysis: The Critical Study of Language. 2nd ed.	2010	Routledge	London									
-	article	Fuertes2001	Fuertes-Olivera, P. A., Velasco-Sacristán, M., Arribas-Baño, A., Samaniego-Fernández E.	Persuasion and Advertising English: Metadiscourse in Slogans and Headlines	2001			1291–1307			Journal of Pragmatics	33(8)				
-	article	Garassino2024	Garassino, D., Masia, V., Brocca, N., Delorme Benites A.	Politicians vs ChatGPT: A Study of Presuppositions in French and Italian Political Communication	2024						AI-Linguistica	1(1)				
-	article	Giora2015	Giora, R., Givoni, S., Fein O.	Defaultness Reigns: The Case of Sarcasm	2015			290–313			Metaphor & Symbol	30(4)				
-	book	Grice1975	Grice, P. H. 	Logic and Conversation	1975	Academic Press	New York	41–58			Syntax and Semantics	3				
-	book	Grieve2023	Grieve, J., Woodfield, H.	The Language of Fake News. Elements in Forensic Linguistics	2023	Cambridge University Press	Cambridge									
-	book	Jewett2006	Jowett, G., O’Donnell, V.	Propaganda and Persuasion	2006	Sage	Thousand Oaks									
-	article	Koteyko2015	Koteyko, I.	The Language of Press Advertising in the UK: A Multi-dimensional Study	2015			259–283			Journal of English Linguistics	43(4)				
-	article	Kuiken2017	Kuiken, J., Schuth, A., Spitters, M., Marx, M.	Effective Headlines of Newspaper Articles in a Digital Environment	2017			1300–1314			Digital Journalism	5(10)				
-	book	Lakoff1980	Lakoff, G., Johnson, M.	Metaphors We Live by	1980	University of Chicago Press	Chicago									
-	book	Lakoff1982	Lakoff, R.	Persuasive Discourse and Ordinary Conversation, with Examples from Advertising	1982	Georgetown University Press	Washington	25–42	Analyzing Discourse: Text and Talk	Tannen, D.						
-	article	Piskorski2023	Piskorski, J., Stefanovitch, N., Nikolaidis, N., Da San Martino, G., Nakov, P.	Multilingual Multifaceted Understanding of Online News in Terms of Genre, Framing, and Persuasion Techniques	2023			3001–3022	Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)							
-	article	Benali2021	Benali, A.	The Impact of Using Automated Writing Feedback in ESL/EFL Classroom Contexts	2021			189			English Language Teaching	14(12)				
-	article	Clark2020	Clark, K., Luong, M.-T., Le, Q. V., Manning, C. D.	ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators. Version Number: 1	2020											
-	article	Raffel2023	Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W.,and Liu, P. J. 	Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer	2023				arXiv:1910.10683							
-	article	Rothe2021	Rothe, S., Mallinson, J., Malmi, E., Krause, S., Severyn, A. 	A simple recipe for multilingual grammatical error correction	2021			702–707	Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)	Zong, C., Xia, F., Li, W., and Navigli, R.						
-	article	Touvron2023	Touvron, H., Lavril, T., Izacard, G., Martinet, X., Lachaux, M.-A., Lacroix, T., Rozière, B., Goyal, N., Hambro, E., Azhar, F., Rodriguez, A., Joulin, A., Grave, E., and Lample, G.	Llama: Open and efficient foundation language models	2023											
-	article	Vinogradova2017	Vinogradova, O., Login, N.	The Design of Tests with Multiple Choice Questions Automatically Generated from Essays in a Learner Corpus	2017						SSRN Electronic Journal					
-	article	Vinogradova2022	Vinogradova, O., Lyashevskaya, O. 	Review of Practices of Collecting and Annotating Texts in the Learner Corpus REALEC	2022	Springer International Publishing		77–88		Sojka, P., Horák, A., Kopeček, I., Pala, K.	Lecture Notes in Computer Science: Text, Speech, and Dialogue	13502				
-	article	Wang2020	Wang, E. L., Matsumura, L. C., Correnti, R., Litman, D., Zhang, H., Howe, E., Magooda, A., Quintana, R.	eRevis(ing): Students’ revision of text evidence use in an automated writing evaluation system	2020			100449			Assessing Writing	44				
-	article	Woodworth2020	Woodworth, J., Barkaoui, K.	Perspectives on Using Automated Writing Evaluation Systems to Provide Written Corrective Feedback in the ESL Classroom	2020			234–247			TESL Canada Journal	37(2)				
-	article	Yuan2021	Yuan, Z., Taslimipoor, S., Davis, C., Bryant, C. 	Multi-Class Grammatical Error Detection for Correction: A Tale of Two Systems	2021			8722–8736	Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing							
-	article	Gerdes2021	Gerdes K., Sylvain K., Xinying C. 	Typometrics: From Implicational to Quantitative Universals in Word Order Typology	2021			1–31			Glossa: a journal of general linguistics	6(1)				
-	book	aikhenvald2010	Aikhenvald, Alexandra Y.	Imperatives and commands	2010	Oxford University Press	Oxford									
-	book	bammatovgadzhiaxmedov2013	Bammatov, Burgan G., Gadžiaxmedov, Nurmagomed È.	Kumyksko-russkij slovarʹ [Kumyk-Russian dictionary]	2013	IJaLI	Makhachkala									
-	inbook	dingemanse2023	Dingemanse, Mark	Interjections	2023	Oxford University Press	Oxford	477–491	The Oxford Handbook of Word Classes	Eva van Lier				https://til.im/ru/slovar		
-	inbook	dobrushina2019	Dobrushina, Nina	Moods of Mehweb	2019	Language Science Press	Berlin	117–165	The Mehweb language. Essays on phonology, morphology and syntax	Michael Daniel, Nina Dobrushina, Dmitry Ganenkov						
-	book	ganieva2002	Ganieva, Faida A.	Xinalugsko-russkij slovarʹ [Khinalug-Russian dictionary]	2002	DNC RAN	Makhachkala									
-	book	gusev2013	Gusev, Valentin Ju.	Tipologija imperativa [Typology of the imperative]	2013	Jazyki slavjanskoj kulʹtury	Moscow									
-	book	jusupov2014	Jusupov, Xizri A.	Darginsko-russkij slovarʹ (rukopisʹ) [Dargwa-Russian dictionary (manuscript)]	2014	Institut istorii, jazyka i literatury im. G. Cadasy.	Makhachkala									
-	book	talibovgadzhiev1966	Talibov, Bukar B., Gadžiev, Magomed M.	Lezginsko-russkij slovarʹ [Lezgian-Russian dictionary]	1966	Sovetskaja Ènciklopedija	Moscow									
-	book	xalilovisakov2005	Xalilov, Madžid Š., Isakov, Isak A.	Ginuxsko-russkij slovarʹ [Hinuq-Russian dictionary]	2005	DNC RAN Institut jazyka, literatury i iskusstva im. G. Cadasy i Institut èvoljucionnoj antropologii im. M. Planka	Makhachkala									
-	article	zerzele2024	Zerzele, Vasiliy	Plural marking on imperatives and prohibitives	2024	Linguistic Convergence Laboratory	Moscow		Typological Atlas of the Languages of Daghestan (TALD)	Michael Daniel, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato, Samira Verhees						
-	inbook	arkadievpanova2024	Arkadiev Peter, Panova Anastasia	Independent pronouns in languages with pronominal affixes: Evidence from Abaza	2024	Буки Веди	Москва	30–58	Состав науки: Сборник статей к юбилею Веры Исааковны Подлесской	Коротаев Н. А., Сумбатова Н. Р.						
-	article	bickel2003	Bickel, Balthasar	Referential Density in Discourse and Syntactic Typology	2003			708–736			Language	4		doi:10.1353/lan.2003.0205	79	
-	inbook	givon1983	Givón, Talmy	Topic continuity in discourse: The functional domain of switch-reference	1983	John Benjamins Publishing Company	Amsterdam	51–82	Switch reference and universal grammar	Haiman John, Munro Pamela				doi:10.1075/tsl.2.06giv	2	
-	book	kibrik2011	Kibrik, Andrej	Reference in Discourse	2011	Oxford University Press	Oxford							doi:10.1093/acprof:oso/9780199215805.001.0001		
-	inproceeding	kibrik1999	Kibrik, Andrej A.	Cognitive inferences from discourse observations: Reference and working memory	1999	Benjamins	Amsterdam	29-52	Discourse studies in cognitive linguistics. Proceedings of the 5th International cognitive linguistics conference	K. van Hoek, A.A. Kibrik, and L. Noordman						
-	article	kibrik1997	Кибрик, Андрей Александрович	Моделирование многофакторного процесса: выбор референциального средства в русском дискурсе	1997			94–105			Вестник Московского университета	4				
-	book	alekseevetal2012	Алексеев М. Е., Атаев Б. М., Магомедов М. А., Магомедов М. И., Мадиева Г. И., Саидова П. А., Самедов Дж. С.	Современный аварский язык	2012	ИЯЛИ ДНЦ РАН, Изд-во АЛЕФ	Махачкала									
-	phdthesis	zakirova2023	Zakirova A.	Number marking across different word classes in the East Caucasian languages	2023	HSE University	Moscow									
-	book	sumbatovamutalov2003	Sumbatova N. R., Mutalov R. O.	A grammar of Icari Dargwa	2003	Lincom Europa										
-	book	kazenin2013	Казенин К. И.	Синтаксис современного лакского языка	2013	ИЯЛИ им. Г. Цадасы ДНЦ РАН; Алеф	Махачкала									
-	phdthesis	babaliyeva2013	Babaliyeva A.	Études sur la morphosyntaxe du Tabasaran Littéraire	2013	École Pratique des Hautes Études										
-	inbook	johanson1998	Johanson, L.	The structure of Turkic	1998	Routledge		30–66	The Turkic languages	L. Johanson, É. Á. Csató						
-ru	book	abdullaevaetal2014	Абдуллаева А. З., Гаджиахмедов Н. Э., Кадыраджиев К. С., Керимов И. А., Ольмесов Н. Х., Хангишиев Д. М.	Современный кумыкский язык	2014	ИЯЛИ ДНЦ РАН	Махачкала			Н. Э. Гаджиахмедов						
-ru	book	zaikovrugoeva1999	Зайков П. М., Ругоева Л. И.	Карельско-русский словарь	1999	Периодика	Петрозаводск									
-	book	rieseetal2022	Riese T., Bradley J., Yefremova T.	Mari. An Essential Grammar for International Learners	2022	University of Vienna								grammar.mari-language.com		
-ru	book	oslon2018	Ослон М. В.	Язык котляров-молдован. Грамматика кэлдэрарского диалекта цыганского языка в русскоязычном окружении	2018	Издательский Дом ЯСК	Москва									
-	article	batesetal2015	Bates D., Mächler M., Bolker B., Walker S.	Fitting Linear Mixed-Effects Models Using lme4	2015			1–48			Journal of Statistical Software	1			67	
-	article	nakagawaschielzeth2013	Nakagawa S., Schielzeth H.	A general and simple method for obtaining R2 from generalized linear mixed-effects models	2013			133–142			Methods Ecol Evol.	4				
-	article	luebbering2013	Luebbering, C. R.	Displaying the geography of language: the cartography of language maps	2013			39-67			The Linguistics Journal	1			7	
-	manual	moroz2017	Moroz, George	lingtypology: easy mapping for Linguistic Typology [R package]	2017											
-	inbook	drude2018	Drude, S.	Why we need better language maps, and what they could look like.	2018	FEL & EL Publishing	London	33-40	Endangered languages and the land: Mapping landscapes of multilingualism							
-	inbook	macaulay2014	Macaulay, R. K.	Linguistic maps: Visual aid or abstract art?	2014	Routledge		172-186	Studies in Linguistic Geography							
-	article	naccaratoverhees2021	Naccarato Chiara, Samira Verhees 	Morning greetings	2021	Linguistic Convergence Laboratory	Moscow		Typological Atlas of the Languages of Daghestan (TALD)	Michael Daniel, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato, Samira Verhees				10.5281/zenodo.6807070		
-	article	meulemansetal2020	Meulemans, W., Sondag, M., & Speckmann, B.	A simple pipeline for coherent grid maps	2020			1236-1246			IEEE Transactions on Visualization and Computer Graphics	2			27	
-	article	loecherropkins2015	Loecher, M., & Ropkins, K.	RgoogleMaps and loa: Unleashing R graphics power on map tiles	2015			1-18			Journal of Statistical Software				63	
-	article	mcneillhale2017	McNeill, G., & Hale, S. A.	Generating tile maps	2017			435-445			Computer graphics forum	3			36	
-	inbook	peterson2011	Peterson, M. P.	The tile-based mapping transition in cartography	2011	Springer Berlin Heidelberg	Berlin, Heidelberg	151-163	Maps for the Future: Children, Education and Internet							
-	article	panse2018	Panse, C.	Rectangular statistical cartograms in R: The recmap package	2018			1-27			Journal of Statistical Software				86	
-	article	moroz2021	Moroz, George 	On phonology of East Caucasian languages	2021	Linguistic Convergence Laboratory	Moscow		Typological Atlas of the Languages of Daghestan (TALD)	Michael Daniel, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato, Samira Verhees						
-	misc	bates2014	Bates, D.	Fitting linear mixed-effects models using lme4	2014									https://arxiv.org/abs/1406.5823		
-	inbook	caponigropearl2008	Caponigro, I., & Pearl, L.	Silent prepositions: Evidence from free relatives.	2008			365–385	The Syntax and  Semantics of Spatial P					https://chooser.crossref.org/?doi=10.1075%2Fla.120.18cap		
-	article	danieletal2010	Daniel, M., Dobrushina, N., & Knyazev, S.	Highlanders’ Russian: Case study in bilingualism  and language interference in Central Daghestan	2010			65-93			Slavica Helsingiensia				40	
-	article	gehrkelekakou2013	Gehrke, B., & Lekakou, M.	How to miss your preposition	2013			92-106			Studies in Greek Linguistics			https://www.academia.edu/2092553/How_to_miss_your_preposition_with_Marika_Lekakou_	33	
-	inproceeding	khomchenkovaetal2018	Khomchenkova, I., Pleshak, P., & Stoynova, N.	Gender disagreement in the contactinfluenced Russian of Northern Siberia and Russian Far East	2018			14–15	Theoretical and Experimental Approaches to Gender							
-	book	levshina2015	Levshina, N.	How to do linguistics with R	2015	John Benjamins								https://doi.org/10.1075/z.195.website 		
-	article	naccaratomoroz2025	Naccarato, C., & Moroz, G.	Non-standard numeral constructions in L2 Russian: A corpusbased study	2025						International Journal of Bilingualism			https://doi.org/10.1177/13670069251323203		
-	article	panovaphilippova2021	Panova, A., & Philippova, T.	When a cross-linguistic tendency marries incomplete acquisition: Preposition drop in Russian spoken in Daghestan	2021			640-667			International Journal of Bilingualism	3		https://doi.org/10.1177/1367006921990442		
-	inbook	savelyev2020	Savelyev, A.	Chuvash and the Bulgharic languages	2020			446-464	The Oxford Guide to the Transeurasian Languages					https://doi.org/10.1093/oso/9780198804628.003.0028		
-	inbook	shagal2016	Shagal, K.	Contact-induced grammatical phenomena in the Russian of Erzya Speakers	2016	University of Helsinki	Helsinki	363–377	Mordvin languages in the field							
-ru	inbook	andreev1961	Андреев, Н. А.	Краткий грамматический очерк чувашского языка.	1961	Государственное издательство иностранных и национальных словарей			Чувашско-русский словарь							
-ru	book	ashmarin1903	Ашмарин, Н. И.	Опыт исследования чувашского синтаксиса: часть первая	1903	Типолитография Клучникова										
-ru	inbook	bubrikh1985	Бубрих, Д. В.	Русский язык в его отличиях от мордовского.	1985	Мордов. кн. изд-во		146–165	Проблемы мордовско-русского билингвизма							
-ru	book	myiznikov2005	Мызников, С. А.	Русские говоры Среднего Поволжья	2005	Наука										
-ru	book	pavlov2017	Павлов, И. П.	Современный чувашский язык (Vol. 2)	2017	Чувашский гос. ин-т гуманитарных наук										
-ru	book	rezyukov1959	Резюков, Н. А.	Сопоставительная грамматика чувашского и русского языков.	1959	Гос.  изд. Чувашской АССР										
-ru	article	stoynovashluinskiy2010	Стойнова, Н. М., & Шлуинский, А. Б.	Русская речь лесных энцев: зарисовки исследователей вымирающего языка	2010			153–165			Slavica Helsingiensia					
-ru	misc	corpus2020a	Архангельский Т. А.	Корпус русской речи бесермян.	2020	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва									
-ru	misc	corpus2018a	Байда (Иванова) К. А., Холодилова М. A., Егорова (Кожемякина) А. Д., Романова Е. А., Ремизова Т. Е., Сторожева А. А., Тарасова Н. К., Зорина В. А., Морозова В. А., Панова А. Б., Добрушина Н. Р.	Корпус русской речи Чувашии.	2018	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва									
-ru	misc	corpus2022	Влахов А. В, Лапина М. С., Смирнова А. А. Елагина А. А., Мордасов М. А., Рыжков А. М., Булгаков Г. П., Смирнова Е. В., Тимошина А. А.	Корпус русской речи Карелии.	2022	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва									
-ru	misc	corpus2023	Волкова А. А.	Корпус русской речи республики Марий Эл.	2023	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва									
-ru	misc	corpus2018b	Добрушина Н. Р., Даниэль М. А., Р. фон Вальденфельс, Майсак Т. А., Панова А. Б.	Корпус русской речи Дагестана.	2018	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва									
-ru	misc	corpus2020b	Кожанов К. А., Хадасевич А. С., Черных А. В.	Корпус цыганского русского.	2020	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва									
-ru	misc	corpus2019	Сокур Е. О., Морозова В. А.	Корпус русской речи Башкортостана.	2019	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва									
-ru	misc	ruscorpus		Национальный корпус русского языка										https://ruscorpora.ru/		
-	misc	wals		WALS Online	2013					Dryer, Matthew S. & Haspelmath, Martin				https://doi.org/10.5281/zenodo.13950591		
-	misc	dagatlas	Daniel, Michael, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato, and Samira Verhees	Typological Atlas of the Languages of Daghestan (TALD), v. 2.0.0.	2025	Linguistic Convergence Laboratory, NRU HSE	Moscow							https://lingconlab.ru/tald		
-ru	book	kibrik2001	Кибрик, А. Е.	Багвалинский язык: грамматика, тексты, словари	2001	ИМЛИ РАН Наследие	Москва									
-ru	article	Borisov2024a	Борисов, Евгений Васильевич	Прямое решение проблемы Крипке	2024			23--32			Эпистемология и философия науки	2			61	
-ru	article	Borisov2024b	Борисов, Евгений Васильевич	Ответ оппонентам	2024			89--94			Эпистемология и философия науки	2			61	
-ru	article	Ladov2024	Ладов, Всеволод Адольфович	Значение: реализм vs скептицизм	2024			43--50			Эпистемология и философия науки	2			61	
-	article	Achouriotietal2014	Achourioti, Theodora and Fugard, Andrew J. B. and Stenning, Keith	The Empirical Study of Norms Is Just What We Are Missing	2014			1--15			Frontiers in Psychology				5	
-	article	AnderBoisetal2015	AnderBois, Scott and Brasoveanu, Adrian and Henderson, Robert	At-issue proposals and appositive impositions in discourse	2015			93--138			Journal of Semantics	1			32	
-	article	Asher2000	Asher, Nicholas	Truth conditional discourse semantics for parentheticals	2000			31--50			Journal of Semantics	1			17	
-	article	belluccipietarinen2016	Bellucci, Francesco and Pietarinen, Ahti-Veikko	Existential graphs as an instrument of logical analysis: Part I. Alpha	2016	Cambridge University Press		209--237			The Review of Symbolic Logic	2			9	
-	article	Buring2003	Büring, Daniel	On d-trees, beans, and b-accents	2023			511--545			Linguistics and Philosophy	5			26	
-	article	cannizzaro2016	Cannizzaro, Sara	Internet memes as internet signs: A semiotic view of digital culture	2016	Ulikooli Kirjastus	Tartu	562--586			Sign Systems Studies	4			44	
-	article	clawsonlevin2023	Clawson, Wesley P. and Levin, Michael	Endless forms most beautiful 2.0: teleonomy and the bioengineering of chimaeric and synthetic organisms	2023	Oxford University Press UK		457--486			Biological Journal of the Linnean Society	4			139	
-	article	conant1991	Conant, James	In Search of Logical Alien Thought -- Descartes, Kant, Frege and the Tractatus	1991			115--180			Philosophical Topics	1			20	
-	article	davies2023	Davies, Jamie and Levin, Michael	Synthetic morphology with agential materials	2023	Nature Publishing Group UK London		46--59			Nature Reviews Bioengineering	1			1	
-	article	ebrahimkhani2021	Ebrahimkhani, Mo R and Levin, Michael	Synthetic living machines: A new window on life	2021	Elsevier		102505			Iscience	5			24	
-	article	FarkasBruce2010	Farkas, Donka F. and Bruce, Kim B.	On Reacting to Assertions and Polar Questions	2010			81--118			Journal of Semantics				27	
-	article	fieldsetal2021	Fields, Chris and Glazebrook, James F and Levin, Michael	Minimal physicalism as a scale-free substrate for cognition and consciousness	2021	Oxford University Press		niab013			Neuroscience of Consciousness	2			2021	
-	article	friston2009	Friston, Karl	The free-energy principle: a rough guide to the brain?	2009	Elsevier		293--301			Trends in cognitive sciences	7			13	
-	article	fristonetal2016	Friston, Karl and FitzGerald, Thomas and Rigoli, Francesco and Schwartenbeck, Philipp and Pezzulo, Giovanni and others	Active inference and learning	2016	Elsevier		862--879			Neuroscience & Biobehavioral Reviews				68	
-	article	friston2010	Friston, Karl	The free-energy principle: a unified brain theory?	2010	Nature publishing group		127--138			Nature reviews neuroscience	2			11	
-	article	ginsborg2012	Ginsborg, Hannah	Normativity of Meaning	2012	Oxford University Press		127--146			Proceedings of the Aristotelian Society. Supplementary Volume				86	
-	article	Koev2021	Koev, Todor	Gradient At-issueness vs. Uncertainty about Binary At-issueness	2021			130--140			Theoretical Linguistics				44	
-	article	lagasselevin2023	Lagasse, Eric and Levin, Michael	Future medicine: from molecular pathways to the collective intelligence of the body	2023	Elsevier		687--710			Trends in molecular medicine	9			29	
-	article	levinmartinez2019	Levin, Michael and Martinez Arias, Alfonso	Reverse-engineering growth and form in Heidelberg	2019	The Company of Biologists Ltd		dev177261			Development	14			146	
-	article	levin2019	Levin, Michael	The computational boundary of a “self”: developmental bioelectricity drives multicellularity and scale-free cognition	2019	Frontiers Media SA		2688			Frontiers in psychology				10	
-	article	levin2021	Levin, Michael	Life, death, and self: Fundamental questions of primitive cognition viewed through the lens of body plasticity and synthetic organisms	2021	Elsevier		114--133			Biochemical and Biophysical Research Communications				564	
-	article	levin2022	Levin, Michael	Technological approach to mind everywhere: an experimentally-grounded framework for understanding diverse bodies and minds	2022	Frontiers Media SA		768201			Frontiers in systems neuroscience				16	
-	article	manickalevin2022	Manicka, Santosh and Levin, Michael	Minimal developmental computation: a causal network approach to understand morphogenetic pattern formation	2022	MDPI		107			Entropy	1			24	
-	article	moltmann2013	Moltmann, Frederike	Propositions, attitudinal objects, and the distinction between actions and products	2013	University of Calgary Press		679--701			Canadian Journal of Philosophy	5/6			43	
-	article	moltmann2020	Moltmann, Frederike	Truthmaker semantics for natural language: Attitude verbs, modals, and intensional transitive verbs	2020	Mouton de Gruyter		159--200			Theoretical Linguistics	3-4			46	
-	article	nagel1974	Nagel, Thomas	What Is It Like to Be a Bat?	1974			435--450			The Philosophical Review	4			83	
-	article	pezzulolevin2016	Pezzulo, Giovanni and Levin, Michael	Top-down models in biology: explanation and control of complex living systems above the molecular level	2016	The Royal Society		20160555			Journal of The Royal Society Interface	124			13	
-	article	pietarinenbeni2021	Pietarinen, Ahti-Veikko and Beni, Majid D.	Active inference and abduction	2021	Springer		499--517			Biosemiotics	2			14	
-	article	quine1960	Quine, Willard Van Orman	Carnap and Logical Truth	1960			350--374			Synthese	4			12	
-	article	Rolf1980	Rolf, Bertil	A theory of vagueness	1980	Springer		315--325			Journal of Philosophical Logic	3			9	
-	article	watsonlevin2023	Watson, Richard and Levin, Michael	The collective intelligence of evolution and development	2023	Sage Publications Sage UK: London, England		2.63391372311684E+016			Collective Intelligence	2			2	
-	article	wright2001	Wright, Crispin	On being in a quandary. Relativism, vagueness, logical revisionism	2001			45--98			Mind	1			110	
-	article	Zardini2008a	Zardini, Elia	A Model of Tolerance	2008	Springer		337--368			Studia Logica	3			90	
-	article	Haack2005	Haack, Susan	Not cynicism, but synechism: Lessons from classical pragmatism	2005			239--253			Trans.  Charles S Peirce Soc. : A Quarterly Journal in American Philosophy	2			41	
-ru	article	Tsypanov2002	Цыпанов, Евгений Александрович	К вопросу о факторах, определяющих употребление I и II прошедших времен в коми языке	2002			165--175			Linguistica uralica				XXXVIII	
-ru	article	LeinonenTsypanov2007	Лейнонен, Марья and Цыпанов, Евгений Александрович	Грамматическая семантика эвиденциальности в коми языке (на материале модального перфекта)	2009			23--35			Linguistica uralica				XLV	
-	article	LeinonenVilkuna2008	Leinonen, Marija and Vilkuna, Maria	Past tenses in Permic languages	2008			495--514			Tense and Aspect in the Languages of Europe					
-	article	Anderson1986	Anderson, Lloyd B.	Evidentials, paths of change, and mental maps: typologically regular asymmetries	1986			273--312			Advances in Discourse Processes				20	
-	article	Matthewsonetal2007	Matthewson, Lisa and Davis, Henry and Rullmann, Hotze	Evidentials as epistemic modals: evidence from St’ ́at’imcets’	2007			201--254			Linguistic Variation Yearbook				7	
-	article	SauerlandSchenner2007	Sauerland, Uli and Schenner, Mathias	Embedded evidentials in Bulgarian	2007			495--509			Proceedings of Sinn und Bedeutung				11	
-	article	Koev2017	Koev, Todor	Evidentiality, Learning Events, and Spatiotemporal Distance: The View from Bulgarian	2017			1--41			Journal of Semantics	1			34	
-	article	Murray2014	Murray, Sarah	Varieties of update	2014			1--53			Semantics & Pragmatics	2			7	
-	article	vonFintelGillies2010	von Fintel, Kai and Gillies, Anthony S.	Must... stay... strong!	2010			350--383			Natural Language Semantics				18	
-ru	book	Ladov2008	Ладов, Всеволод Адольфович	Иллюзия значения: Проблема следования правилу в аналитической философии	2008	Изд-во Томcкого университета	Томск									
-	book	armstrongmalcolm1984	Armstrong, David Malet and Malcolm, Norman	Consciousness and Causality. A Debate on the Nature of Mind	1984	Basil Blackwell	Oxford									
-	book	austin1962	Austin, John Langshaw	How to Do Things with Words	1962	Clarendon Press	Oxford									
-	book	Bacon2018	Bacon, Andrew	Vagueness and Thought	2018	Oxford University Press	Oxford									
-	book	Dawkins1976	Dawkins, Richard	The Selfish Gene	1976	Oxford University Press	New York									
-	book	Dawkins2006	Dawkins, Richard	The God Delusion	2006	Transworld Publishers	Kent									
-	book	frege1964	Frege, Gottlob	The Basic Laws of Arithmetic	1964	University of California Press	Berkeley									
-	book	Jackendoff1972	Jackendoff, Ray S.	Semantic Interpretation in Generative Grammar	1972	MIT Press	Cambridge, Mass.									
-	book	moltmann2024	Moltmann, Frederike	Objects and Attitudes	2024	Oxford University Press	Oxford									
-	book	putnam1981	Putnam, Hilary	Reason, truth and history	1981	Cambridge University Press	Cambridge									
-	book	putnam1987	Putnam, Hilary	The Many Faces of Realism: The Paul Carus Lectures	1987	Open Court	LaSalle, Illinois									
-	book	williamson2022	Williamson, Timothy	The Philosophy of Philosophy. Second Edition	2022	Wiley-Blackwell	Hoboken and Chichester									
-ru	book	Bubrich1949	Бубрих, Дмитрий Владимирович	Грамматика литературного коми языка	1949	ЛГУ им. А. А. Жданова	Ленинград									
-ru	book	Serebrennikov1960	Серебренников, Борис Александрович	Категория времени и вида в финно-угорских языках пермской и волжской группы	1960	Наука	Москва									
-ru	book	Tsypanov2005	Цыпанов, Евгений Александрович	Грамматические категории глагола в коми языке	2005		Сыктывкар									
-	book	Aikhenvald2004	Aikhenvald, Alexandra	Evidentiality	2004	Oxford University Press	Oxford									
-	book	Peirce1966	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume VII. Science and Philosophy and Volume VIII. Reviews, Correspondence and Bibliography	1966	Belknap Press of Harvard University Press	Cambridge, MA			Burks, Arthur W.						
-	book	Peirce1960a	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume I. Principles of Philosophy and Volume II. Elements of Logic	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul						
-	book	Peirce1960b	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume V. Pragmatism and Pragmaticism and Volume VI. Scientific Metaphysics	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul						
-	book	Peirce1960c	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume III. Exact Logic (Published Papers) and Volume IV. The Simplest Mathematics	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul						
-ru	incollection	Kant1994	Кант, Иммануил	Логика, 1800	1994	Издательство «Чоро»	Москва	266--398	Кант И. Собрание сочинений в восьми томах. Том 8.	Гулыга, Арсений Владимирович						
-	incollection	bobrovapietarinen2019	Bobrova, Angelina and Pietarinen, Ahti-Veikko	Thoughts, things and logical guidance	2019	Springer	Cham	43--58	Peirce and Husserl: Mutual insights on logic, mathematics and cognition	Shafiei, Mohammad and Pietarinen, Ahti-Veikko					46	Logic, Epistemology, and the Unity of Science
-	incollection	Buring2007	Büring, Daniel	Intonation, semantics and information structure	2007	Oxford University Press	Oxford	445--474	The Oxford Handbook of Linguistic Interfaces	Ramchand, Gillian and Reiss, Charles						
-	incollection	Edgington1997	Edgington, Dorothy	Vagueness by degrees	1997	MIT Press	Cambridge, MA	294--316	Vagueness: A Reader	Keefe, Rosanna and Smith, Peter						
-	incollection	Hooper1975	Hooper, Joan B.	On assertive predicates	1975	BRILL	Leiden; Boston	91--124	Syntax and Semantics	Kimball, John P.					4	Syntax and Semantics
-	incollection	moltmann2023	Moltmann, Frederike	Attitudinal objects and propositions	2023	Routledge	New York and London	408--423	Routledge Handbook of Propositions	Tillman, Chris and Murray, Adam Russell						
-	incollection	Roberts1996	Roberts, Craige	Information structure: Towards an integrated formal theory of pragmatics	1996	The Ohio State University Department of Linguistics	Columbus, OH	91--136	Papers in Semantics	Yoon, Jae Hak and Kathol, Andreas					49	OSU Working Papers in Linguistics
-	incollection	ross1973	Ross, John Robert	Slifting	1973	Mouton de Gruyter	The Hague; Paris	133--169	The Formal Analysis of Natural Languages	Gross, Maurice and Halle, Morris and Schützenberger, Marcel-Paul						
-	incollection	Stalnaker1978	Stalnaker, Robert	Assertion	1978	Academic Press	New York	315--332	Pragmatics	Cole, Peter					9	Syntax and Semantics
-	incollection	Leinonen2000	Leinonen, Marija	Evidentiality in Komi Zyryan	2000	De Gruyter Mouton	Berlin, Boston	419--440	Evidentials: Turkic, Iranian and Neighbouring Languages	Johanson, Lars and Utas, Bo						
-	incollection	Grice1975	Grice, Paul	Logic and Conversation	1975	Academic Press	New York	43--58	Speech Acts	Cole, Peter and Morgan, Jerry L.					3	Syntax and Semantics
-	inproceedings	AnderBoisetal2010	AnderBois, Scott and Brasoveanu, Adrian and Henderson, Robert	Crossing the Appositive/At-issue Meaning Boundary	2010	Linguistic Society of America	Ithaca, NY	328--346	Proceedings of Semantics and Linguistic Theory 20	Li, Nan and Lutz, David					20	Proceedings of Semantics and Linguistic Theory
-	inproceedings	bellucciburton2020	Bellucci, Francesco and Burton, Jim	Observational advantages and occurrence referentiality	2020	Springer	Basel	202--215	Diagrammatic Representation and Inference. 11th International Conference, Diagrams	Pietarinen, Ahti-Veikko and Chapman, Peter and Bosveld-de Smet, Leonie and Giardino, Valeria and Corter, James and Linker, Sven					12169	Lecture Notes in Computer Science
-	inproceedings	Simonsetal2010	Simons, Mandy and Tonhauser, Judith and Beaver, David and Roberts, Craige	What projects and why	2010	Linguistic Society of America	Ithaca, NY	309--327	Proceedings of Semantics and Linguistic Theory 20	Li, Nan and Lutz, David					20	Proceedings of Semantics and Linguistic Theory
-	inproceedings	Izvorski1997	Izvorski, Roumyana	The present perfect as an epistemic modal	1997	Linguistic Society of America	Ithaca, NY	222--239	Proceedings of Semantics and Linguistic Theory 7	Lawson, Aaron					7	Proceedings of Semantics and Linguistic Theory
-	misc	levinetal2021	Levin, Michael and Keijzer, Fred and Lyon, Pamela and Arendt, Detlev	Uncovering cognitive similarities and differences, conservation and innovation	2021	The Royal Society		20200458			Philosophical Transactions of the Royal Society B	1821			376	
-	phdthesis	Zardini2008b	Zardini, Elia	Living on the slippery slope. The nature, sources and logic of vagueness	2008								University of St Andrews			
-ru	phdthesis	Subbota2008	Суббота, Клавдия Александровна	Глагол в ижемском диалекте коми языка: грамматические категории и словообразование (на материале казымского говора)	2008								ГОУ ВПО «Сыктывкарский Государственный Университет»			
-	phdthesis	Siegl2004	Siegl, Florian	The second past in the Permic languages: form, function, and a comparative analysis from a typological perspective	2004								University of Tartu			
-	phdthesis	Faller2002	Faller, Martina	Semantics and Pragmatics of Evidentials in Cuzco Quechua	2002								Stanford University			
-	phdthesis	Murray2010	Murray, Sarah	Evidentiality and the Structure of Speech Acts	2010								Rutgers University			
-	phdthesis	Garrett2001	Garrett, Edward John	Evidentiality and Assertion in Tibetan	2001								UCLA			
-ru	book	karamshoev1988	Карамшоев, Д. К.	{Ш}угнанско-русский словарь в трёх томах. {А}—{З}	1988	Наука	М.								1	
-ru	book	karamshoev1986	Карамшоев, Д. К.	{К}атегория рода в памирских языках (шугнано-рушанская группа)	1986	Дониш	Душанбе								2	
-ru	book	karamshoev1963	Карамшоев, Д. К.	{Б}аджувский диалект шугнанского языка	1963	Академия наук Таджикской ССР	Душанбе									
-ru	book	zarubin1960	Зарубин, И. И.	{Ш}угнанские тексты и словарь	1960	Издательство Академии наук СССР	М., Л.									
-	thesis	parker2023	Parker, Clinton	{A} {G}rammar of the {S}hughni Language	2023		Montreal						McGill University			
-	incollection	samvelian2018	Samvelian, Pollet	{S}pecific features of {P}ersian syntax. The {E}zāfe {C}onstruction, {D}ifferential {O}bject {M}arking and {C}omplex {P}redicates	2018	Oxford University Press	Oxford	226--269	{T}he {O}xford handbook of {P}ersian linguistics	Sedighi, Anousheh and Shabani-Jadid, Pouneh						
-	article	modarresikrifka2021	Modarresi, Fereshteh and Krifka, Manfred	{P}seudo {I}ncorporation and {A}naphoricity: {E}vidence from {P}ersian	2021	Open Library of Humanities		1--32			Glossa: a journal of general linguistics	1			36	
-	article	driemel2020	Driemel, Imke	{P}seudo-incorporation and its movement patterns	2020	Open Library of Humanities		1--40			Glossa: a journal of general linguistics	1			5	
-	article	dabirmoghaddam197	Dabir-Moghaddam, Mohammad	{C}ompound verb in Persian	1997	University of Illinois		25--59			Studies in the Linguistic Science	2			27	
-	incollection	helmbrecht2006	Helmbrecht, Johannes	{A}re there adjectives in {H}ocąk ({W}innebago)?	2006	Peter Lang International Academic Publishers	Bern	289--316	{L}exical categories and root classes in {A}merindian languages	Lois, Ximena and Vapnarsky, Valentina						
-	incollection	dixon2004	Dixon, R. M. W.	{A}djective classes: {A} cross linguistic typology	2004	Oxford University Press	Oxford	1--49	{A}djective classes: {A} cross linguistic typology	Dixon, R. M. W. and Aikenvald, Alexandra Y.					1	Explorations in Linguistic Typology
-	article	dixon1977	Dixon, R. M. W.	{W}here {H}ave {A}ll the {A}djectives {G}one?	1977	John Benjamins Publishing Company	Amsterdam/Philadephia	19--80			Studies in Language	1			1	
-	article	rozovskayaroth2019	Rozovskaya, A., Roth, D.	{G}rammar error correction in morphologically rich languages: {T}he case of {R}ussian	2019	MIT Press	Cambridge, Massachusetts	1–17	{T}ransactions of the {A}ssociation for {C}omputational {L}inguistics	Asli Celikyilmaz, Roi Reichart and Dilek Hakkani Tur						
-	article	kosakinetal2024	Kosakin, D., Obiedkov, S., Smirnov, I., Rakhilina, E., Vyrenkova, A., Zalivina, E.	{T}owards {E}rror-{C}ause {A}nnotation for {L}2 {R}ussian	2024	ELRA and ICCL	Torino, Italy	14240-14258	{P}roceedings of the 2024 {J}oint {I}nternational {C}onference on {C}omputational {L}inguistics, {L}anguage {R}esources and {E}valuation ({L}{R}{E}{C}-{C}{O}{L}{I}{N}{G} 2024)	Nicoletta Calzolari, Min-Yen Kan, Veronique Hoste, Alessandro Lenci, Sakriani Sakti and Nianwen Xue						
-	article	warrineretal2017	Warriner, A.B., Shore, D.I., Schmidt, L.A., Imbault, C.L., Kuperman, V.	{S}liding into happiness: a new tool for measuring affective responses to words	2017	CPA	Ottawa, Canada	71-88			{C}anadian {J}ournal of {E}xperimental {P}sychology	1			71	
-	article	bradleylang1999	Bradley, M.M., Lang, P.J.	{A}ffective norms for {E}nglish words ({A}{N}{E}{W}): {I}nstruction manual and affective ratings	1999	University of Florida	US		{T}echnical {R}eport C-1							
-	article	cheekbuss1981	Cheek, J. M., Buss, A. H.	{S}hyness and sociability	1981	APA	Washington, D.C.	330–339			{J}ournal of {P}ersonality and {S}ocial {P}sychology	41				
-	article	jolliffefarrington2006	Jolliffe, D., Farrington, D. P.	{D}evelopment and validation of the {B}asic {E}mpathy {S}cale	2006	Wiley	USA	589–611			{J}ournal of {A}dolescence	4			29	
-	article	carverwhite1994	Carver, C. S., White, T. L.	{B}ehavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: {T}he {B}{I}{S}/{B}{A}{S} {S}cales	1994	APA	Washington, D.C.	319–333			{J}ournal of {P}ersonality and {S}ocial {P}sychology	2			67	
-ru	article	rakhilinareznikova2013	Рахилина, Е.В. and Резникова, Т.И.	{Ф}реймовый подход к лексической типологии	2013			3--31			Вопросы языкознания	2				
-ru	article	lapshinaetal2024	Лапшина, К.М. and Копылова, Е.В. and Матюхина, Е.П.	{С}емантическое поле 'менять' в финском языке	2024			22--41			Урало-алтайские исследования	1			52	
-ru	article	kazkenova2026	Казкенова, А.К.	{Г}лаголы семантического поля 'менять' в казахском языке	2026			in print			Acta Linguistica Petropolitana. Труды Института лингвистических исследований	1				
-	incollection	francois2008	François, Alexandre	{S}emantic maps and the typology of colexification: Intertwining polysemous networks across languages	2008	John Benjamins Publishing Company	Amsterdam/Philadephia	163--215	{F}rom {P}olysemy to {S}emantic {C}hange: {T}owards a {T}ypology of {L}exical {S}emantic {A}ssociations	Vanhove, Martine						Studies in Language Companion Series
-	article	goldbergsuttle2010	Goldberg, Adele and Suttle, Laura	{C}onstruction grammar	2010			468--477			WIREs Cognitive Science	4			1	
-	article	jandaetal2023	Janda, Laura A and Endresen, Anna and Zhukova, Valentina and Mordashova, Daria and Rakhilina, Ekaterina	{F}rom data to theory: {A}n emergent semantic classification based on the large-scale {R}ussian constructicon	2023	John Benjamins Publishing Company Amsterdam/Philadelphia		1--58			Constructions and Frames	1			15	
-ru	book	petrova2011	Петрова, З.Н. and Коноплина, Е.Д.	{С}ловарь русского языка XVIII века. Вып. 19 (Пенат — Плангерд).	2011	Наука	СПб	239								
-ru	book	rakhilina2010	Рахилина, Е.В.	{К}огнитивный анализ предметных имен	2010	Азбуковник	М.	448								
-ru	book	ryzhovaetal2018	Рыжова, Д.А. and Добрушина, Н.Р. and Бонч-Осмоловская, А.А. and Выренкова, А.С. and Кюсева, М.В. and Орехов, Б.В. and Резникова, Т.И.	{ЕВР}ика! {С}борник статей о поисках и находках к юбилею {Е.В. Р}ахилиной	2018	Лабиринт	М.	392								
-ru	article	reznikova2022	Резникова, Т.И.	{Г}лаголы прятания: типология систем	2022			66--94			Вопросы языкознания	4				
-ru	article	bagirokovaryzhova2022	Багирокова, И.Г. and Рыжова, Д.А.	{Г}лаголы прятания и особенности их оформления локативными аффиксами в адыгейском языке	2022			95--114			Вопросы языкознания	4				
-ru	article	rakhilinaryzhova2025	Рахилина, Е.В. and Рыжова, Д.А.	{О} принципах глагольной колексификации	2025			7--25			Вопросы языкознания	2				
-	book	lehrer1974	Lehrer, Adrienne	{S}emantic fields and lexical structure	1974	North-Holland	Amsterdam	225								
-ru	misc	apresyanpekelis2012	Апресян, В.Ю. and Пекелис, О.Е	{М}атериалы для проекта корпусного описания русской грамматики (http://rusgram.ru)	2012		М.									
-ru	article	apresyanletuchiy2023	Апресян, В. Ю. and Летучий, А.Б.	{К}онкуренция дательного падежа и предлога для при глаголах и предикативах в русском языке: семантика и синтаксис	2023			167-207			Russian Linguistics	2			47	
-ru	article	baranovkreydlin1992	Баранов, А.Н., and Крейдлин, Г.Е	{И}ллокутивное вынуждение в структуре диалога	1992			84-99			Вопросы языкознания	2				
-ru	book	graudinashiryayev2004	Граудина, Л. К. and Ширяев, Е. Н	{К}ультура русской речи: учебник для студентов высших учебных заведений	2008	Норма	М.									
-ru	article	lyutitkova2016	Лю, Ч. and Титкова, С. И	{М}ожно ли начинать предложение с потому что? ({К} вопросу об особенностях употребления и написания союза потому что)	2016			36-45			Вестник Чувашского государственного педагогического университета им. ИЯ Яковлева	2			90	
-ru	incollection	vannikov2009	Ванников, Ю. В.	{П}арцелляция	1990		М.	369	{Л}ингвистический энциклопедический словарь	Ярцева, В. Н.						
-ru	article	ivanchikova1968	Иванчикова, Е. А.	{П}арцелляция, ее коммуникативно-экспрессивные и синтаксические функции	1968	Наука	М.	277-301			Русский язык и советское общество: Морфология и синтаксис современного русского литературного языка					
-ru	phdthesis	karkoshko2011	Каркошко, О. П.	{П}арцелляция: структура, семантика, функция: на материале русского и немецкого языков: автореферат дис. ... кандидата филологических наук	2011		Майкоп									
-ru	book	kibrikpodlesskaya2009	Кибрик, А. А. and Подлесская, В. И.	{Р}ассказы о сновидениях: корпусное исследование устного русского дискурса	2009	ЯСК	М.									
-ru	article	kuvshinskayaaksenova2021	Кувшинская, Ю. М. and Аксенова, А. А.	{С}овременные тенденции в употреблении коннектора то есть	2021		Берлин	341-357			Русская грамматика: Cистема – узус – варьирование					
-ru	misc	kuvshinskaya2023	Кувшинская, Ю. М.	{П}редложения с союзом «потому что» как независимые высказывания в современном устном дискурсе. {Д}оклад, представленный на {V}{I}{I} {М}еждународном научном симпозиуме «{Р}усская грамматика: константы, контексты, перспективы». {Т}юмень, 10-14 октября 2023 г.	2023											
-ru	article	kuzmina1989	Кузьмина, С. М.	{С}емантика и стилистика неопределенных местоимений	1989	Наука	М.	158-231			Грамматические исследования: функционально-стилистический аспект					
-ru	article	letuchiydzhonova2022	Летучий, А. Б. and Джонова, М.	{С}пособы оформления одушевленного участника при предикативах в русском и болгарском языках	2022			26-46			Русская речь					
-ru	article	nikolaeva1983	Николаева, Т. М.	{Ф}ункциональная нагрузка неопределенных местоимений в русском языке	1983			342-358			Изв. АН СССР, сер. лит. и яз.	4			42	
-ru	misc	paducheva2016	Падучева, Е. В.	{М}естоимения неизвестности. {М}атериалы для проекта корпусного описания русской грамматики, http://rusgram.ru.	2016											
-ru	phdthesis	pinegina2005	Пинегина, Я. Н.	{П}арцеллированные конструкции и их коммуникативно-прагматические функции в современных медиатекстах. дис. ... канд. филол. наук.	2005		Ростов н/Д									
-ru	book	priyatkina2007	Прияткина, А. Ф.	{Р}усский синтаксис в грамматическом аспекте (синтаксические связи и конструкции)	2007	Изд-во Дальневосточного ун-та	Владивосток									
-ru	article	serdobolskayatoldova2014	Сердобольская, Н. В. and Толдова, С. Ю.	{К}онструкции с оценочными предикативами в русском языке: участники ситуации оценки и семантика оценочного предиката	2014			443-477			Acta Linguistica Petropolitana. Труды института лингвистических исследований	2			10	
-ru	article	skovorodnikov1980	Сковородников, А. П.	{О} функциях парцелляции в современном русском литературном языке	1980	Наш язык	М.	86-91			Русский язык в школе				5	
-ru	phdthesis	tsumrayev2003	Цумарев, А. Э.	{П}арцелляция в современной газетной речи. {А}втореф. дис. канд. филолог. наук.	2003		М.									
-	article	pekelis2023	Pekelis, O. E.	{R}ussian indefinite markers to and nibud’: a microdiachtonic approach	2023			253-277			Russian Linguistics				47	
-	incollection	vandijk1982	Van Dijk, T. A	{E}pisodes as units of dicourse analysis	1982	Georgetown University Press	Washington, D.C.		Analysing discourse: Text and Talk	Tannen, D.						
-ru	article	rakhilinakazkenova2025	Рахилина, Е. В. and Казкенова, А.	{Н}естандартные метафоры движения в текстах казахско-русских билингвов	2025						Russian Language Journal	1			75	
-ru	article	kuvshinskaya2024	Кувшинская, Ю. М.	{У}потребление неопределенных местоимений серии на -либо в контексте прямого отрицания	2024			150-174			Труды ИРЯ РАН	2			40	
-	book	sokolov1967	Sokolov, S. N.	{T}he {A}vestan language	1967	Наука	М.									
-	incollection	wilkins2018	Wilkins, D. P.	{T}he {D}emonstrative {Q}uestionnaire: “{T}{H}{I}{S}” and “{T}{H}{A}{T}” in {C}omparative {P}erspective	2018	Cambridge University Press	Cambridge	43-71	Demonstratives in Cross-Linguistic Perspective	Levinson, S. C. and Cutfield, S. and Dunn, M. J. and Enfield, N. J. and Meira, S.						Language Culture and Cognition
-ru	article	rostovtsevpopel2019	Ростовцев-Попель, А. А.	{Т}ипология демонстративов: средние дейктики	2009			22-34			Вопросы языкознания	2				
-	article	dabirmoghaddam1997	Dabir-Moghaddam, M.	{C}ompound verb in {P}ersian	1997			25-59			Studies in the Linguistic Science	2			27	
-	misc	boersmaweenink2025	Boersma, P., and Weenink, D.	{P}raat: doing phonetics by computer. {A}vailable online at: http://www.praat.org/	2025											
-ru	article	Borisov2024a	Борисов, Евгений Васильевич	Прямое решение проблемы Крипке	2024			23--32			Эпистемология и философия науки	2			61	
-ru	article	Borisov2024b	Борисов, Евгений Васильевич	Ответ оппонентам	2024			89--94			Эпистемология и философия науки	2			61	
-ru	article	Ladov2024	Ладов, Всеволод Адольфович	Значение: реализм vs скептицизм	2024			43--50			Эпистемология и философия науки	2			61	
-	article	Achouriotietal2014	Achourioti, Theodora and Fugard, Andrew J. B. and Stenning, Keith	The Empirical Study of Norms Is Just What We Are Missing	2014			1--15			Frontiers in Psychology				5	
-	article	AnderBoisetal2015	AnderBois, Scott and Brasoveanu, Adrian and Henderson, Robert	At-issue proposals and appositive impositions in discourse	2015			93--138			Journal of Semantics	1			32	
-	article	Asher2000	Asher, Nicholas	Truth conditional discourse semantics for parentheticals	2000			31--50			Journal of Semantics	1			17	
-	article	belluccipietarinen2016	Bellucci, Francesco and Pietarinen, Ahti-Veikko	Existential graphs as an instrument of logical analysis: Part I. Alpha	2016	Cambridge University Press		209--237			The Review of Symbolic Logic	2			9	
-	article	Buring2003	Büring, Daniel	On d-trees, beans, and b-accents	2023			511--545			Linguistics and Philosophy	5			26	
-	article	cannizzaro2016	Cannizzaro, Sara	Internet memes as internet signs: A semiotic view of digital culture	2016	Ulikooli Kirjastus	Tartu	562--586			Sign Systems Studies	4			44	
-	article	clawsonlevin2023	Clawson, Wesley P. and Levin, Michael	Endless forms most beautiful 2.0: teleonomy and the bioengineering of chimaeric and synthetic organisms	2023	Oxford University Press UK		457--486			Biological Journal of the Linnean Society	4			139	
-	article	conant1991	Conant, James	In Search of Logical Alien Thought -- Descartes, Kant, Frege and the Tractatus	1991			115--180			Philosophical Topics	1			20	
-	article	davies2023	Davies, Jamie and Levin, Michael	Synthetic morphology with agential materials	2023	Nature Publishing Group UK London		46--59			Nature Reviews Bioengineering	1			1	
-	article	ebrahimkhani2021	Ebrahimkhani, Mo R and Levin, Michael	Synthetic living machines: A new window on life	2021	Elsevier		102505			Iscience	5			24	
-	article	FarkasBruce2010	Farkas, Donka F. and Bruce, Kim B.	On Reacting to Assertions and Polar Questions	2010			81--118			Journal of Semantics				27	
-	article	fieldsetal2021	Fields, Chris and Glazebrook, James F and Levin, Michael	Minimal physicalism as a scale-free substrate for cognition and consciousness	2021	Oxford University Press		niab013			Neuroscience of Consciousness	2			2021	
-	article	friston2009	Friston, Karl	The free-energy principle: a rough guide to the brain?	2009	Elsevier		293--301			Trends in cognitive sciences	7			13	
-	article	fristonetal2016	Friston, Karl and FitzGerald, Thomas and Rigoli, Francesco and Schwartenbeck, Philipp and Pezzulo, Giovanni and others	Active inference and learning	2016	Elsevier		862--879			Neuroscience & Biobehavioral Reviews				68	
-	article	friston2010	Friston, Karl	The free-energy principle: a unified brain theory?	2010	Nature publishing group		127--138			Nature reviews neuroscience	2			11	
-	article	ginsborg2012	Ginsborg, Hannah	Normativity of Meaning	2012	Oxford University Press		127--146			Proceedings of the Aristotelian Society. Supplementary Volume				86	
-	article	Koev2021	Koev, Todor	Gradient At-issueness vs. Uncertainty about Binary At-issueness	2021			130--140			Theoretical Linguistics				44	
-	article	lagasselevin2023	Lagasse, Eric and Levin, Michael	Future medicine: from molecular pathways to the collective intelligence of the body	2023	Elsevier		687--710			Trends in molecular medicine	9			29	
-	article	levinmartinez2019	Levin, Michael and Martinez Arias, Alfonso	Reverse-engineering growth and form in Heidelberg	2019	The Company of Biologists Ltd		dev177261			Development	14			146	
-	article	levin2019	Levin, Michael	The computational boundary of a “self”: developmental bioelectricity drives multicellularity and scale-free cognition	2019	Frontiers Media SA		2688			Frontiers in psychology				10	
-	article	levin2021	Levin, Michael	Life, death, and self: Fundamental questions of primitive cognition viewed through the lens of body plasticity and synthetic organisms	2021	Elsevier		114--133			Biochemical and Biophysical Research Communications				564	
-	article	levin2022	Levin, Michael	Technological approach to mind everywhere: an experimentally-grounded framework for understanding diverse bodies and minds	2022	Frontiers Media SA		768201			Frontiers in systems neuroscience				16	
-	article	manickalevin2022	Manicka, Santosh and Levin, Michael	Minimal developmental computation: a causal network approach to understand morphogenetic pattern formation	2022	MDPI		107			Entropy	1			24	
-	article	moltmann2013	Moltmann, Frederike	Propositions, attitudinal objects, and the distinction between actions and products	2013	University of Calgary Press		679--701			Canadian Journal of Philosophy	5/6			43	
-	article	moltmann2020	Moltmann, Frederike	Truthmaker semantics for natural language: Attitude verbs, modals, and intensional transitive verbs	2020	Mouton de Gruyter		159--200			Theoretical Linguistics	3-4			46	
-	article	nagel1974	Nagel, Thomas	What Is It Like to Be a Bat?	1974			435--450			The Philosophical Review	4			83	
-	article	pezzulolevin2016	Pezzulo, Giovanni and Levin, Michael	Top-down models in biology: explanation and control of complex living systems above the molecular level	2016	The Royal Society		20160555			Journal of The Royal Society Interface	124			13	
-	article	pietarinenbeni2021	Pietarinen, Ahti-Veikko and Beni, Majid D.	Active inference and abduction	2021	Springer		499--517			Biosemiotics	2			14	
-	article	quine1960	Quine, Willard Van Orman	Carnap and Logical Truth	1960			350--374			Synthese	4			12	
-	article	Rolf1980	Rolf, Bertil	A theory of vagueness	1980	Springer		315--325			Journal of Philosophical Logic	3			9	
-	article	watsonlevin2023	Watson, Richard and Levin, Michael	The collective intelligence of evolution and development	2023	Sage Publications Sage UK: London, England		2.63391372311684E+016			Collective Intelligence	2			2	
-	article	wright2001	Wright, Crispin	On being in a quandary. Relativism, vagueness, logical revisionism	2001			45--98			Mind	1			110	
-	article	Zardini2008a	Zardini, Elia	A Model of Tolerance	2008	Springer		337--368			Studia Logica	3			90	
-	article	Haack2005	Haack, Susan	Not cynicism, but synechism: Lessons from classical pragmatism	2005			239--253			Trans.  Charles S Peirce Soc. : A Quarterly Journal in American Philosophy	2			41	
-ru	article	Tsypanov2002	Цыпанов, Евгений Александрович	К вопросу о факторах, определяющих употребление I и II прошедших времен в коми языке	2002			165--175			Linguistica uralica				XXXVIII	
-ru	article	LeinonenTsypanov2007	Лейнонен, Марья and Цыпанов, Евгений Александрович	Грамматическая семантика эвиденциальности в коми языке (на материале модального перфекта)	2009			23--35			Linguistica uralica				XLV	
-	article	LeinonenVilkuna2008	Leinonen, Marija and Vilkuna, Maria	Past tenses in Permic languages	2008			495--514			Tense and Aspect in the Languages of Europe					
-	article	Anderson1986	Anderson, Lloyd B.	Evidentials, paths of change, and mental maps: typologically regular asymmetries	1986			273--312			Advances in Discourse Processes				20	
-	article	Matthewsonetal2007	Matthewson, Lisa and Davis, Henry and Rullmann, Hotze	Evidentials as epistemic modals: evidence from St’ ́at’imcets’	2007			201--254			Linguistic Variation Yearbook				7	
-	article	SauerlandSchenner2007	Sauerland, Uli and Schenner, Mathias	Embedded evidentials in Bulgarian	2007			495--509			Proceedings of Sinn und Bedeutung				11	
-	article	Koev2017	Koev, Todor	Evidentiality, Learning Events, and Spatiotemporal Distance: The View from Bulgarian	2017			1--41			Journal of Semantics	1			34	
-	article	Murray2014	Murray, Sarah	Varieties of update	2014			1--53			Semantics & Pragmatics	2			7	
-	article	vonFintelGillies2010	von Fintel, Kai and Gillies, Anthony S.	Must... stay... strong!	2010			350--383			Natural Language Semantics				18	
-ru	book	Ladov2008	Ладов, Всеволод Адольфович	Иллюзия значения: Проблема следования правилу в аналитической философии	2008	Изд-во Томcкого университета	Томск									
-	book	armstrongmalcolm1984	Armstrong, David Malet and Malcolm, Norman	Consciousness and Causality. A Debate on the Nature of Mind	1984	Basil Blackwell	Oxford									
-	book	austin1962	Austin, John Langshaw	How to Do Things with Words	1962	Clarendon Press	Oxford									
-	book	Bacon2018	Bacon, Andrew	Vagueness and Thought	2018	Oxford University Press	Oxford									
-	book	Dawkins1976	Dawkins, Richard	The Selfish Gene	1976	Oxford University Press	New York									
-	book	Dawkins2006	Dawkins, Richard	The God Delusion	2006	Transworld Publishers	Kent									
-	book	frege1964	Frege, Gottlob	The Basic Laws of Arithmetic	1964	University of California Press	Berkeley									
-	book	Jackendoff1972	Jackendoff, Ray S.	Semantic Interpretation in Generative Grammar	1972	MIT Press	Cambridge, Mass.									
-	book	moltmann2024	Moltmann, Frederike	Objects and Attitudes	2024	Oxford University Press	Oxford									
-	book	putnam1981	Putnam, Hilary	Reason, truth and history	1981	Cambridge University Press	Cambridge									
-	book	putnam1987	Putnam, Hilary	The Many Faces of Realism: The Paul Carus Lectures	1987	Open Court	LaSalle, Illinois									
-	book	williamson2022	Williamson, Timothy	The Philosophy of Philosophy. Second Edition	2022	Wiley-Blackwell	Hoboken and Chichester									
-ru	book	Bubrich1949	Бубрих, Дмитрий Владимирович	Грамматика литературного коми языка	1949	ЛГУ им. А. А. Жданова	Ленинград									
-ru	book	Serebrennikov1960	Серебренников, Борис Александрович	Категория времени и вида в финно-угорских языках пермской и волжской группы	1960	Наука	Москва									
-ru	book	Tsypanov2005	Цыпанов, Евгений Александрович	Грамматические категории глагола в коми языке	2005		Сыктывкар									
-	book	Aikhenvald2004	Aikhenvald, Alexandra	Evidentiality	2004	Oxford University Press	Oxford									
-	book	Peirce1966	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume VII. Science and Philosophy and Volume VIII. Reviews, Correspondence and Bibliography	1966	Belknap Press of Harvard University Press	Cambridge, MA			Burks, Arthur W.						
-	book	Peirce1960a	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume I. Principles of Philosophy and Volume II. Elements of Logic	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul						
-	book	Peirce1960b	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume V. Pragmatism and Pragmaticism and Volume VI. Scientific Metaphysics	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul						
-	book	Peirce1960c	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume III. Exact Logic (Published Papers) and Volume IV. The Simplest Mathematics	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul						
-ru	incollection	Kant1994	Кант, Иммануил	Логика, 1800	1994	Издательство «Чоро»	Москва	266--398	Кант И. Собрание сочинений в восьми томах. Том 8.	Гулыга, Арсений Владимирович						
-	incollection	bobrovapietarinen2019	Bobrova, Angelina and Pietarinen, Ahti-Veikko	Thoughts, things and logical guidance	2019	Springer	Cham	43--58	Peirce and Husserl: Mutual insights on logic, mathematics and cognition	Shafiei, Mohammad and Pietarinen, Ahti-Veikko					46	Logic, Epistemology, and the Unity of Science
-	incollection	Buring2007	Büring, Daniel	Intonation, semantics and information structure	2007	Oxford University Press	Oxford	445--474	The Oxford Handbook of Linguistic Interfaces	Ramchand, Gillian and Reiss, Charles						
-	incollection	Edgington1997	Edgington, Dorothy	Vagueness by degrees	1997	MIT Press	Cambridge, MA	294--316	Vagueness: A Reader	Keefe, Rosanna and Smith, Peter						
-	incollection	Hooper1975	Hooper, Joan B.	On assertive predicates	1975	BRILL	Leiden; Boston	91--124	Syntax and Semantics	Kimball, John P.					4	Syntax and Semantics
-	incollection	moltmann2023	Moltmann, Frederike	Attitudinal objects and propositions	2023	Routledge	New York and London	408--423	Routledge Handbook of Propositions	Tillman, Chris and Murray, Adam Russell						
-	incollection	Roberts1996	Roberts, Craige	Information structure: Towards an integrated formal theory of pragmatics	1996	The Ohio State University Department of Linguistics	Columbus, OH	91--136	Papers in Semantics	Yoon, Jae Hak and Kathol, Andreas					49	OSU Working Papers in Linguistics
-	incollection	ross1973	Ross, John Robert	Slifting	1973	Mouton de Gruyter	The Hague; Paris	133--169	The Formal Analysis of Natural Languages	Gross, Maurice and Halle, Morris and Schützenberger, Marcel-Paul						
-	incollection	Stalnaker1978	Stalnaker, Robert	Assertion	1978	Academic Press	New York	315--332	Pragmatics	Cole, Peter					9	Syntax and Semantics
-	incollection	Leinonen2000	Leinonen, Marija	Evidentiality in Komi Zyryan	2000	De Gruyter Mouton	Berlin, Boston	419--440	Evidentials: Turkic, Iranian and Neighbouring Languages	Johanson, Lars and Utas, Bo						
-	incollection	Grice1975	Grice, Paul	Logic and Conversation	1975	Academic Press	New York	43--58	Speech Acts	Cole, Peter and Morgan, Jerry L.					3	Syntax and Semantics
-	inproceedings	AnderBoisetal2010	AnderBois, Scott and Brasoveanu, Adrian and Henderson, Robert	Crossing the Appositive/At-issue Meaning Boundary	2010	Linguistic Society of America	Ithaca, NY	328--346	Proceedings of Semantics and Linguistic Theory 20	Li, Nan and Lutz, David					20	Proceedings of Semantics and Linguistic Theory
-	inproceedings	bellucciburton2020	Bellucci, Francesco and Burton, Jim	Observational advantages and occurrence referentiality	2020	Springer	Basel	202--215	Diagrammatic Representation and Inference. 11th International Conference, Diagrams	Pietarinen, Ahti-Veikko and Chapman, Peter and Bosveld-de Smet, Leonie and Giardino, Valeria and Corter, James and Linker, Sven					12169	Lecture Notes in Computer Science
-	inproceedings	Simonsetal2010	Simons, Mandy and Tonhauser, Judith and Beaver, David and Roberts, Craige	What projects and why	2010	Linguistic Society of America	Ithaca, NY	309--327	Proceedings of Semantics and Linguistic Theory 20	Li, Nan and Lutz, David					20	Proceedings of Semantics and Linguistic Theory
-	inproceedings	Izvorski1997	Izvorski, Roumyana	The present perfect as an epistemic modal	1997	Linguistic Society of America	Ithaca, NY	222--239	Proceedings of Semantics and Linguistic Theory 7	Lawson, Aaron					7	Proceedings of Semantics and Linguistic Theory
-	misc	levinetal2021	Levin, Michael and Keijzer, Fred and Lyon, Pamela and Arendt, Detlev	Uncovering cognitive similarities and differences, conservation and innovation	2021	The Royal Society		20200458			Philosophical Transactions of the Royal Society B	1821			376	
-	phdthesis	Zardini2008b	Zardini, Elia	Living on the slippery slope. The nature, sources and logic of vagueness	2008								University of St Andrews			
-ru	phdthesis	Subbota2008	Суббота, Клавдия Александровна	Глагол в ижемском диалекте коми языка: грамматические категории и словообразование (на материале казымского говора)	2008								ГОУ ВПО «Сыктывкарский Государственный Университет»			
-	phdthesis	Siegl2004	Siegl, Florian	The second past in the Permic languages: form, function, and a comparative analysis from a typological perspective	2004								University of Tartu			
-	phdthesis	Faller2002	Faller, Martina	Semantics and Pragmatics of Evidentials in Cuzco Quechua	2002								Stanford University			
-	phdthesis	Murray2010	Murray, Sarah	Evidentiality and the Structure of Speech Acts	2010								Rutgers University			
-	phdthesis	Garrett2001	Garrett, Edward John	Evidentiality and Assertion in Tibetan	2001								UCLA			
+NOTE	CATEGORY	BIBTEXKEY	AUTHOR	TITLE	YEAR	PUBLISHER	ADDRESS	PAGES	BOOKTITLE	EDITOR	JOURNAL	NUMBER	SCHOOL	URL	VOLUME	SERIES	HOWPUBLISHED
+	article	RozovskayaRoth2019	Rozovskaya, A., Roth, D.	{G}rammar error correction in morphologically rich languages: {T}he case of {R}ussian	2019	MIT Press	Cambridge, Massachusetts	1–17	Transactions of the Association for Computational Linguistics	Asli Celikyilmaz, Roi Reichart and Dilek Hakkani Tur							
+	article	Kosakinetal2024	Kosakin, D., Obiedkov, S., Smirnov, I., Rakhilina, E., Vyrenkova, A., Zalivina, E.	{T}owards {E}rror-{C}ause {A}nnotation for {L}2 {R}ussian	2024	ELRA and ICCL	Torino, Italy	14240-14258	Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)	Nicoletta Calzolari, Min-Yen Kan, Veronique Hoste, Alessandro Lenci, Sakriani Sakti and Nianwen Xue							
+	article	Warrineretal2017	Warriner, A.B., Shore, D.I., Schmidt, L.A., Imbault, C.L., Kuperman, V.	{S}liding into happiness: a new tool for measuring affective responses to words	2017	CPA	Ottawa, Canada	71-88			Canadian Journal of Experimental Psychology	1			71		
+	article	BradleyLang1999	Bradley, M.M., Lang, P.J.	{A}ffective norms for {E}nglish words ({A}{N}{E}{W}): {I}nstruction manual and affective ratings	1999	University of Florida	US		Technical Report C-1								
+	article	CheekBuss1981	Cheek, J. M., Buss, A. H.	{S}hyness and sociability	1981	APA	Washington, D.C.	330–339			Journal of Personality and Social Psychology	41					
+	article	JolliffeFarrington2006	Jolliffe, D., Farrington, D. P.	{D}evelopment and validation of the {B}asic {E}mpathy {S}cale	2006	Wiley	USA	589–611			Journal of Adolescence	4			29		
+	article	CarverWhite1994	Carver, C. S., White, T. L.	{B}ehavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: {T}he {B}{I}{S}/{B}{A}{S} {S}cales	1994	APA	Washington, D.C.	319–333			Journal of Personality and Social Psychology	2			67		
+ru	incollection	NedjalkovJaxontov1983	Недялков, В. П. and Яхонтов, С. Е.	{Т}ипология результативных конструкций	1983	Наука	Ленинград	5–41	Типология результативных конструкций (результатив, статив, пассив, перфект)	Недялков, В. П.							
+ru	incollection	Volodin1969	Володин, А. П.	{К}аузативные глаголы и каузативные глагольные структуры в ительменском языке	1969	Наука	Ленинград	170–178	Типология каузативных конструкций. Морфологический каузатив	Холодович, А. А.							
+	article	PakendorfKrivoshapkina2014	Pakendorf, B. and Krivoshapkina, I. V.	{Ė}ven nominal evaluatives and the marking of definiteness	2014			289–331			Linguistic Typology	2			18		
+	article	KopeckaVuillermet2021	Kopecka, A. and Vuillermet, M.	{S}ource-{G}oal (a)symmetries across languages	2021			2–35			Studies in Language	1			45		
+	article	Ylikoski2016	Ylikoski, J.	{T}he origins of the western {U}ralic s-cases revisited: historiographical, functional-typological and {S}amoyedic perspectives	2016			6–78			Finnisch-Ugrische Forschungen				63		
+	book	NikolaevaTolskaya2001	Nikolaeva, I. and Tolskaya M.	{A} grammar of {U}dihe	2001	De Gruyter Mouton	Berlin, New York									Mouton Grammar Library [MGL]	
+ru	booklet	EliseevZaitseva2007		{С}опоставительно-ономасиологический словарь диалектов карельского, вепсского, саамского языков	2007		Петрозаводск			Елисеев, Ю. С. and Зайцева, Н. Г.							
+ru	article	Okninaetal2025	Окнина, Л. Б. and Подлепич, В. В. and Вологдина, Я. О. and Зибер, И. А. and Машеров, Е. Л. and Слезкин, А. А. and Стрельникова, Е. В. and Канцерова, А. О.	{О}собенности восприятия собственного имени человеком по сравнению с восприятием имен сходного и отличного звучания: анализ потенциалов, связанных с событиями	2025			3–13			Физиология человека	2			51		
+ru	book	Gasparov1984	Гаспаров, М. Л.	{О}черк истории русского стиха: {М}етрика, ритмика, рифма, строфика	1984	Наука	Москва										
+	incollection	Zwicky1976	Zwicky, A. M.	{W}ell, this rock and roll has got to stop. {J}unior’s head is hard as a rock	1976	Chicago Linguistic Society	Chicago	676–697	Papers from the Twelfth Regional Meeting of the Chicago Linguistic Society	Mufwene, S. S. and Walker, C. A. and Steever, S. B.							
+	article	GrangerPaquot2010	Granger, S., Paquot, M.	{C}ustomising a general {E}{A}{P} dictionary to meet learner needs	2010	Presses universitaires de Louvain	Louvain	87–96	Lexicography in the 21st century: New challenges, new applications. Proceedings of ELEX2009	S. Granger & M. Paquot							
+	article	GrangerPaquot2015	Granger, S., Paquot, M.	{E}lectronic lexicography goes local: {D}esign and structures of a needs-driven online academic writing aid	2015			118-141			Lexicographica	31(1)					
+	article	Paquot2012	Paquot, M.	{T}he {L}{E}{A}{D} dictionary-cum-writing aid: {A}n integrated dictionary and corpus tool	2012	Oxford University Press	Oxford	163–186	Electronic lexicography	S. Granger & M. Paquot							
+	article	LinEtAl2023	Lin, Z., Chen, X., Pathak, D. et al.	{R}evisiting the {R}ole of {L}anguage {P}riors in {V}ision-{L}anguage {M}odels	2023									https://arxiv.org/abs/2306.01879			
+	article	SubbiahEtAl2024	Subbiah, M., Zhang, S., Chilton, L. B., McKeown, K.	{R}eading subtext: {E}valuating large language models on short story summarization with writers	2024			1290–1310			Transactions of the Association for Computational Linguistics				12		
+	article	Schmid2003	Шмид, В.	{Н}арратология	2003	Языки славянской культуры	Москва										
+	article	Lin2004	Lin, C. Y.	{ROUGE}: {A} package for automatic evaluation of summaries	2004			74–81	Text Summarization Branches Out								
+	article	PapineniEtAl2002	Papineni, K., Roukos, S., Ward, T., Zhu, W. J.	{BLEU}: {A} {M}ethod for {A}utomatic {E}valuation of {M}achine {T}ranslation	2002			311–318	Proc. of the 40th Annual Meeting of the Association for Computational Linguistics								
+	article	ZhangEtAl2019	Zhang, T., Kishore, V., Wu, F., Weinberger, K. Q., Artzi, Y.	{BERT}Score: {E}valuating text generation with {BERT}	2019						arXiv preprint arXiv:1904.09675						
+ru	article	BogdanovaBeglarianEtAl2016	Богданова-Бегларян, Н.В., Шерстинова, Т.Ю., Баева, Е.М., и др.	{Р}усский язык повседневного общения: особенности функционирования в разных социальных группах	2016	Лайка	Санкт-Петербург	244									
+ru	article	KarpovKipyatkova2012	Карпов, А.А., Кипяткова, И.С.	{М}етодология оценивания работы систем автоматического распознавания речи	2012			38-43			Известия высших учебных заведений. Приборостроение	11			55		
+	article	SherstinovaEtAl2024	Sherstinova, T., Mikhaylovskiy, N., Kolpashchikova, E., et al.	{B}ridging {G}aps in {R}ussian {L}anguage {P}rocessing: {AI} and {E}veryday {C}onversations	2024		Tampere, Finland	665-674	35th Conference of Open Innovations Association (FRUCT)								
+	article	BredinEtAl2019	Bredin, H., Yin, R., Coria, J.M., et al.	{P}yannote.audio: {N}eural building blocks for speaker diarization	2019									https://arxiv.org/abs/1911.01255			
+ru	article	Berger2017	Берджер, Д.	{З}ачем смотреть на животных?	2017	Ад Маргинем Пресс	Москва	160									
+ru	article	Krylova2023	Крылова, К.	{Р}ынок удобных животных	2023	НЛО	Москва	408									
+	article	Markowitz2020	Markowitz, D.M.	{P}utting your best pet forward: {L}anguage patterns of persuasion in online pet advertisements	2020			160-173			Journal of Applied Social Psychology	3			50		
+ru	article	Aznacheeva2011	Азначеева, Е.Н.	{А}стрологический дискурс: семиотический и когнитивный аспекты	2011			19-21			Вестник Челябинского государственного университета	33					
+ru	article	Vepreva2017	Вепрева, И.Т.	"{Б}азовый лексикон астрологического прогноза: о словах с ""размытым"" содержанием"	2017			57-63			Экология языка и коммуникативная практика	1					
+ru	article	Laletina2007	Лалетина, А.О.	«{Г}ороскоп» как гендерно-маркированный медиажанр	2007			288-294	Жанры и типы текста в научном и медийном дискурсе								
+	article	BirdKleinLoper2009	Bird, S., Klein, E., Loper, E.	{N}atural {L}anguage {P}rocessing with {P}ython	2009	O’Reilly Media Inc.								https://www.nltk.org/book			
+ru	article	LukashevichLevchik2016	Лукашевич, Н.В., Левчик, А.В.	{С}оздание лексикона оценочных слов русского языка {Р}у{С}ентилекс	2016			377-382	Труды конференции OSTIS-2016								
+	article	HuLiu2004	Hu, M., Liu, B.	{M}ining opinion features in customer reviews	2004			755-760	Proceedings of AAAI Conference on Artificial Intelligence						4		
+ru	article	KolmogorovaEtAl2024	Колмогорова, А.В., Колмогорова, П.А., Куликова, Е.Р.	{О} прошлом, но в разное время: компьютерный анализ текстов учебников по истории {СССР}/ {Р}оссии для шести поколений студентов	2024			73-103			Вестник Томского государственного университета. Филология	89					
+	article	Ling2016	Ling, Y.S.C.	{T}he use of modal auxiliary verbs in horoscope: a corpus-based study	2016						Issues in Language Studies	2			5		
+ru	article	MartynenkoEtAl2018	Мартыненко, Г.Я., Шерстинова, Т.Ю., Мельник, А.Г., Попова, Т.И.	{М}етодологические проблемы создания компьютерной антологии русского рассказа как языкового ресурса для исследования языка и стиля русской художественной прозы в эпоху революционных перемен (первой трети XX века)	2018			97-102			Компьютерная лингвистика и вычислительные онтологии	2					
+ru	article	MartynenkoEtAlTEL2018	Мартыненко, Г.Я., Шерстинова, Т.Ю., Попова, Т.И., Мельник, А.Г., Замирайлова, Е.В.	{О} принципах создания корпуса русского рассказа первой трети XX века	2018			180-197	Труды XV Международной конференции по компьютерной и когнитивной лингвистике «TEL 2018»								
+	article	Skrebtsova2020	Skrebtsova, T.	{T}hematic {T}agging of {L}iterary {F}iction: {T}he {C}ase of {E}arly 20th {C}entury {R}ussian {S}hort {S}tories	2020			265-276	CEUR Workshop Proceedings: Proceedings of the International Conference 'Internet and Modern Society' (IMS-2020)						2813		
+ru	article	SherstinovaEtAl2023	Шерстинова, Т.Ю., Колпащикова, Е.О., Сейнова, А.Р., Максименко, П.И., Родионов, Р.А.	{Р}усский рассказ 1900-1930-х и его восприятие читателем: опыт квантитативного анализа оценки художественного текста	2023			164-184			Человек: Образ и сущность. Гуманитарные аспекты	2 (54)					
+	article	Ekman1999	Ekman, P.	{F}acial {E}xpressions	1999	Wiley	Chichester	301-320	Handbook of Cognition and Emotion								
+ru	article	KirinaLukianchikova2024	Кирина, М.А., Лукьянчикова, А.С.	{Г}олос эпохи: лингвостатистические показатели прямой речи в русском рассказе XX века	2024	Балтийский федеральный университет им. И. Канта	Калининград	69-73	Восьмая Калининградская школа по гуманитарной информатике. Сборник докладов. Калининград, 12–14 декабря 2024 года								
+ru	article	SherstinovaKirinaHl2023	Шерстинова, Т.Ю., Кирина, М.А., Хлусова, Я.К.	{К}орпус русского рассказа как база для проведения социолингвистических исследований русской литературы	2023	Сибирский федеральный университет	Красноярск	200-211	Информационные технологии в гуманитарных исследованиях: Материалы Международной научно-практической конференции, Красноярск, 25–28 сентября 2023 г.								
+	article	MoskvinaKirina2024	Moskvina, A., Kirina, M.	{F}ear and {L}oathing in {R}ussian {L}iterature: {A} {C}ase of {E}motion {A}nnotation of {S}hort {S}tories of the 20th {C}entury	2024	Springer Nature Switzerland	Cham	113-129	International Conference on Internet and Modern Society								
+ru	article	Delazari2023	Делазари, И.	{К}омиксы на слух: диегетический звук как трансмедиальная категория	2023			118-132			Новое литературное обозрение	1			179		
+ru	article	Sherstinova2019	Шерстинова, Т.Ю.	{Б}иографическая база данных русских писателей (к созданию корпуса русского рассказа XX века)	2019			439-447	Корпусная лингвистика-2019								
+	article	MoskvinaKirina2025	Moskvina, A., Kirina, M.		2025												
+ru	article	SherstinovaPetrova2023	Шерстинова, Т.Ю., Петрова, И.А.	{М}оделирование повседневного речевого поведения: Корпус устной речи молодежи, или ОРД V. 2.0	2023						Социо- и психолингвистические исследования				11		
+	article	AsinovskyEtAl2009	Asinovsky, A., et al.	{T}he ORD {S}peech {C}orpus of Russian Everyday Communication 'One Speaker’s Day': {C}reation {P}rinciples and {A}nnotation	2009	Springer		250-257	Text, Speech and Dialogue: 12th International Conference (TSD 2009)								
+	article	Sherstinova2009	Sherstinova, T.	{T}he {S}tructure of the ORD {S}peech {C}orpus of Russian Everyday Communication	2009	Springer		258-265	International Conference on Text, Speech and Dialogue								
+	article	BogdanovaBeglarianEtAl2016	Bogdanova-Beglarian, N., et al.	{S}ociolinguistic {E}xtension of the ORD {C}orpus of Russian Everyday Speech	2016	Springer		659-666	Speech and Computer: 18th International Conference (SPECOM 2016), 23 - 27 August 2016, Budapest, Hungary								
+ru	article	BogdanovaBeglarianEtAlORD2019	Богданова-Бегларян, Н.В., и др.	{К}орпус русского языка повседневного общения «Один речевой день» (ОРД): текущее состояние и перспективы	2019			100-110	Труды Института русского языка им. В. В. Виноградова						21		
+ru	article	Sherstinova2013	Шерстинова, Т.Ю.	{К}оммуникативные макроэпизоды в корпусе повседневной русской речи «Один речевой день»: принципы аннотирования и результаты статистической обработки	2013		СПб	449-456	Корпусная лингвистика-2013: тр. междунар. конф.								
+	article	Alsha2005	Al–Shaer, I.	The Collapse of Grammatical Rules Under the Pressure of Semantic Content: Subject-Verb Concord	2005			295-314			An-Najah University Journal for Research - B (Humanities)	19(1)					
+	book	Biber1999	Biber, D., Johansson, S., Leech, G., Conrad, S., Finegan, E., & Quirk, R.	Longman grammar of spoken and written English	1999	Longman											
+	book	Murcia2008	Celce-Murcia, M., Larsen-Freeman, D.	The grammar book	2008	Thomson Learning Ltd.											
+	book	Cohen1988	Cohen, J.	Statistical Power Analysis for the Behavioral Sciences (2nd ed.)	1988	Routledge											
+	article	Fernandez2017	Fernández-Pena, Y. 	Exploring the patterns of verbal agreement of collective noun-headed subjects in a parsed corpus of Present-Day English	2017			325–334	EPiC Series in Language and Linguistics	Chelo Vargas-Sierra		2					
+	article	Fernandez2022	Fernández-Pena, Y.	Modelling verb number agreement variation with complex collective subjects in inner-circle varieties of English	2022	Peter Lang		125-153	Perspectives on contemporary English: Structure, variation, cognition	M. Krug, V. Werner, O. Schützler y F. Vetter							
+	article	Gao2016	Gao, X.	A cross-disciplinary corpus-based study on English and Chinese native speakers' use of linking adverbials in academic writing	2016			14-28			Journal of English for Academic Purposes	24					
+	article	Gong2024	Gong, Z., Liu, Y., & Liu, Y.	A comparative study of research questions written by L1 English authors and Chinese EFL scholars	2024			101383			Journal of English for Academic Purposes	69					
+	article	Kodera2020	Kodera, M.	An Overview of the Count/Noncount Distinction of English Nouns	2020			23-51			阪南論集. 人文・自然科学編	55(2)					
+	book	Levin2001	Levin, M.	Agreement with collective nouns in English	2001	Lund University	Lund										
+	article	Morallo2022	Morallo, A.B.	Corpus-based investigation of S-V concord patterns of nouns with Latin plural endings	2022			97-116			Malaysian Journal of ELT Research	19(2)					
+	article	Tsang2017	Tsang, A.	Judgement of countability and plural marking in English by native and non-native English speakers	2017			343-359			Language Awareness	26(4)					
+	article	Afros2009	Afros, E., Schryer, C. F.	Promotional (meta)discourse in research articles in language and literary studies	2009			58–68			English for Specific Purposes	28(1)					
+	book	Bhatia1993	Bhatia, V. K.	Analysing genre: Language use in professional settings	1993	Longman											
+	article	Cao2021	Cao, X., Lei, L., Wen, J.	Promoting science with linguistic devices: A large-scale study of positive and negative words in academic writing	2021			82–88			Learned Publishing	34(2)					
+	book	Faircough1993	Fairclough, N.	Discourse and social change	1993	Polity Press											
+	article	Hyland2005	Hyland, K.	Stance and engagement: A model of interaction in academic discourse	2005			173–192			Discourse Studies	7(2)					
+	article	Hyland2008	Hyland, K.	Metadiscourse: Exploring interaction in writing	2008						Continuum						
+	article	Hyland2021	Hyland, K., Jiang, F.	‘Our striking results demonstrate …’: Persuasion and the growth of academic hype	2021			189–202			Journal of Pragmatics	182					
+	article	Martin2014	Martín, P., León Pérez, I. K.	Convincing peers of the value of one’s research: A genre analysis of rhetorical promotion in academic texts	2014			1–13			English for Specific Purposes	34					
+	article	Millar2020	Millar, N., Budgell, B., Salager-Meyer, F.	Hype in reports of clinical research: The authors’ perspectives	2020			53–64			English for Specific Purposes	60					
+	article	Pho2008	Pho, P. D.	Research article abstracts in applied linguistics and educational technology: A study of linguistic realizations of rhetorical structure and authorial stance	2008			231–250			Discourse Studies	10(2)					
+	article	Wang2015	Wang, W., Yang, C.	Claiming centrality as promotion in applied linguistics research article introductions	2015			162–175			Journal of English for Academic Purposes	20					
+	article	Xie2023	Xie, S., Mi, C.	Promotion and caution in research article abstracts: The use of positive, negative and hedge words across disciplines and rankings	2023			249–265			Learned Publishing	36(2)					
+	book	Austin1962	Austin, J. L.	How to Do Things with Words: The William James Lectures Delivered at Harvard University	1962	Harvard University Press	Cambridge, M.A.										
+	book	Charteris2011	Charteris-Black, J.	Politicians and Rhetoric: The Persuasive Power of Metaphor	2011	Palgrave Macmillan	London										
+	book	Claridge2011	Claridge, C.	Hyperbole in English: A Corpus-based Study of Exaggeration	2011	Cambridge University Press	Cambridge										
+	article	Claridge2018	Claridge, C.	Lying, Metaphor, and Hyperbole	2018	Oxford University Press	Oxford	370–381	The Oxford Handbook of Lying	Jörg Meibauer							
+	book	Cruse2004	Cruse, A.	Meaning in Language: An Introduction to Semantics and Pragmatics	2004	Oxford University Press	Oxford										
+	article	DSM2019	Da San Martino, G., Yu, A., Barrón-Cedeño, A., Petrov, R., Nakov, P.	Fine-Grained Analysis of Propaganda in News Articles	2019	Association for Computational Linguistics.	Hong Kong, China	5636–5646	Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)	Inui, K., Jiang, J., Ng, V.,  Wan, X.							
+	article	Dayter2025a	Dayter, D., Rüdiger, S.	Corpus Linguistics and Persuasion	2025a	Elsevier	Amsterdam		International Encyclopedia of Language and Linguistics, 3rd ed. 	Nesi, H., Milin, P.							
+	article	Dayter2025b	Dayter, D., Rüdiger, S.	Persuasion and Influence in Linguistic Research	2025b	Cambridge University Press	Cambridge	3-18	Manipulation, Influence and Deception: The Changing Landscape of Persuasive Language	Rüdiger, S., Dayter, D.							
+	article	Dubois2014	Du Bois, J. W.	Towards a Dialogic Syntax	2014			359 – 410			Cognitive Linguistics	25(3)					
+	book	Faircough2010	Fairclough, N.	Critical Discourse Analysis: The Critical Study of Language. 2nd ed.	2010	Routledge	London										
+	article	Fuertes2001	Fuertes-Olivera, P. A., Velasco-Sacristán, M., Arribas-Baño, A., Samaniego-Fernández E.	Persuasion and Advertising English: Metadiscourse in Slogans and Headlines	2001			1291–1307			Journal of Pragmatics	33(8)					
+	article	Garassino2024	Garassino, D., Masia, V., Brocca, N., Delorme Benites A.	Politicians vs ChatGPT: A Study of Presuppositions in French and Italian Political Communication	2024						AI-Linguistica	1(1)					
+	article	Giora2015	Giora, R., Givoni, S., Fein O.	Defaultness Reigns: The Case of Sarcasm	2015			290–313			Metaphor & Symbol	30(4)					
+	book	Grice1975	Grice, P. H. 	Logic and Conversation	1975	Academic Press	New York	41–58			Syntax and Semantics	3					
+	book	Grieve2023	Grieve, J., Woodfield, H.	The Language of Fake News. Elements in Forensic Linguistics	2023	Cambridge University Press	Cambridge										
+	book	Jewett2006	Jowett, G., O’Donnell, V.	Propaganda and Persuasion	2006	Sage	Thousand Oaks										
+	article	Koteyko2015	Koteyko, I.	The Language of Press Advertising in the UK: A Multi-dimensional Study	2015			259–283			Journal of English Linguistics	43(4)					
+	article	Kuiken2017	Kuiken, J., Schuth, A., Spitters, M., Marx, M.	Effective Headlines of Newspaper Articles in a Digital Environment	2017			1300–1314			Digital Journalism	5(10)					
+	book	Lakoff1980	Lakoff, G., Johnson, M.	Metaphors We Live by	1980	University of Chicago Press	Chicago										
+	book	Lakoff1982	Lakoff, R.	Persuasive Discourse and Ordinary Conversation, with Examples from Advertising	1982	Georgetown University Press	Washington	25–42	Analyzing Discourse: Text and Talk	Tannen, D.							
+	article	Piskorski2023	Piskorski, J., Stefanovitch, N., Nikolaidis, N., Da San Martino, G., Nakov, P.	Multilingual Multifaceted Understanding of Online News in Terms of Genre, Framing, and Persuasion Techniques	2023			3001–3022	Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)								
+	article	Benali2021	Benali, A.	The Impact of Using Automated Writing Feedback in ESL/EFL Classroom Contexts	2021			189			English Language Teaching	14(12)					
+	article	Clark2020	Clark, K., Luong, M.-T., Le, Q. V., Manning, C. D.	ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators. Version Number: 1	2020												
+	article	Raffel2023	Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W.,and Liu, P. J. 	Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer	2023				arXiv:1910.10683								
+	article	Rothe2021	Rothe, S., Mallinson, J., Malmi, E., Krause, S., Severyn, A. 	A simple recipe for multilingual grammatical error correction	2021			702–707	Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)	Zong, C., Xia, F., Li, W., and Navigli, R.							
+	article	Touvron2023	Touvron, H., Lavril, T., Izacard, G., Martinet, X., Lachaux, M.-A., Lacroix, T., Rozière, B., Goyal, N., Hambro, E., Azhar, F., Rodriguez, A., Joulin, A., Grave, E., and Lample, G.	Llama: Open and efficient foundation language models	2023												
+	article	Vinogradova2017	Vinogradova, O., Login, N.	The Design of Tests with Multiple Choice Questions Automatically Generated from Essays in a Learner Corpus	2017						SSRN Electronic Journal						
+	article	Vinogradova2022	Vinogradova, O., Lyashevskaya, O. 	Review of Practices of Collecting and Annotating Texts in the Learner Corpus REALEC	2022	Springer International Publishing		77–88		Sojka, P., Horák, A., Kopeček, I., Pala, K.	Lecture Notes in Computer Science: Text, Speech, and Dialogue	13502					
+	article	Wang2020	Wang, E. L., Matsumura, L. C., Correnti, R., Litman, D., Zhang, H., Howe, E., Magooda, A., Quintana, R.	eRevis(ing): Students’ revision of text evidence use in an automated writing evaluation system	2020			100449			Assessing Writing	44					
+	article	Woodworth2020	Woodworth, J., Barkaoui, K.	Perspectives on Using Automated Writing Evaluation Systems to Provide Written Corrective Feedback in the ESL Classroom	2020			234–247			TESL Canada Journal	37(2)					
+	article	Yuan2021	Yuan, Z., Taslimipoor, S., Davis, C., Bryant, C. 	Multi-Class Grammatical Error Detection for Correction: A Tale of Two Systems	2021			8722–8736	Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing								
+	article	Gerdes2021	Gerdes K., Sylvain K., Xinying C. 	Typometrics: From Implicational to Quantitative Universals in Word Order Typology	2021			1–31			Glossa: a journal of general linguistics	6(1)					
+	book	aikhenvald2010	Aikhenvald, Alexandra Y.	Imperatives and commands	2010	Oxford University Press	Oxford										
+	book	bammatovgadzhiaxmedov2013	Bammatov, Burgan G., Gadžiaxmedov, Nurmagomed È.	Kumyksko-russkij slovarʹ [Kumyk-Russian dictionary]	2013	IJaLI	Makhachkala										
+	inbook	dingemanse2023	Dingemanse, Mark	Interjections	2023	Oxford University Press	Oxford	477–491	The Oxford Handbook of Word Classes	Eva van Lier				https://til.im/ru/slovar			
+	inbook	dobrushina2019	Dobrushina, Nina	Moods of Mehweb	2019	Language Science Press	Berlin	117–165	The Mehweb language. Essays on phonology, morphology and syntax	Michael Daniel, Nina Dobrushina, Dmitry Ganenkov							
+	book	ganieva2002	Ganieva, Faida A.	Xinalugsko-russkij slovarʹ [Khinalug-Russian dictionary]	2002	DNC RAN	Makhachkala										
+	book	gusev2013	Gusev, Valentin Ju.	Tipologija imperativa [Typology of the imperative]	2013	Jazyki slavjanskoj kulʹtury	Moscow										
+	book	jusupov2014	Jusupov, Xizri A.	Darginsko-russkij slovarʹ (rukopisʹ) [Dargwa-Russian dictionary (manuscript)]	2014	Institut istorii, jazyka i literatury im. G. Cadasy.	Makhachkala										
+	book	talibovgadzhiev1966	Talibov, Bukar B., Gadžiev, Magomed M.	Lezginsko-russkij slovarʹ [Lezgian-Russian dictionary]	1966	Sovetskaja Ènciklopedija	Moscow										
+	book	xalilovisakov2005	Xalilov, Madžid Š., Isakov, Isak A.	Ginuxsko-russkij slovarʹ [Hinuq-Russian dictionary]	2005	DNC RAN Institut jazyka, literatury i iskusstva im. G. Cadasy i Institut èvoljucionnoj antropologii im. M. Planka	Makhachkala										
+	article	zerzele2024	Zerzele, Vasiliy	Plural marking on imperatives and prohibitives	2024	Linguistic Convergence Laboratory	Moscow		Typological Atlas of the Languages of Daghestan (TALD)	Michael Daniel, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato, Samira Verhees							
+	inbook	arkadievpanova2024	Arkadiev Peter, Panova Anastasia	Independent pronouns in languages with pronominal affixes: Evidence from Abaza	2024	Буки Веди	Москва	30–58	Состав науки: Сборник статей к юбилею Веры Исааковны Подлесской	Коротаев Н. А., Сумбатова Н. Р.							
+	article	bickel2003	Bickel, Balthasar	Referential Density in Discourse and Syntactic Typology	2003			708–736			Language	4		doi:10.1353/lan.2003.0205	79		
+	inbook	givon1983	Givón, Talmy	Topic continuity in discourse: The functional domain of switch-reference	1983	John Benjamins Publishing Company	Amsterdam	51–82	Switch reference and universal grammar	Haiman John, Munro Pamela				doi:10.1075/tsl.2.06giv	2		
+	book	kibrik2011	Kibrik, Andrej	Reference in Discourse	2011	Oxford University Press	Oxford							doi:10.1093/acprof:oso/9780199215805.001.0001			
+	inproceeding	kibrik1999	Kibrik, Andrej A.	Cognitive inferences from discourse observations: Reference and working memory	1999	Benjamins	Amsterdam	29-52	Discourse studies in cognitive linguistics. Proceedings of the 5th International cognitive linguistics conference	K. van Hoek, A.A. Kibrik, and L. Noordman							
+	article	kibrik1997	Кибрик, Андрей Александрович	Моделирование многофакторного процесса: выбор референциального средства в русском дискурсе	1997			94–105			Вестник Московского университета	4					
+	book	alekseevetal2012	Алексеев М. Е., Атаев Б. М., Магомедов М. А., Магомедов М. И., Мадиева Г. И., Саидова П. А., Самедов Дж. С.	Современный аварский язык	2012	ИЯЛИ ДНЦ РАН, Изд-во АЛЕФ	Махачкала										
+	phdthesis	zakirova2023	Zakirova A.	Number marking across different word classes in the East Caucasian languages	2023	HSE University	Moscow										
+	book	sumbatovamutalov2003	Sumbatova N. R., Mutalov R. O.	A grammar of Icari Dargwa	2003	Lincom Europa											
+	book	kazenin2013	Казенин К. И.	Синтаксис современного лакского языка	2013	ИЯЛИ им. Г. Цадасы ДНЦ РАН; Алеф	Махачкала										
+	phdthesis	babaliyeva2013	Babaliyeva A.	Études sur la morphosyntaxe du Tabasaran Littéraire	2013	École Pratique des Hautes Études											
+	inbook	johanson1998	Johanson, L.	The structure of Turkic	1998	Routledge		30–66	The Turkic languages	L. Johanson, É. Á. Csató							
+ru	book	abdullaevaetal2014	Абдуллаева А. З., Гаджиахмедов Н. Э., Кадыраджиев К. С., Керимов И. А., Ольмесов Н. Х., Хангишиев Д. М.	Современный кумыкский язык	2014	ИЯЛИ ДНЦ РАН	Махачкала			Н. Э. Гаджиахмедов							
+ru	book	zaikovrugoeva1999	Зайков П. М., Ругоева Л. И.	Карельско-русский словарь	1999	Периодика	Петрозаводск										
+	book	rieseetal2022	Riese T., Bradley J., Yefremova T.	Mari. An Essential Grammar for International Learners	2022	University of Vienna								grammar.mari-language.com			
+ru	book	oslon2018	Ослон М. В.	Язык котляров-молдован. Грамматика кэлдэрарского диалекта цыганского языка в русскоязычном окружении	2018	Издательский Дом ЯСК	Москва										
+	article	batesetal2015	Bates D., Mächler M., Bolker B., Walker S.	Fitting Linear Mixed-Effects Models Using lme4	2015			1–48			Journal of Statistical Software	1			67		
+	article	nakagawaschielzeth2013	Nakagawa S., Schielzeth H.	A general and simple method for obtaining R2 from generalized linear mixed-effects models	2013			133–142			Methods Ecol Evol.	4					
+	article	luebbering2013	Luebbering, C. R.	Displaying the geography of language: the cartography of language maps	2013			39-67			The Linguistics Journal	1			7		
+	manual	moroz2017	Moroz, George	lingtypology: easy mapping for Linguistic Typology [R package]	2017												
+	inbook	drude2018	Drude, S.	Why we need better language maps, and what they could look like.	2018	FEL & EL Publishing	London	33-40	Endangered languages and the land: Mapping landscapes of multilingualism								
+	inbook	macaulay2014	Macaulay, R. K.	Linguistic maps: Visual aid or abstract art?	2014	Routledge		172-186	Studies in Linguistic Geography								
+	article	naccaratoverhees2021	Naccarato Chiara, Samira Verhees 	Morning greetings	2021	Linguistic Convergence Laboratory	Moscow		Typological Atlas of the Languages of Daghestan (TALD)	Michael Daniel, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato, Samira Verhees				10.5281/zenodo.6807070			
+	article	meulemansetal2020	Meulemans, W., Sondag, M., & Speckmann, B.	A simple pipeline for coherent grid maps	2020			1236-1246			IEEE Transactions on Visualization and Computer Graphics	2			27		
+	article	loecherropkins2015	Loecher, M., & Ropkins, K.	RgoogleMaps and loa: Unleashing R graphics power on map tiles	2015			1-18			Journal of Statistical Software				63		
+	article	mcneillhale2017	McNeill, G., & Hale, S. A.	Generating tile maps	2017			435-445			Computer graphics forum	3			36		
+	inbook	peterson2011	Peterson, M. P.	The tile-based mapping transition in cartography	2011	Springer Berlin Heidelberg	Berlin, Heidelberg	151-163	Maps for the Future: Children, Education and Internet								
+	article	panse2018	Panse, C.	Rectangular statistical cartograms in R: The recmap package	2018			1-27			Journal of Statistical Software				86		
+	article	moroz2021	Moroz, George 	On phonology of East Caucasian languages	2021	Linguistic Convergence Laboratory	Moscow		Typological Atlas of the Languages of Daghestan (TALD)	Michael Daniel, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato, Samira Verhees							
+	misc	bates2014	Bates, D.	Fitting linear mixed-effects models using lme4	2014									https://arxiv.org/abs/1406.5823			
+	inbook	caponigropearl2008	Caponigro, I., & Pearl, L.	Silent prepositions: Evidence from free relatives.	2008			365–385	The Syntax and  Semantics of Spatial P					https://chooser.crossref.org/?doi=10.1075%2Fla.120.18cap			
+	article	danieletal2010	Daniel, M., Dobrushina, N., & Knyazev, S.	Highlanders’ Russian: Case study in bilingualism  and language interference in Central Daghestan	2010			65-93			Slavica Helsingiensia				40		
+	article	gehrkelekakou2013	Gehrke, B., & Lekakou, M.	How to miss your preposition	2013			92-106			Studies in Greek Linguistics			https://www.academia.edu/2092553/How_to_miss_your_preposition_with_Marika_Lekakou_	33		
+	inproceeding	khomchenkovaetal2018	Khomchenkova, I., Pleshak, P., & Stoynova, N.	Gender disagreement in the contactinfluenced Russian of Northern Siberia and Russian Far East	2018			14–15	Theoretical and Experimental Approaches to Gender								
+	book	levshina2015	Levshina, N.	How to do linguistics with R	2015	John Benjamins								https://doi.org/10.1075/z.195.website 			
+	article	naccaratomoroz2025	Naccarato, C., & Moroz, G.	Non-standard numeral constructions in L2 Russian: A corpusbased study	2025						International Journal of Bilingualism			https://doi.org/10.1177/13670069251323203			
+	article	panovaphilippova2021	Panova, A., & Philippova, T.	When a cross-linguistic tendency marries incomplete acquisition: Preposition drop in Russian spoken in Daghestan	2021			640-667			International Journal of Bilingualism	3		https://doi.org/10.1177/1367006921990442			
+	inbook	savelyev2020	Savelyev, A.	Chuvash and the Bulgharic languages	2020			446-464	The Oxford Guide to the Transeurasian Languages					https://doi.org/10.1093/oso/9780198804628.003.0028			
+	inbook	shagal2016	Shagal, K.	Contact-induced grammatical phenomena in the Russian of Erzya Speakers	2016	University of Helsinki	Helsinki	363–377	Mordvin languages in the field								
+ru	inbook	andreev1961	Андреев, Н. А.	Краткий грамматический очерк чувашского языка.	1961	Государственное издательство иностранных и национальных словарей			Чувашско-русский словарь								
+ru	book	ashmarin1903	Ашмарин, Н. И.	Опыт исследования чувашского синтаксиса: часть первая	1903	Типолитография Клучникова											
+ru	inbook	bubrikh1985	Бубрих, Д. В.	Русский язык в его отличиях от мордовского.	1985	Мордов. кн. изд-во		146–165	Проблемы мордовско-русского билингвизма								
+ru	book	myiznikov2005	Мызников, С. А.	Русские говоры Среднего Поволжья	2005	Наука											
+ru	book	pavlov2017	Павлов, И. П.	Современный чувашский язык (Vol. 2)	2017	Чувашский гос. ин-т гуманитарных наук											
+ru	book	rezyukov1959	Резюков, Н. А.	Сопоставительная грамматика чувашского и русского языков.	1959	Гос.  изд. Чувашской АССР											
+ru	article	stoynovashluinskiy2010	Стойнова, Н. М., & Шлуинский, А. Б.	Русская речь лесных энцев: зарисовки исследователей вымирающего языка	2010			153–165			Slavica Helsingiensia						
+ru	misc	corpus2020a	Архангельский Т. А.	Корпус русской речи бесермян.	2020	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва										
+ru	misc	corpus2018a	Байда (Иванова) К. А., Холодилова М. A., Егорова (Кожемякина) А. Д., Романова Е. А., Ремизова Т. Е., Сторожева А. А., Тарасова Н. К., Зорина В. А., Морозова В. А., Панова А. Б., Добрушина Н. Р.	Корпус русской речи Чувашии.	2018	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва										
+ru	misc	corpus2022	Влахов А. В, Лапина М. С., Смирнова А. А. Елагина А. А., Мордасов М. А., Рыжков А. М., Булгаков Г. П., Смирнова Е. В., Тимошина А. А.	Корпус русской речи Карелии.	2022	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва										
+ru	misc	corpus2023	Волкова А. А.	Корпус русской речи республики Марий Эл.	2023	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва										
+ru	misc	corpus2018b	Добрушина Н. Р., Даниэль М. А., Р. фон Вальденфельс, Майсак Т. А., Панова А. Б.	Корпус русской речи Дагестана.	2018	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва										
+ru	misc	corpus2020b	Кожанов К. А., Хадасевич А. С., Черных А. В.	Корпус цыганского русского.	2020	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва										
+ru	misc	corpus2019	Сокур Е. О., Морозова В. А.	Корпус русской речи Башкортостана.	2019	Международная лаборатория языковой конвергенции, НИУ ВШЭ	Москва										
+ru	misc	ruscorpus		Национальный корпус русского языка										https://ruscorpora.ru/			
+	misc	wals		WALS Online	2013					Dryer, Matthew S. & Haspelmath, Martin				https://doi.org/10.5281/zenodo.13950591			
+	misc	dagatlas	Daniel, Michael, Konstantin Filatov, Timur Maisak, George Moroz, Timofey Mukhin, Chiara Naccarato, and Samira Verhees	Typological Atlas of the Languages of Daghestan (TALD), v. 2.0.0.	2025	Linguistic Convergence Laboratory, NRU HSE	Moscow							https://lingconlab.ru/tald			
+ru	book	kibrik2001	Кибрик, А. Е.	Багвалинский язык: грамматика, тексты, словари	2001	ИМЛИ РАН Наследие	Москва										
+ru	article	Borisov2024a	Борисов, Евгений Васильевич	Прямое решение проблемы Крипке	2024			23--32			Эпистемология и философия науки	2			61		
+ru	article	Borisov2024b	Борисов, Евгений Васильевич	Ответ оппонентам	2024			89--94			Эпистемология и философия науки	2			61		
+ru	article	Ladov2024	Ладов, Всеволод Адольфович	Значение: реализм vs скептицизм	2024			43--50			Эпистемология и философия науки	2			61		
+	article	Achouriotietal2014	Achourioti, Theodora and Fugard, Andrew J. B. and Stenning, Keith	The Empirical Study of Norms Is Just What We Are Missing	2014			1--15			Frontiers in Psychology				5		
+	article	AnderBoisetal2015	AnderBois, Scott and Brasoveanu, Adrian and Henderson, Robert	At-issue proposals and appositive impositions in discourse	2015			93--138			Journal of Semantics	1			32		
+	article	Asher2000	Asher, Nicholas	Truth conditional discourse semantics for parentheticals	2000			31--50			Journal of Semantics	1			17		
+	article	belluccipietarinen2016	Bellucci, Francesco and Pietarinen, Ahti-Veikko	Existential graphs as an instrument of logical analysis: Part I. Alpha	2016	Cambridge University Press		209--237			The Review of Symbolic Logic	2			9		
+	article	Buring2003	Büring, Daniel	On d-trees, beans, and b-accents	2023			511--545			Linguistics and Philosophy	5			26		
+	article	cannizzaro2016	Cannizzaro, Sara	Internet memes as internet signs: A semiotic view of digital culture	2016	Ulikooli Kirjastus	Tartu	562--586			Sign Systems Studies	4			44		
+	article	clawsonlevin2023	Clawson, Wesley P. and Levin, Michael	Endless forms most beautiful 2.0: teleonomy and the bioengineering of chimaeric and synthetic organisms	2023	Oxford University Press UK		457--486			Biological Journal of the Linnean Society	4			139		
+	article	conant1991	Conant, James	In Search of Logical Alien Thought -- Descartes, Kant, Frege and the Tractatus	1991			115--180			Philosophical Topics	1			20		
+	article	davies2023	Davies, Jamie and Levin, Michael	Synthetic morphology with agential materials	2023	Nature Publishing Group UK London		46--59			Nature Reviews Bioengineering	1			1		
+	article	ebrahimkhani2021	Ebrahimkhani, Mo R and Levin, Michael	Synthetic living machines: A new window on life	2021	Elsevier		102505			Iscience	5			24		
+	article	FarkasBruce2010	Farkas, Donka F. and Bruce, Kim B.	On Reacting to Assertions and Polar Questions	2010			81--118			Journal of Semantics				27		
+	article	fieldsetal2021	Fields, Chris and Glazebrook, James F and Levin, Michael	Minimal physicalism as a scale-free substrate for cognition and consciousness	2021	Oxford University Press		niab013			Neuroscience of Consciousness	2			2021		
+	article	friston2009	Friston, Karl	The free-energy principle: a rough guide to the brain?	2009	Elsevier		293--301			Trends in cognitive sciences	7			13		
+	article	fristonetal2016	Friston, Karl and FitzGerald, Thomas and Rigoli, Francesco and Schwartenbeck, Philipp and Pezzulo, Giovanni and others	Active inference and learning	2016	Elsevier		862--879			Neuroscience & Biobehavioral Reviews				68		
+	article	friston2010	Friston, Karl	The free-energy principle: a unified brain theory?	2010	Nature publishing group		127--138			Nature reviews neuroscience	2			11		
+	article	ginsborg2012	Ginsborg, Hannah	Normativity of Meaning	2012	Oxford University Press		127--146			Proceedings of the Aristotelian Society. Supplementary Volume				86		
+	article	Koev2021	Koev, Todor	Gradient At-issueness vs. Uncertainty about Binary At-issueness	2021			130--140			Theoretical Linguistics				44		
+	article	lagasselevin2023	Lagasse, Eric and Levin, Michael	Future medicine: from molecular pathways to the collective intelligence of the body	2023	Elsevier		687--710			Trends in molecular medicine	9			29		
+	article	levinmartinez2019	Levin, Michael and Martinez Arias, Alfonso	Reverse-engineering growth and form in Heidelberg	2019	The Company of Biologists Ltd		dev177261			Development	14			146		
+	article	levin2019	Levin, Michael	The computational boundary of a “self”: developmental bioelectricity drives multicellularity and scale-free cognition	2019	Frontiers Media SA		2688			Frontiers in psychology				10		
+	article	levin2021	Levin, Michael	Life, death, and self: Fundamental questions of primitive cognition viewed through the lens of body plasticity and synthetic organisms	2021	Elsevier		114--133			Biochemical and Biophysical Research Communications				564		
+	article	levin2022	Levin, Michael	Technological approach to mind everywhere: an experimentally-grounded framework for understanding diverse bodies and minds	2022	Frontiers Media SA		768201			Frontiers in systems neuroscience				16		
+	article	manickalevin2022	Manicka, Santosh and Levin, Michael	Minimal developmental computation: a causal network approach to understand morphogenetic pattern formation	2022	MDPI		107			Entropy	1			24		
+	article	moltmann2013	Moltmann, Frederike	Propositions, attitudinal objects, and the distinction between actions and products	2013	University of Calgary Press		679--701			Canadian Journal of Philosophy	5/6			43		
+	article	moltmann2020	Moltmann, Frederike	Truthmaker semantics for natural language: Attitude verbs, modals, and intensional transitive verbs	2020	Mouton de Gruyter		159--200			Theoretical Linguistics	3-4			46		
+	article	nagel1974	Nagel, Thomas	What Is It Like to Be a Bat?	1974			435--450			The Philosophical Review	4			83		
+	article	pezzulolevin2016	Pezzulo, Giovanni and Levin, Michael	Top-down models in biology: explanation and control of complex living systems above the molecular level	2016	The Royal Society		20160555			Journal of The Royal Society Interface	124			13		
+	article	pietarinenbeni2021	Pietarinen, Ahti-Veikko and Beni, Majid D.	Active inference and abduction	2021	Springer		499--517			Biosemiotics	2			14		
+	article	quine1960	Quine, Willard Van Orman	Carnap and Logical Truth	1960			350--374			Synthese	4			12		
+	article	Rolf1980	Rolf, Bertil	A theory of vagueness	1980	Springer		315--325			Journal of Philosophical Logic	3			9		
+	article	watsonlevin2023	Watson, Richard and Levin, Michael	The collective intelligence of evolution and development	2023	Sage Publications Sage UK: London, England		2.63391372311684E+016			Collective Intelligence	2			2		
+	article	wright2001	Wright, Crispin	On being in a quandary. Relativism, vagueness, logical revisionism	2001			45--98			Mind	1			110		
+	article	Zardini2008a	Zardini, Elia	A Model of Tolerance	2008	Springer		337--368			Studia Logica	3			90		
+	article	Haack2005	Haack, Susan	Not cynicism, but synechism: Lessons from classical pragmatism	2005			239--253			Trans.  Charles S Peirce Soc. : A Quarterly Journal in American Philosophy	2			41		
+ru	article	Tsypanov2002	Цыпанов, Евгений Александрович	К вопросу о факторах, определяющих употребление I и II прошедших времен в коми языке	2002			165--175			Linguistica uralica				XXXVIII		
+ru	article	LeinonenTsypanov2007	Лейнонен, Марья and Цыпанов, Евгений Александрович	Грамматическая семантика эвиденциальности в коми языке (на материале модального перфекта)	2009			23--35			Linguistica uralica				XLV		
+	article	LeinonenVilkuna2008	Leinonen, Marija and Vilkuna, Maria	Past tenses in Permic languages	2008			495--514			Tense and Aspect in the Languages of Europe						
+	article	Anderson1986	Anderson, Lloyd B.	Evidentials, paths of change, and mental maps: typologically regular asymmetries	1986			273--312			Advances in Discourse Processes				20		
+	article	Matthewsonetal2007	Matthewson, Lisa and Davis, Henry and Rullmann, Hotze	Evidentials as epistemic modals: evidence from St’ ́at’imcets’	2007			201--254			Linguistic Variation Yearbook				7		
+	article	SauerlandSchenner2007	Sauerland, Uli and Schenner, Mathias	Embedded evidentials in Bulgarian	2007			495--509			Proceedings of Sinn und Bedeutung				11		
+	article	Koev2017	Koev, Todor	Evidentiality, Learning Events, and Spatiotemporal Distance: The View from Bulgarian	2017			1--41			Journal of Semantics	1			34		
+	article	Murray2014	Murray, Sarah	Varieties of update	2014			1--53			Semantics & Pragmatics	2			7		
+	article	vonFintelGillies2010	von Fintel, Kai and Gillies, Anthony S.	Must... stay... strong!	2010			350--383			Natural Language Semantics				18		
+ru	book	Ladov2008	Ладов, Всеволод Адольфович	Иллюзия значения: Проблема следования правилу в аналитической философии	2008	Изд-во Томcкого университета	Томск										
+	book	armstrongmalcolm1984	Armstrong, David Malet and Malcolm, Norman	Consciousness and Causality. A Debate on the Nature of Mind	1984	Basil Blackwell	Oxford										
+	book	austin1962	Austin, John Langshaw	How to Do Things with Words	1962	Clarendon Press	Oxford										
+	book	Bacon2018	Bacon, Andrew	Vagueness and Thought	2018	Oxford University Press	Oxford										
+	book	Dawkins1976	Dawkins, Richard	The Selfish Gene	1976	Oxford University Press	New York										
+	book	Dawkins2006	Dawkins, Richard	The God Delusion	2006	Transworld Publishers	Kent										
+	book	frege1964	Frege, Gottlob	The Basic Laws of Arithmetic	1964	University of California Press	Berkeley										
+	book	Jackendoff1972	Jackendoff, Ray S.	Semantic Interpretation in Generative Grammar	1972	MIT Press	Cambridge, Mass.										
+	book	moltmann2024	Moltmann, Frederike	Objects and Attitudes	2024	Oxford University Press	Oxford										
+	book	putnam1981	Putnam, Hilary	Reason, truth and history	1981	Cambridge University Press	Cambridge										
+	book	putnam1987	Putnam, Hilary	The Many Faces of Realism: The Paul Carus Lectures	1987	Open Court	LaSalle, Illinois										
+	book	williamson2022	Williamson, Timothy	The Philosophy of Philosophy. Second Edition	2022	Wiley-Blackwell	Hoboken and Chichester										
+ru	book	Bubrich1949	Бубрих, Дмитрий Владимирович	Грамматика литературного коми языка	1949	ЛГУ им. А. А. Жданова	Ленинград										
+ru	book	Serebrennikov1960	Серебренников, Борис Александрович	Категория времени и вида в финно-угорских языках пермской и волжской группы	1960	Наука	Москва										
+ru	book	Tsypanov2005	Цыпанов, Евгений Александрович	Грамматические категории глагола в коми языке	2005		Сыктывкар										
+	book	Aikhenvald2004	Aikhenvald, Alexandra	Evidentiality	2004	Oxford University Press	Oxford										
+	book	Peirce1966	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume VII. Science and Philosophy and Volume VIII. Reviews, Correspondence and Bibliography	1966	Belknap Press of Harvard University Press	Cambridge, MA			Burks, Arthur W.							
+	book	Peirce1960a	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume I. Principles of Philosophy and Volume II. Elements of Logic	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul							
+	book	Peirce1960b	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume V. Pragmatism and Pragmaticism and Volume VI. Scientific Metaphysics	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul							
+	book	Peirce1960c	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume III. Exact Logic (Published Papers) and Volume IV. The Simplest Mathematics	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul							
+ru	incollection	Kant1994	Кант, Иммануил	Логика, 1800	1994	Издательство «Чоро»	Москва	266--398	Кант И. Собрание сочинений в восьми томах. Том 8.	Гулыга, Арсений Владимирович							
+	incollection	bobrovapietarinen2019	Bobrova, Angelina and Pietarinen, Ahti-Veikko	Thoughts, things and logical guidance	2019	Springer	Cham	43--58	Peirce and Husserl: Mutual insights on logic, mathematics and cognition	Shafiei, Mohammad and Pietarinen, Ahti-Veikko					46	Logic, Epistemology, and the Unity of Science	
+	incollection	Buring2007	Büring, Daniel	Intonation, semantics and information structure	2007	Oxford University Press	Oxford	445--474	The Oxford Handbook of Linguistic Interfaces	Ramchand, Gillian and Reiss, Charles							
+	incollection	Edgington1997	Edgington, Dorothy	Vagueness by degrees	1997	MIT Press	Cambridge, MA	294--316	Vagueness: A Reader	Keefe, Rosanna and Smith, Peter							
+	incollection	Hooper1975	Hooper, Joan B.	On assertive predicates	1975	BRILL	Leiden; Boston	91--124	Syntax and Semantics	Kimball, John P.					4	Syntax and Semantics	
+	incollection	moltmann2023	Moltmann, Frederike	Attitudinal objects and propositions	2023	Routledge	New York and London	408--423	Routledge Handbook of Propositions	Tillman, Chris and Murray, Adam Russell							
+	incollection	Roberts1996	Roberts, Craige	Information structure: Towards an integrated formal theory of pragmatics	1996	The Ohio State University Department of Linguistics	Columbus, OH	91--136	Papers in Semantics	Yoon, Jae Hak and Kathol, Andreas					49	OSU Working Papers in Linguistics	
+	incollection	ross1973	Ross, John Robert	Slifting	1973	Mouton de Gruyter	The Hague; Paris	133--169	The Formal Analysis of Natural Languages	Gross, Maurice and Halle, Morris and Schützenberger, Marcel-Paul							
+	incollection	Stalnaker1978	Stalnaker, Robert	Assertion	1978	Academic Press	New York	315--332	Pragmatics	Cole, Peter					9	Syntax and Semantics	
+	incollection	Leinonen2000	Leinonen, Marija	Evidentiality in Komi Zyryan	2000	De Gruyter Mouton	Berlin, Boston	419--440	Evidentials: Turkic, Iranian and Neighbouring Languages	Johanson, Lars and Utas, Bo							
+	incollection	Grice1975	Grice, Paul	Logic and Conversation	1975	Academic Press	New York	43--58	Speech Acts	Cole, Peter and Morgan, Jerry L.					3	Syntax and Semantics	
+	inproceedings	AnderBoisetal2010	AnderBois, Scott and Brasoveanu, Adrian and Henderson, Robert	Crossing the Appositive/At-issue Meaning Boundary	2010	Linguistic Society of America	Ithaca, NY	328--346	Proceedings of Semantics and Linguistic Theory 20	Li, Nan and Lutz, David					20	Proceedings of Semantics and Linguistic Theory	
+	inproceedings	bellucciburton2020	Bellucci, Francesco and Burton, Jim	Observational advantages and occurrence referentiality	2020	Springer	Basel	202--215	Diagrammatic Representation and Inference. 11th International Conference, Diagrams	Pietarinen, Ahti-Veikko and Chapman, Peter and Bosveld-de Smet, Leonie and Giardino, Valeria and Corter, James and Linker, Sven					12169	Lecture Notes in Computer Science	
+	inproceedings	Simonsetal2010	Simons, Mandy and Tonhauser, Judith and Beaver, David and Roberts, Craige	What projects and why	2010	Linguistic Society of America	Ithaca, NY	309--327	Proceedings of Semantics and Linguistic Theory 20	Li, Nan and Lutz, David					20	Proceedings of Semantics and Linguistic Theory	
+	inproceedings	Izvorski1997	Izvorski, Roumyana	The present perfect as an epistemic modal	1997	Linguistic Society of America	Ithaca, NY	222--239	Proceedings of Semantics and Linguistic Theory 7	Lawson, Aaron					7	Proceedings of Semantics and Linguistic Theory	
+	misc	levinetal2021	Levin, Michael and Keijzer, Fred and Lyon, Pamela and Arendt, Detlev	Uncovering cognitive similarities and differences, conservation and innovation	2021	The Royal Society		20200458			Philosophical Transactions of the Royal Society B	1821			376		
+	phdthesis	Zardini2008b	Zardini, Elia	Living on the slippery slope. The nature, sources and logic of vagueness	2008								University of St Andrews				
+ru	phdthesis	Subbota2008	Суббота, Клавдия Александровна	Глагол в ижемском диалекте коми языка: грамматические категории и словообразование (на материале казымского говора)	2008								ГОУ ВПО «Сыктывкарский Государственный Университет»				
+	phdthesis	Siegl2004	Siegl, Florian	The second past in the Permic languages: form, function, and a comparative analysis from a typological perspective	2004								University of Tartu				
+	phdthesis	Faller2002	Faller, Martina	Semantics and Pragmatics of Evidentials in Cuzco Quechua	2002								Stanford University				
+	phdthesis	Murray2010	Murray, Sarah	Evidentiality and the Structure of Speech Acts	2010								Rutgers University				
+	phdthesis	Garrett2001	Garrett, Edward John	Evidentiality and Assertion in Tibetan	2001								UCLA				
+ru	book	karamshoev1988	Карамшоев, Д. К.	{Ш}угнанско-русский словарь в трёх томах. {А}—{З}	1988	Наука	М.								1		
+ru	book	karamshoev1986	Карамшоев, Д. К.	{К}атегория рода в памирских языках (шугнано-рушанская группа)	1986	Дониш	Душанбе								2		
+ru	book	karamshoev1963	Карамшоев, Д. К.	{Б}аджувский диалект шугнанского языка	1963	Академия наук Таджикской ССР	Душанбе										
+ru	book	zarubin1960	Зарубин, И. И.	{Ш}угнанские тексты и словарь	1960	Издательство Академии наук СССР	М., Л.										
+	thesis	parker2023	Parker, Clinton	{A} {G}rammar of the {S}hughni Language	2023		Montreal						McGill University				
+	incollection	samvelian2018	Samvelian, Pollet	{S}pecific features of {P}ersian syntax. The {E}zāfe {C}onstruction, {D}ifferential {O}bject {M}arking and {C}omplex {P}redicates	2018	Oxford University Press	Oxford	226--269	{T}he {O}xford handbook of {P}ersian linguistics	Sedighi, Anousheh and Shabani-Jadid, Pouneh							
+	article	modarresikrifka2021	Modarresi, Fereshteh and Krifka, Manfred	{P}seudo {I}ncorporation and {A}naphoricity: {E}vidence from {P}ersian	2021	Open Library of Humanities		1--32			Glossa: a journal of general linguistics	1			36		
+	article	driemel2020	Driemel, Imke	{P}seudo-incorporation and its movement patterns	2020	Open Library of Humanities		1--40			Glossa: a journal of general linguistics	1			5		
+	article	dabirmoghaddam197	Dabir-Moghaddam, Mohammad	{C}ompound verb in Persian	1997	University of Illinois		25--59			Studies in the Linguistic Science	2			27		
+	incollection	helmbrecht2006	Helmbrecht, Johannes	{A}re there adjectives in {H}ocąk ({W}innebago)?	2006	Peter Lang International Academic Publishers	Bern	289--316	{L}exical categories and root classes in {A}merindian languages	Lois, Ximena and Vapnarsky, Valentina							
+	incollection	dixon2004	Dixon, R. M. W.	{A}djective classes: {A} cross linguistic typology	2004	Oxford University Press	Oxford	1--49	{A}djective classes: {A} cross linguistic typology	Dixon, R. M. W. and Aikenvald, Alexandra Y.					1	Explorations in Linguistic Typology	
+	article	dixon1977	Dixon, R. M. W.	{W}here {H}ave {A}ll the {A}djectives {G}one?	1977	John Benjamins Publishing Company	Amsterdam/Philadephia	19--80			Studies in Language	1			1		
+	article	rozovskayaroth2019	Rozovskaya, A., Roth, D.	{G}rammar error correction in morphologically rich languages: {T}he case of {R}ussian	2019	MIT Press	Cambridge, Massachusetts	1–17	{T}ransactions of the {A}ssociation for {C}omputational {L}inguistics	Asli Celikyilmaz, Roi Reichart and Dilek Hakkani Tur							
+	article	kosakinetal2024	Kosakin, D., Obiedkov, S., Smirnov, I., Rakhilina, E., Vyrenkova, A., Zalivina, E.	{T}owards {E}rror-{C}ause {A}nnotation for {L}2 {R}ussian	2024	ELRA and ICCL	Torino, Italy	14240-14258	{P}roceedings of the 2024 {J}oint {I}nternational {C}onference on {C}omputational {L}inguistics, {L}anguage {R}esources and {E}valuation ({L}{R}{E}{C}-{C}{O}{L}{I}{N}{G} 2024)	Nicoletta Calzolari, Min-Yen Kan, Veronique Hoste, Alessandro Lenci, Sakriani Sakti and Nianwen Xue							
+	article	warrineretal2017	Warriner, A.B., Shore, D.I., Schmidt, L.A., Imbault, C.L., Kuperman, V.	{S}liding into happiness: a new tool for measuring affective responses to words	2017	CPA	Ottawa, Canada	71-88			{C}anadian {J}ournal of {E}xperimental {P}sychology	1			71		
+	article	bradleylang1999	Bradley, M.M., Lang, P.J.	{A}ffective norms for {E}nglish words ({A}{N}{E}{W}): {I}nstruction manual and affective ratings	1999	University of Florida	US		{T}echnical {R}eport C-1								
+	article	cheekbuss1981	Cheek, J. M., Buss, A. H.	{S}hyness and sociability	1981	APA	Washington, D.C.	330–339			{J}ournal of {P}ersonality and {S}ocial {P}sychology	41					
+	article	jolliffefarrington2006	Jolliffe, D., Farrington, D. P.	{D}evelopment and validation of the {B}asic {E}mpathy {S}cale	2006	Wiley	USA	589–611			{J}ournal of {A}dolescence	4			29		
+	article	carverwhite1994	Carver, C. S., White, T. L.	{B}ehavioral inhibition, behavioral activation, and affective responses to impending reward and punishment: {T}he {B}{I}{S}/{B}{A}{S} {S}cales	1994	APA	Washington, D.C.	319–333			{J}ournal of {P}ersonality and {S}ocial {P}sychology	2			67		
+ru	article	rakhilinareznikova2013	Рахилина, Е.В. and Резникова, Т.И.	{Ф}реймовый подход к лексической типологии	2013			3--31			Вопросы языкознания	2					
+ru	article	lapshinaetal2024	Лапшина, К.М. and Копылова, Е.В. and Матюхина, Е.П.	{С}емантическое поле 'менять' в финском языке	2024			22--41			Урало-алтайские исследования	1			52		
+ru	article	kazkenova2026	Казкенова, А.К.	{Г}лаголы семантического поля 'менять' в казахском языке	2026			in print			Acta Linguistica Petropolitana. Труды Института лингвистических исследований	1					
+	incollection	francois2008	François, Alexandre	{S}emantic maps and the typology of colexification: Intertwining polysemous networks across languages	2008	John Benjamins Publishing Company	Amsterdam/Philadephia	163--215	{F}rom {P}olysemy to {S}emantic {C}hange: {T}owards a {T}ypology of {L}exical {S}emantic {A}ssociations	Vanhove, Martine						Studies in Language Companion Series	
+	article	goldbergsuttle2010	Goldberg, Adele and Suttle, Laura	{C}onstruction grammar	2010			468--477			WIREs Cognitive Science	4			1		
+	article	jandaetal2023	Janda, Laura A and Endresen, Anna and Zhukova, Valentina and Mordashova, Daria and Rakhilina, Ekaterina	{F}rom data to theory: {A}n emergent semantic classification based on the large-scale {R}ussian constructicon	2023	John Benjamins Publishing Company Amsterdam/Philadelphia		1--58			Constructions and Frames	1			15		
+ru	book	petrova2011	Петрова, З.Н. and Коноплина, Е.Д.	{С}ловарь русского языка XVIII века. Вып. 19 (Пенат — Плангерд).	2011	Наука	СПб	239									
+ru	book	rakhilina2010	Рахилина, Е.В.	{К}огнитивный анализ предметных имен	2010	Азбуковник	М.	448									
+ru	book	ryzhovaetal2018	Рыжова, Д.А. and Добрушина, Н.Р. and Бонч-Осмоловская, А.А. and Выренкова, А.С. and Кюсева, М.В. and Орехов, Б.В. and Резникова, Т.И.	{ЕВР}ика! {С}борник статей о поисках и находках к юбилею {Е.В. Р}ахилиной	2018	Лабиринт	М.	392									
+ru	article	reznikova2022	Резникова, Т.И.	{Г}лаголы прятания: типология систем	2022			66--94			Вопросы языкознания	4					
+ru	article	bagirokovaryzhova2022	Багирокова, И.Г. and Рыжова, Д.А.	{Г}лаголы прятания и особенности их оформления локативными аффиксами в адыгейском языке	2022			95--114			Вопросы языкознания	4					
+ru	article	rakhilinaryzhova2025	Рахилина, Е.В. and Рыжова, Д.А.	{О} принципах глагольной колексификации	2025			7--25			Вопросы языкознания	2					
+	book	lehrer1974	Lehrer, Adrienne	{S}emantic fields and lexical structure	1974	North-Holland	Amsterdam	225									
+ru	misc	apresyanpekelis2012	Апресян, В.Ю. and Пекелис, О.Е	{М}атериалы для проекта корпусного описания русской грамматики (http://rusgram.ru)	2012		М.										
+ru	article	apresyanletuchiy2023	Апресян, В. Ю. and Летучий, А.Б.	{К}онкуренция дательного падежа и предлога для при глаголах и предикативах в русском языке: семантика и синтаксис	2023			167-207			Russian Linguistics	2			47		
+ru	article	baranovkreydlin1992	Баранов, А.Н., and Крейдлин, Г.Е	{И}ллокутивное вынуждение в структуре диалога	1992			84-99			Вопросы языкознания	2					
+ru	book	graudinashiryayev2004	Граудина, Л. К. and Ширяев, Е. Н	{К}ультура русской речи: учебник для студентов высших учебных заведений	2008	Норма	М.										
+ru	article	lyutitkova2016	Лю, Ч. and Титкова, С. И	{М}ожно ли начинать предложение с потому что? ({К} вопросу об особенностях употребления и написания союза потому что)	2016			36-45			Вестник Чувашского государственного педагогического университета им. ИЯ Яковлева	2			90		
+ru	incollection	vannikov2009	Ванников, Ю. В.	{П}арцелляция	1990		М.	369	{Л}ингвистический энциклопедический словарь	Ярцева, В. Н.							
+ru	article	ivanchikova1968	Иванчикова, Е. А.	{П}арцелляция, ее коммуникативно-экспрессивные и синтаксические функции	1968	Наука	М.	277-301			Русский язык и советское общество: Морфология и синтаксис современного русского литературного языка						
+ru	phdthesis	karkoshko2011	Каркошко, О. П.	{П}арцелляция: структура, семантика, функция: на материале русского и немецкого языков: автореферат дис. ... кандидата филологических наук	2011		Майкоп										
+ru	book	kibrikpodlesskaya2009	Кибрик, А. А. and Подлесская, В. И.	{Р}ассказы о сновидениях: корпусное исследование устного русского дискурса	2009	ЯСК	М.										
+ru	article	kuvshinskayaaksenova2021	Кувшинская, Ю. М. and Аксенова, А. А.	{С}овременные тенденции в употреблении коннектора то есть	2021		Берлин	341-357			Русская грамматика: Cистема – узус – варьирование						
+ru	misc	kuvshinskaya2023	Кувшинская, Ю. М.	{П}редложения с союзом «потому что» как независимые высказывания в современном устном дискурсе. {Д}оклад, представленный на {V}{I}{I} {М}еждународном научном симпозиуме «{Р}усская грамматика: константы, контексты, перспективы». {Т}юмень, 10-14 октября 2023 г.	2023												
+ru	article	kuzmina1989	Кузьмина, С. М.	{С}емантика и стилистика неопределенных местоимений	1989	Наука	М.	158-231			Грамматические исследования: функционально-стилистический аспект						
+ru	article	letuchiydzhonova2022	Летучий, А. Б. and Джонова, М.	{С}пособы оформления одушевленного участника при предикативах в русском и болгарском языках	2022			26-46			Русская речь						
+ru	article	nikolaeva1983	Николаева, Т. М.	{Ф}ункциональная нагрузка неопределенных местоимений в русском языке	1983			342-358			Изв. АН СССР, сер. лит. и яз.	4			42		
+ru	misc	paducheva2016	Падучева, Е. В.	{М}естоимения неизвестности. {М}атериалы для проекта корпусного описания русской грамматики, http://rusgram.ru.	2016												
+ru	phdthesis	pinegina2005	Пинегина, Я. Н.	{П}арцеллированные конструкции и их коммуникативно-прагматические функции в современных медиатекстах. дис. ... канд. филол. наук.	2005		Ростов н/Д										
+ru	book	priyatkina2007	Прияткина, А. Ф.	{Р}усский синтаксис в грамматическом аспекте (синтаксические связи и конструкции)	2007	Изд-во Дальневосточного ун-та	Владивосток										
+ru	article	serdobolskayatoldova2014	Сердобольская, Н. В. and Толдова, С. Ю.	{К}онструкции с оценочными предикативами в русском языке: участники ситуации оценки и семантика оценочного предиката	2014			443-477			Acta Linguistica Petropolitana. Труды института лингвистических исследований	2			10		
+ru	article	skovorodnikov1980	Сковородников, А. П.	{О} функциях парцелляции в современном русском литературном языке	1980	Наш язык	М.	86-91			Русский язык в школе				5		
+ru	phdthesis	tsumrayev2003	Цумарев, А. Э.	{П}арцелляция в современной газетной речи. {А}втореф. дис. канд. филолог. наук.	2003		М.										
+	article	pekelis2023	Pekelis, O. E.	{R}ussian indefinite markers to and nibud’: a microdiachtonic approach	2023			253-277			Russian Linguistics				47		
+	incollection	vandijk1982	Van Dijk, T. A	{E}pisodes as units of dicourse analysis	1982	Georgetown University Press	Washington, D.C.		Analysing discourse: Text and Talk	Tannen, D.							
+ru	article	rakhilinakazkenova2025	Рахилина, Е. В. and Казкенова, А.	{Н}естандартные метафоры движения в текстах казахско-русских билингвов	2025						Russian Language Journal	1			75		
+ru	article	kuvshinskaya2024	Кувшинская, Ю. М.	{У}потребление неопределенных местоимений серии на -либо в контексте прямого отрицания	2024			150-174			Труды ИРЯ РАН	2			40		
+	book	sokolov1967	Sokolov, S. N.	{T}he {A}vestan language	1967	Наука	М.										
+	incollection	wilkins2018	Wilkins, D. P.	{T}he {D}emonstrative {Q}uestionnaire: “{T}{H}{I}{S}” and “{T}{H}{A}{T}” in {C}omparative {P}erspective	2018	Cambridge University Press	Cambridge	43-71	Demonstratives in Cross-Linguistic Perspective	Levinson, S. C. and Cutfield, S. and Dunn, M. J. and Enfield, N. J. and Meira, S.						Language Culture and Cognition	
+ru	article	rostovtsevpopel2019	Ростовцев-Попель, А. А.	{Т}ипология демонстративов: средние дейктики	2009			22-34			Вопросы языкознания	2					
+	article	dabirmoghaddam1997	Dabir-Moghaddam, M.	{C}ompound verb in {P}ersian	1997			25-59			Studies in the Linguistic Science	2			27		
+	misc	boersmaweenink2025	Boersma, P., and Weenink, D.	{P}raat: doing phonetics by computer. {A}vailable online at: http://www.praat.org/	2025												
+ru	article	Borisov2024a	Борисов, Евгений Васильевич	Прямое решение проблемы Крипке	2024			23--32			Эпистемология и философия науки	2			61		
+ru	article	Borisov2024b	Борисов, Евгений Васильевич	Ответ оппонентам	2024			89--94			Эпистемология и философия науки	2			61		
+ru	article	Ladov2024	Ладов, Всеволод Адольфович	Значение: реализм vs скептицизм	2024			43--50			Эпистемология и философия науки	2			61		
+	article	Achouriotietal2014	Achourioti, Theodora and Fugard, Andrew J. B. and Stenning, Keith	The Empirical Study of Norms Is Just What We Are Missing	2014			1--15			Frontiers in Psychology				5		
+	article	AnderBoisetal2015	AnderBois, Scott and Brasoveanu, Adrian and Henderson, Robert	At-issue proposals and appositive impositions in discourse	2015			93--138			Journal of Semantics	1			32		
+	article	Asher2000	Asher, Nicholas	Truth conditional discourse semantics for parentheticals	2000			31--50			Journal of Semantics	1			17		
+	article	belluccipietarinen2016	Bellucci, Francesco and Pietarinen, Ahti-Veikko	Existential graphs as an instrument of logical analysis: Part I. Alpha	2016	Cambridge University Press		209--237			The Review of Symbolic Logic	2			9		
+	article	Buring2003	Büring, Daniel	On d-trees, beans, and b-accents	2023			511--545			Linguistics and Philosophy	5			26		
+	article	cannizzaro2016	Cannizzaro, Sara	Internet memes as internet signs: A semiotic view of digital culture	2016	Ulikooli Kirjastus	Tartu	562--586			Sign Systems Studies	4			44		
+	article	clawsonlevin2023	Clawson, Wesley P. and Levin, Michael	Endless forms most beautiful 2.0: teleonomy and the bioengineering of chimaeric and synthetic organisms	2023	Oxford University Press UK		457--486			Biological Journal of the Linnean Society	4			139		
+	article	conant1991	Conant, James	In Search of Logical Alien Thought -- Descartes, Kant, Frege and the Tractatus	1991			115--180			Philosophical Topics	1			20		
+	article	davies2023	Davies, Jamie and Levin, Michael	Synthetic morphology with agential materials	2023	Nature Publishing Group UK London		46--59			Nature Reviews Bioengineering	1			1		
+	article	ebrahimkhani2021	Ebrahimkhani, Mo R and Levin, Michael	Synthetic living machines: A new window on life	2021	Elsevier		102505			Iscience	5			24		
+	article	FarkasBruce2010	Farkas, Donka F. and Bruce, Kim B.	On Reacting to Assertions and Polar Questions	2010			81--118			Journal of Semantics				27		
+	article	fieldsetal2021	Fields, Chris and Glazebrook, James F and Levin, Michael	Minimal physicalism as a scale-free substrate for cognition and consciousness	2021	Oxford University Press		niab013			Neuroscience of Consciousness	2			2021		
+	article	friston2009	Friston, Karl	The free-energy principle: a rough guide to the brain?	2009	Elsevier		293--301			Trends in cognitive sciences	7			13		
+	article	fristonetal2016	Friston, Karl and FitzGerald, Thomas and Rigoli, Francesco and Schwartenbeck, Philipp and Pezzulo, Giovanni and others	Active inference and learning	2016	Elsevier		862--879			Neuroscience & Biobehavioral Reviews				68		
+	article	friston2010	Friston, Karl	The free-energy principle: a unified brain theory?	2010	Nature publishing group		127--138			Nature reviews neuroscience	2			11		
+	article	ginsborg2012	Ginsborg, Hannah	Normativity of Meaning	2012	Oxford University Press		127--146			Proceedings of the Aristotelian Society. Supplementary Volume				86		
+	article	Koev2021	Koev, Todor	Gradient At-issueness vs. Uncertainty about Binary At-issueness	2021			130--140			Theoretical Linguistics				44		
+	article	lagasselevin2023	Lagasse, Eric and Levin, Michael	Future medicine: from molecular pathways to the collective intelligence of the body	2023	Elsevier		687--710			Trends in molecular medicine	9			29		
+	article	levinmartinez2019	Levin, Michael and Martinez Arias, Alfonso	Reverse-engineering growth and form in Heidelberg	2019	The Company of Biologists Ltd		dev177261			Development	14			146		
+	article	levin2019	Levin, Michael	The computational boundary of a “self”: developmental bioelectricity drives multicellularity and scale-free cognition	2019	Frontiers Media SA		2688			Frontiers in psychology				10		
+	article	levin2021	Levin, Michael	Life, death, and self: Fundamental questions of primitive cognition viewed through the lens of body plasticity and synthetic organisms	2021	Elsevier		114--133			Biochemical and Biophysical Research Communications				564		
+	article	levin2022	Levin, Michael	Technological approach to mind everywhere: an experimentally-grounded framework for understanding diverse bodies and minds	2022	Frontiers Media SA		768201			Frontiers in systems neuroscience				16		
+	article	manickalevin2022	Manicka, Santosh and Levin, Michael	Minimal developmental computation: a causal network approach to understand morphogenetic pattern formation	2022	MDPI		107			Entropy	1			24		
+	article	moltmann2013	Moltmann, Frederike	Propositions, attitudinal objects, and the distinction between actions and products	2013	University of Calgary Press		679--701			Canadian Journal of Philosophy	5/6			43		
+	article	moltmann2020	Moltmann, Frederike	Truthmaker semantics for natural language: Attitude verbs, modals, and intensional transitive verbs	2020	Mouton de Gruyter		159--200			Theoretical Linguistics	3-4			46		
+	article	nagel1974	Nagel, Thomas	What Is It Like to Be a Bat?	1974			435--450			The Philosophical Review	4			83		
+	article	pezzulolevin2016	Pezzulo, Giovanni and Levin, Michael	Top-down models in biology: explanation and control of complex living systems above the molecular level	2016	The Royal Society		20160555			Journal of The Royal Society Interface	124			13		
+	article	pietarinenbeni2021	Pietarinen, Ahti-Veikko and Beni, Majid D.	Active inference and abduction	2021	Springer		499--517			Biosemiotics	2			14		
+	article	quine1960	Quine, Willard Van Orman	Carnap and Logical Truth	1960			350--374			Synthese	4			12		
+	article	Rolf1980	Rolf, Bertil	A theory of vagueness	1980	Springer		315--325			Journal of Philosophical Logic	3			9		
+	article	watsonlevin2023	Watson, Richard and Levin, Michael	The collective intelligence of evolution and development	2023	Sage Publications Sage UK: London, England		2.63391372311684E+016			Collective Intelligence	2			2		
+	article	wright2001	Wright, Crispin	On being in a quandary. Relativism, vagueness, logical revisionism	2001			45--98			Mind	1			110		
+	article	Zardini2008a	Zardini, Elia	A Model of Tolerance	2008	Springer		337--368			Studia Logica	3			90		
+	article	Haack2005	Haack, Susan	Not cynicism, but synechism: Lessons from classical pragmatism	2005			239--253			Trans.  Charles S Peirce Soc. : A Quarterly Journal in American Philosophy	2			41		
+ru	article	Tsypanov2002	Цыпанов, Евгений Александрович	К вопросу о факторах, определяющих употребление I и II прошедших времен в коми языке	2002			165--175			Linguistica uralica				XXXVIII		
+ru	article	LeinonenTsypanov2007	Лейнонен, Марья and Цыпанов, Евгений Александрович	Грамматическая семантика эвиденциальности в коми языке (на материале модального перфекта)	2009			23--35			Linguistica uralica				XLV		
+	article	LeinonenVilkuna2008	Leinonen, Marija and Vilkuna, Maria	Past tenses in Permic languages	2008			495--514			Tense and Aspect in the Languages of Europe						
+	article	Anderson1986	Anderson, Lloyd B.	Evidentials, paths of change, and mental maps: typologically regular asymmetries	1986			273--312			Advances in Discourse Processes				20		
+	article	Matthewsonetal2007	Matthewson, Lisa and Davis, Henry and Rullmann, Hotze	Evidentials as epistemic modals: evidence from St’ ́at’imcets’	2007			201--254			Linguistic Variation Yearbook				7		
+	article	SauerlandSchenner2007	Sauerland, Uli and Schenner, Mathias	Embedded evidentials in Bulgarian	2007			495--509			Proceedings of Sinn und Bedeutung				11		
+	article	Koev2017	Koev, Todor	Evidentiality, Learning Events, and Spatiotemporal Distance: The View from Bulgarian	2017			1--41			Journal of Semantics	1			34		
+	article	Murray2014	Murray, Sarah	Varieties of update	2014			1--53			Semantics & Pragmatics	2			7		
+	article	vonFintelGillies2010	von Fintel, Kai and Gillies, Anthony S.	Must... stay... strong!	2010			350--383			Natural Language Semantics				18		
+ru	book	Ladov2008	Ладов, Всеволод Адольфович	Иллюзия значения: Проблема следования правилу в аналитической философии	2008	Изд-во Томcкого университета	Томск										
+	book	armstrongmalcolm1984	Armstrong, David Malet and Malcolm, Norman	Consciousness and Causality. A Debate on the Nature of Mind	1984	Basil Blackwell	Oxford										
+	book	austin1962	Austin, John Langshaw	How to Do Things with Words	1962	Clarendon Press	Oxford										
+	book	Bacon2018	Bacon, Andrew	Vagueness and Thought	2018	Oxford University Press	Oxford										
+	book	Dawkins1976	Dawkins, Richard	The Selfish Gene	1976	Oxford University Press	New York										
+	book	Dawkins2006	Dawkins, Richard	The God Delusion	2006	Transworld Publishers	Kent										
+	book	frege1964	Frege, Gottlob	The Basic Laws of Arithmetic	1964	University of California Press	Berkeley										
+	book	Jackendoff1972	Jackendoff, Ray S.	Semantic Interpretation in Generative Grammar	1972	MIT Press	Cambridge, Mass.										
+	book	moltmann2024	Moltmann, Frederike	Objects and Attitudes	2024	Oxford University Press	Oxford										
+	book	putnam1981	Putnam, Hilary	Reason, truth and history	1981	Cambridge University Press	Cambridge										
+	book	putnam1987	Putnam, Hilary	The Many Faces of Realism: The Paul Carus Lectures	1987	Open Court	LaSalle, Illinois										
+	book	williamson2022	Williamson, Timothy	The Philosophy of Philosophy. Second Edition	2022	Wiley-Blackwell	Hoboken and Chichester										
+ru	book	Bubrich1949	Бубрих, Дмитрий Владимирович	Грамматика литературного коми языка	1949	ЛГУ им. А. А. Жданова	Ленинград										
+ru	book	Serebrennikov1960	Серебренников, Борис Александрович	Категория времени и вида в финно-угорских языках пермской и волжской группы	1960	Наука	Москва										
+ru	book	Tsypanov2005	Цыпанов, Евгений Александрович	Грамматические категории глагола в коми языке	2005		Сыктывкар										
+	book	Aikhenvald2004	Aikhenvald, Alexandra	Evidentiality	2004	Oxford University Press	Oxford										
+	book	Peirce1966	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume VII. Science and Philosophy and Volume VIII. Reviews, Correspondence and Bibliography	1966	Belknap Press of Harvard University Press	Cambridge, MA			Burks, Arthur W.							
+	book	Peirce1960a	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume I. Principles of Philosophy and Volume II. Elements of Logic	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul							
+	book	Peirce1960b	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume V. Pragmatism and Pragmaticism and Volume VI. Scientific Metaphysics	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul							
+	book	Peirce1960c	Peirce, Charles Sanders	Collected papers of Charles Sanders Peirce. Volume III. Exact Logic (Published Papers) and Volume IV. The Simplest Mathematics	1960	Belknap Press of Harvard University Press	Cambridge, MA			Hartshorne, Charles and Weiss, Paul							
+ru	incollection	Kant1994	Кант, Иммануил	Логика, 1800	1994	Издательство «Чоро»	Москва	266--398	Кант И. Собрание сочинений в восьми томах. Том 8.	Гулыга, Арсений Владимирович							
+	incollection	bobrovapietarinen2019	Bobrova, Angelina and Pietarinen, Ahti-Veikko	Thoughts, things and logical guidance	2019	Springer	Cham	43--58	Peirce and Husserl: Mutual insights on logic, mathematics and cognition	Shafiei, Mohammad and Pietarinen, Ahti-Veikko					46	Logic, Epistemology, and the Unity of Science	
+	incollection	Buring2007	Büring, Daniel	Intonation, semantics and information structure	2007	Oxford University Press	Oxford	445--474	The Oxford Handbook of Linguistic Interfaces	Ramchand, Gillian and Reiss, Charles							
+	incollection	Edgington1997	Edgington, Dorothy	Vagueness by degrees	1997	MIT Press	Cambridge, MA	294--316	Vagueness: A Reader	Keefe, Rosanna and Smith, Peter							
+	incollection	Hooper1975	Hooper, Joan B.	On assertive predicates	1975	BRILL	Leiden; Boston	91--124	Syntax and Semantics	Kimball, John P.					4	Syntax and Semantics	
+	incollection	moltmann2023	Moltmann, Frederike	Attitudinal objects and propositions	2023	Routledge	New York and London	408--423	Routledge Handbook of Propositions	Tillman, Chris and Murray, Adam Russell							
+	incollection	Roberts1996	Roberts, Craige	Information structure: Towards an integrated formal theory of pragmatics	1996	The Ohio State University Department of Linguistics	Columbus, OH	91--136	Papers in Semantics	Yoon, Jae Hak and Kathol, Andreas					49	OSU Working Papers in Linguistics	
+	incollection	ross1973	Ross, John Robert	Slifting	1973	Mouton de Gruyter	The Hague; Paris	133--169	The Formal Analysis of Natural Languages	Gross, Maurice and Halle, Morris and Schützenberger, Marcel-Paul							
+	incollection	Stalnaker1978	Stalnaker, Robert	Assertion	1978	Academic Press	New York	315--332	Pragmatics	Cole, Peter					9	Syntax and Semantics	
+	incollection	Leinonen2000	Leinonen, Marija	Evidentiality in Komi Zyryan	2000	De Gruyter Mouton	Berlin, Boston	419--440	Evidentials: Turkic, Iranian and Neighbouring Languages	Johanson, Lars and Utas, Bo							
+	incollection	Grice1975	Grice, Paul	Logic and Conversation	1975	Academic Press	New York	43--58	Speech Acts	Cole, Peter and Morgan, Jerry L.					3	Syntax and Semantics	
+	inproceedings	AnderBoisetal2010	AnderBois, Scott and Brasoveanu, Adrian and Henderson, Robert	Crossing the Appositive/At-issue Meaning Boundary	2010	Linguistic Society of America	Ithaca, NY	328--346	Proceedings of Semantics and Linguistic Theory 20	Li, Nan and Lutz, David					20	Proceedings of Semantics and Linguistic Theory	
+	inproceedings	bellucciburton2020	Bellucci, Francesco and Burton, Jim	Observational advantages and occurrence referentiality	2020	Springer	Basel	202--215	Diagrammatic Representation and Inference. 11th International Conference, Diagrams	Pietarinen, Ahti-Veikko and Chapman, Peter and Bosveld-de Smet, Leonie and Giardino, Valeria and Corter, James and Linker, Sven					12169	Lecture Notes in Computer Science	
+	inproceedings	Simonsetal2010	Simons, Mandy and Tonhauser, Judith and Beaver, David and Roberts, Craige	What projects and why	2010	Linguistic Society of America	Ithaca, NY	309--327	Proceedings of Semantics and Linguistic Theory 20	Li, Nan and Lutz, David					20	Proceedings of Semantics and Linguistic Theory	
+	inproceedings	Izvorski1997	Izvorski, Roumyana	The present perfect as an epistemic modal	1997	Linguistic Society of America	Ithaca, NY	222--239	Proceedings of Semantics and Linguistic Theory 7	Lawson, Aaron					7	Proceedings of Semantics and Linguistic Theory	
+	misc	levinetal2021	Levin, Michael and Keijzer, Fred and Lyon, Pamela and Arendt, Detlev	Uncovering cognitive similarities and differences, conservation and innovation	2021	The Royal Society		20200458			Philosophical Transactions of the Royal Society B	1821			376		
+	phdthesis	Zardini2008b	Zardini, Elia	Living on the slippery slope. The nature, sources and logic of vagueness	2008								University of St Andrews				
+ru	phdthesis	Subbota2008	Суббота, Клавдия Александровна	Глагол в ижемском диалекте коми языка: грамматические категории и словообразование (на материале казымского говора)	2008								ГОУ ВПО «Сыктывкарский Государственный Университет»				
+	phdthesis	Siegl2004	Siegl, Florian	The second past in the Permic languages: form, function, and a comparative analysis from a typological perspective	2004								University of Tartu				
+	phdthesis	Faller2002	Faller, Martina	Semantics and Pragmatics of Evidentials in Cuzco Quechua	2002								Stanford University				
+	phdthesis	Murray2010	Murray, Sarah	Evidentiality and the Structure of Speech Acts	2010								Rutgers University				
+	phdthesis	Garrett2001	Garrett, Edward John	Evidentiality and Assertion in Tibetan	2001								UCLA				
+	inproceedings	armenante2024	Armenante, G.	IPG effects on adverbials in attitude reports	2024	University of Massachusetts Amherst	Yale University		Proceedings of NELS 55								
+	inproceedings	arregui1998	Arregui, A. and Kusumoto, K.	Tense in Temporal Adjunct Clauses	1998				Semantics and Linguistic Theory			1		https://doi.org/10.3765/salt.v0i0.2814			
+	article	bertrand2022	Bertrand, A. and Aonuki, Y. and Chen, S. and Davis, H. and Gambarage, J. and Griffin, L. and Huijsmans, M. and Matthewson, L. and Reisinger, D. and Rullmann, H.	Nobody’s Perfect	2022						Languages	2			7		
+	mathesis	bikina2019	Bikina, D.	Syntax of Non-finite Relative Clauses in Kazym Khanty	2019		Moscow						HSE University				
+	article	bikina2022	Bikina, D. and Rakhman, D. and Potseluev, V. and Starchenko, A. and Toldova, S.	Non-finite constructions in Khanty: their unity and diversity	2022						Folia Linguistica	0		https://doi.org/10.1515/flin-2022-2043			
+	article	bohnemeyer2014	Bohnemeyer, J.	Aspect vs. Relative Tense: The case reopened	2014			917–954			Natural Language & Linguistic Theory	3			32		
+	article	chen2021	Chen, S. and Vander Klok, J. and Matthewson, L. and Rullmann, H.	The ‘experiential’ as an existential past: Evidence from Javanese and Atayal	2021			709–758			Natural Language & Linguistic Theory	3			39		
+	book	cinque1999	Cinque, G.	Adverbs and functional heads: A cross-linguistic perspective	1999	Oxford University Press	Oxford										
+	book	coppock2023	Coppock, E. and Champollion, L.	Invitation to formal semantics	2023		Boston University and New York University										
+	incollection	gronn2016	Grønn, A. and von Stechow, A.	Tense	2016	Cambridge University Press		313–341	The Cambridge Handbook of Formal Semantics	Aloni, M. and Dekker, P.							
+	incollection	gronn2020	Grønn, A. and von Stechow, A.	The Perfect	2020	John Wiley & Sons			The Wiley Blackwell Companion to Semantics	Gutzmann, D. and Matthewson, L. and Meier, C. and Rullmann, H. and Zimmermann, T.							
+	incollection	iatridou2001	Iatridou, S. and Anagnostopoulou, E. and Izvorski, R.	Observations about the Form and Meaning of the Perfect	2001	MIT Press	Cambridge, MA	189–238	Ken Hale: A Life in Language	Kenstowicz, M.							
+	incollection	julien2015	Julien, M.	On negation, tense, and participles in Finnic and Sámi	2015	Oxford University Press		163–178	Syntax over Time	Biberauer, T. and Walkden, G.							
+	article	keshet2010	Keshet, E.	Situation economy	2010			385–434			Natural Language Semantics	4		https://doi.org/10.1007/s11050-010-9059-1	18		
+	phdthesis	keshet2008	Keshet, E. R.	Good intensions: Paving two roads to a theory of the de re/de dicto distinction	2008		Cambridge, MA						Massachusetts Institute of Technology				
+	book	klein1994	Klein, W.	Time in Language	1994	Routledge	London										
+	article	kusumoto2005	Kusumoto, K.	On the Quantification over Times in Natural Language	2005			317–357			Natural Language Semantics	4		https://doi.org/10.1007/s11050-005-4537-6	13		
+	article	matthewson2006	Matthewson, L.	Temporal semantics in a superficially tenseless language	2006			673–713			Linguistics and Philosophy	6			29		
+	article	nishiyama2010	Nishiyama, A. and Koenig, J. P.	What is a perfect state?	2010			611–646			Language	3			86		
+	article	oleary2021	O’Leary, M. C.	Locality constraints in nominal evaluation times	2021			938	Proceedings of the Linguistic Society of America			1		https://doi.org/10.3765/plsa.v6i1.5041	6		
+	phdthesis	oleary2022	O’Leary, M. C.	About Time: Lexical, Structural, and Discourse Constraints on the Temporal Interpretation of Nominal Predicates	2022	University of California, Los Angeles	Los Angeles						University of California, Los Angeles				
+	article	partee1973	Partee, B. H.	Some Structural Analogies Between Tenses and Pronouns in English	1973			601–609			Journal of Philosophy	18			70		
+	book	ramchand2018	Ramchand, G. C.	Situations and syntactic structures: Rethinking auxiliaries and order in English	2018	MIT Press									77		
+	article	stowell2007	Stowell, T.	The syntactic expression of tense	2007			437–463			Lingua	2		https://doi.org/10.1016/j.lingua.2005.08.003	117		
+	book	mechkina2014	Мечкина, Е. И.	Па̄ррнэ па̄ль мушштлэз. [Воспоминания из детства]	2014		Мурманск, Россия										
+	article	toosarvandani2025	Toosarvandani, M.	Languages Without Tense	2025						Language and Linguistics Compass	4			19		
+	article	wegner2019	Wegner, D.	The properties of perfect(ive) and (eventive) passive participles: An identity approach	2019						Glossa: A Journal of General Linguistics	1			4		
+ru	book	tatevosov2015	Татевосов, С. Г.	Акциональность в лексике и грамматике. Глагол и структура события	2015	Языки славянской культуры	Москва										
+	article	bondarenko2024	Bondarenko, T. and Davis, C.	Cross-clausal scrambling and subject case in Balkar: On multiple specifiers and the locality of overt and covert movement	2024						Syntax						
+	article	boskovic2005	Boˇskovi´c, Z.	On the locality of left branch extraction and the structure of NP	2005			1–45			Studia linguistica	1			59		
+	article	boskovic2016	Boˇskovi´c, Z.	Getting really edgy: On the edge of the edge	2016			1–33			Linguistic inquiry	1			47		
+	incollection	chomsky2000	Chomsky, N.	Minimalist inquiries: The framework	2000	MIT Press	Cambridge, MA	89–155	Step by step: Essays on minimalist syntax in honor of Howard Lasnik								
+	article	erlewine2016	Erlewine, M. Y.	Anti-locality and optimality in Kaqchikel Agent Focus	2016			429–479			Natural Language & Linguistic Theory	2			34		
+	article	lohninger2022	Lohninger, M. and Kovaˇc, I. and Wurmbrand, S.	From prolepsis to hyperraising	2022			32			Philosophies	2			7		
+	article	rackowski2005	Rackowski, A. and Richards, N.	Phase edge and extraction: A Tagalog case study	2005			565–599			Linguistic inquiry	4			36		
+	phdthesis	richards1997	Richards, N.	What moves where when in which language?	1997		Cambridge, MA						Massachusetts Institute of Technology				
+ru	incollection	podobryaev2017a	Подобряев	Синтаксис простого предложения	2017	Буки Веди		374–384	Элементы татарского языка в типологическом освещении. Мишарский диалект	Татевосов, Пазельская, Сулейманов							
+ru	incollection	podobryaev2017b	Подобряев	Финитные сентенциальные дополнения	2017	Буки Веди		560–588	Элементы татарского языка в типологическом освещении. Мишарский диалект	Татевосов, Пазельская, Сулейманов							
+ru	article	paducheva2015	Падучева, Е. В.	Снятая утвердительность и неверидиктальность (Нa примере русских местоимений отрицательной полярности) / Suspended assertion and nonveridicality: The case of Russian Negative Polarity Items	2015			129–162			Russian Linguistics	2			39		
+	incollection	pereltsvaig2000	Pereltsvaig, A.	Monotonicity-based vs. veridicality-based approaches to negative polarity: Evidence from Russian	2000	Michigan Slavic Publishers	Ann Arbor	328–346	Formal Approaches to Slavic Linguistics (FASL)	T. H. King and I. A. Sekerina		8					
+	incollection	pereltsvaig2004	Pereltsvaig, A.	Negative polarity items in Russian and the ‘bagel problem’	2004	Slavica Publishers	Bloomington	153–178	Negation in Slavic	Adam Przepiorkowski and Sue Brown							
+	phdthesis	bondarenko2022	Bondarenko, T.	Anatomy of an attitude	2022								Massachusetts Institute of Technology				
+	incollection	zwarts1998	Zwarts, F.	Three types of polarity	1998	Springer Netherlands	Dordrecht	177–238	Plurality and quantification	Fritz Hamm and Erhard Hinrichs							
+	book	chierchia2013	Chierchia, G.	Logic in grammar: Polarity, Free Choice, and Intervention	2013	OUP	Oxford										
+	incollection	dayal2009	Dayal, V.	Variation in English free choice items	2009	EFL University Press	Hyderabad	237–256	Universals and variation. Proceedings of GLOW in Asia VII	Rajat Mohanty and Mythili Menon							
+	incollection	yanovich2005	Yanovich, I.	Choice-functional series of indefinite pronouns and Hamblin semantics	2005	Cornell University	Ithaca, NY	309–326	Proceedings of Semantics and Linguistic Theory (SALT) 15	Efthymia Georgala and Jonathan Howell	15						
+ru	misc	pleshak2018	Плешак, П. С.	Некоторые сюжеты о структуре хантыйской ИГ	2018											Неопубликованный экспедиционный отчет	
+	mathesis	marinina2024	Marinina, V.	Semantics of Northern Khanty demonstratives: Spatial deixis, discourse, and attention	2024	НИУ ВШЭ	Москва										
+	inproceedings	masliukov2024	Masliukov, V.	Possessive agreement and external possessors in Kazym Khanty	2024		Гамбург		Syntax of Uralic Languages 5					http://tipl.philol.msu.ru/application/files/9017/4523/9866/MYaBL2025_Marinina.pdf			
+ru	article	lyutikova2015	Лютикова, Е. А.	Согласование, признаки и структура именной группы в русском языке	2015			44–74			Русский язык в научном освещении				30		
+ru	book	panov1968	Панов, М. В.	Русский язык и советское общество: Морфология и синтаксис современного русского литературного языка	1968	Наука	Москва										
+	article	corbett1982	Corbett, G. G.	Gender in Russian: An account of gender specification and its relationship to declension	1982			197–232			Russian linguistics			doi: 10.1007/BF03545848	6		
+	article	corbett2023	Corbett, G. G.	The agreement hierarchy and (Generalized) semantic agreement	2023			1–39			Glossa			doi: 10.16995/glossa.9164	8		
+	article	garnham_yakovlev2015	Garnham, A. and Yakovlev, Y.	The interaction of morphological and stereotypical gender information in Russian	2015			art. 1720			Frontiers on Psychology			doi:10.3389/fpsyg.2015.01720	6		
+	incollection	matushansky2015	Matushansky, O. and Ruys, E.	Measure for measure	2015			317–330	Slavic grammar from a formal perspective: The 10th anniversary FDSL conference								
+	article	pereltsvaig2006	Pereltsvaig, A.	Small nominals	2006			433–500			Natural Language & Linguistic Theory	2			24		
+	book	pesetsky2013	Pesetsky, D.	Russian case morphology and the syntactic categories	2013	MIT Press	Cambridge, MA										
+	article	privizentseva2024	Privizentseva, M.	Semantic agreement in Russian: gender, declension, and morphological ineffability	2024			767–814			Natural Language and Linguistic Theory			doi: 10.1007/s11049-023-09587-0	42		
+	article	rudnev2024	Rudnev, P.	Categorial selection and functional structure in the noun phrase: revisiting Russian small nominals	2024			art. 1			Russian Linguistics	1			48		
+	article	steriopolo2019	Steriopolo, O.	Mixed gender agreement in the case of Russian hybrid nouns	2019			91–105			Questions and Answers in Linguistics	5					
+	misc	zehr2018	Zehr, J. and Schwarz, F.	PennController for Internet Based Experiments (IBEX)	2018									doi: 10.17605/OSF.IO/MD832			
+	misc	kholodilova2015	Kholodilova, M.	(I)nter-clausal negative concord in Russian	2015												Poster presented at The pragmatics of grammar: Negation and polarity. Caen
+	misc	voznesenskaya2024	Voznesenskaia, A.	What Backward Negative Concord tells us about control	2024												Unpublished ms., Stony Brook University
+	article	burukina2020	Burukina, I.	Mandative verbs and deontic modals in Russian: Between obligatory control and overt embedded subjects	2020			art. 1			Glossa: a journal of general linguistics	5		doi: 10.5334/gjgl.905			
+	article	rappaport1986	Rappaport, G.	On anaphor binding in Russian	1986			97–120			Natural Language and Linguistic Theory				4		
+	manual	rcoreteam2018	R Core Team	R: A Language and Environment for Statistical Computing	2018	R Foundation for Statistical Computing	Vienna, Austria										
+	incollection	miyauchi2020	Miyauchi, T.	How to introduce instrumental agents: Evidence from binding in Russian event nominal phrases	2020	Language Science Press	Berlin	179–204	Advances in formal Slavic linguistics 2017	Marušič, F. and Mišmaš, P. and Žaucer, R.							
+	incollection	yadroff2001	Yadroff, M. and Franks, S.	The origin of prepositions	2001	Peter Lang	Frankfurt am Main	69–79	Current issues in formal Slavic linguistics	Zybatow, G. and Junghanns, U. and Mehlhorn, G. and Szucsich, L.							
+	phdthesis	gerasimova2023	Герасимова, А. А.	Количественные методы исследования грамматических ограничений (на материале вариативного согласования в русском языке)	2023		Москва						Московский государственный университет				
+ru	misc	golubeva2020	Голубева, М. И.	Синтаксис лексических реципроков в русском языке	2020	Российский государственный гуманитарный университет	Москва										Выпускная квалификационная работа, Российский государственный гуманитарный университет
+ru	mathesis	golubeva2022	Голубева, М. И.	Синтаксические и семантические свойства русского взаимного местоимения друг друга	2022	Национальный исследовательский университет «Высшая школа экономики»	Москва										
+ru	book	letuchiy2024	Летучий, А. Б.	Русский синтаксис: структурные и неструктурные объяснения: учеб. пособие	2024	Издательский дом Высшей школы экономики	Москва	416									
+ru	book	testelets2001	Тестелец, Я. Т.	Введение в общий синтаксис	2001	Российский государственный гуманитарный университет	Москва										
+ru	book	toldova2018	Толдова, С. Ю. and Холодилова, М. А. and Татевосов, С. Г. and Кашкин, Е. В. and Козлов, А. А. and Козлов, Л. С. and Кухто, А. В. and Привизенцева, М. Ю. and Стенин, И. А.	Элементы мокшанского языка в типологическом освещении	2018	«Буки Веди»	Москва	xxiv + 1014		Толдова, С. Ю. (отв. ред.) and Холодилова, М. А. (отв. ред.) and Татевосов, С. Г. and Кашкин, Е. В. and Козлов, А. А. and Козлов, Л. С. and Кухто, А. В. and Привизенцева, М. Ю. and Стенин, И. А.							
+	misc	tsakorpus2020	Tsakorpus Repository	Tsakorpus 2.0	2020		Online							https://github.com/timarkh/tsakorpus			
+ru	inproceedings	arkhangelsky2021	Архангельский, Т. А.	Корпусная платформа Tsakorpus и языки России	2021	«Коми республиканская академия государственной службы и управления»	Сыктывкар	23–24	Электронная письменность народов Российской федерации – 2021 & IWCLUL 2021. Материалы Междунар. научно-практич. конф.								
