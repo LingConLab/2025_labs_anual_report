@@ -50,7 +50,7 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./13_references.html" rel="next">
+<link href="./04_chapter.html" rel="next">
 <link href="./02_chapter.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -180,6 +180,12 @@ window.Quarto = {
   <div class="sidebar-item-container"> 
   <a href="./03_chapter.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Формлаба придумайте название</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./04_chapter.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Лаборатория по корпусным технологиям придумайте название!</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -415,7 +421,7 @@ in
 <h4 data-number="3.2.1.2" class="anchored" data-anchor-id="анализ"><span class="header-section-number">3.2.1.2</span> Анализ</h4>
 <p>В результате было принято решение анализировать время в ОК как относительное, т.е. интерпретирующееся относительно ближайшего временного якоря и не привязанное к времени речи. Такой подход поддерживается независимыми синтаксическими данными о том, что ОК не содержат проекций выше TP <span class="citation" data-cites="bikina2019 bikina2022">[<a href="13_references.html#ref-bikina2019" role="doc-biblioref">1</a>; <a href="13_references.html#ref-bikina2022" role="doc-biblioref">2</a>]</span> и допущением о том, что временное местоимение t*, отсылающее ко времени речи, может вводиться только в верхних синтаксических проекциях (<span class="citation" data-cites="arregui1998 kusumoto2005 stowell2007">[<a href="13_references.html#ref-arregui1998" role="doc-biblioref">3</a>–<a href="13_references.html#ref-stowell2007" role="doc-biblioref">5</a>]</span>, среди прочих). Ниже приведены лексические вхождения, которые постулируются для двух нефинитных времён.</p>
 <ol start="3" class="example" type="1">
-<li><p>Нефинитное прошедшее: <span class="math display">\[⟦-əm⟧^{c,g} = \lambda P\in D_{\langle i,t\rangle}.\lambda t \in D_i.\exists t'.[t' \prec t \land\ P(t')]\]</span></p></li>
+<li><p>Нефинитное прошедшее: <span class="math display">\[⟦-\mbox{əm}⟧^{c,g} = \lambda P\in D_{\langle i,t\rangle}.\lambda t \in D_i.\exists t'.[t' \prec t \land\ P(t')]\]</span></p></li>
 <li><p>Нефинитное непрошедшее: <span class="math display">\[⟦-ti⟧^{c,g} = \lambda P \in D_{\langle i,t\rangle}.\lambda t \in D_i. \exists t'[t' \succeq t \land\ P(t')]\]</span></p></li>
 </ol>
 <p>С учётом изначального допущения, что время в ОК глубинно относительное, абсолютные интерпретации анализировались как подъём ИГ, содержащей ОК, в логической форме (однако в большинстве примеров мы можем видеть и синтаксическое передвижение ИГ ближе к левой границе клаузы). Анализ абсолютного времени ИГ как подъёма квантора был изначально предложен Т. Стоуэллом <span class="citation" data-cites="stowell2007">[<a href="13_references.html#ref-stowell2007" role="doc-biblioref">5</a>]</span> для английских относительных клауз и позже М. О’Лири <span class="citation" data-cites="oleary2021">[<a href="13_references.html#ref-oleary2022" role="doc-biblioref">7</a>]</span> для английских существительных. Согласно такому анализу, все ИГ глубинно интерпретируются с относительным временем. В случаях, когда возникает абсолютная интерпретация, ИГ передвигается в более высокие проекции, которые расположены выше финитного времени, но ниже местоимения <em>t</em>*. Таким образом, новым локальным якорем становится время речи, к которому отсылает <em>t</em>*. Рассмотрим относительную интерпретацию ОК, проиллюстрированную в предложении (5). Как показано в схеме (6), временной аргумент ИГ <em>in situ</em> локально связывается временем матричного предиката.</p>
@@ -452,7 +458,9 @@ in
 </div>
 </div>
 <ol start="6" class="example" type="1">
-<li><strong>Локальное связывание</strong>: <span class="math display">\[t^* [ \lambda t_0 [(ɴ)ᴘꜱᴛ_{t_0}. \lambda t_j. [ \text{⟦χuλ λɛwəm iki⟧}^g(t_j) [\lambda x. [\text{⟦šiwaλəsəm⟧}^g(t_j)]]]]\\\text{рыбу едящего мужчину                      увидела}\]</span></li>
+<li><strong>Локальное связывание</strong>: <span class="math display">\[t^* [ \lambda t_0 [\mbox{(ɴ)ᴘꜱᴛ}_{t_0}. \lambda t_j. [ \mbox{⟦χuλ λɛwəm iki⟧}^g(t_j) [\lambda x. [\mbox{⟦šiwaλəsəm⟧}^g(t_j)]]]]
+\\
+\mbox{рыбу едящего мужчину                      увидела}\]</span></li>
 </ol>
 <p>Для абсолютного времени, показанного в (7), ситуация обратная. ИГ поднимается в домен времени речи и там локально связывается местоимением t*, см. схему (8).</p>
 <ol start="7" class="example" type="1">
@@ -492,7 +500,7 @@ in
 </div>
 </div>
 <ol start="8" class="example" type="1">
-<li><strong>Подъём и локальное связывание</strong>: <span class="math display">\[t^* [ \lambda t_0 \text{⟦išńi jeλpijən χɵχətˊλˊ-əm amp-en⟧}^g(t_0)    [(ɴ)ᴘꜱᴛ_{t_0}.\lambda t_j. [\lambda x. [\text{⟦wantijəλsəm⟧}^g(t_j)]]]]\\\text{под окнами бегавшая собака                                           увидели}\]</span></li>
+<li><strong>Подъём и локальное связывание</strong>: <span class="math display">\[t^* [ \lambda t_0 \mbox{⟦išńi jeλpijən χɵχətˊλˊ-əm amp-en⟧}^g(t_0)    [\mbox{(ɴ)ᴘꜱᴛ}_{t_0}.\lambda t_j. [\lambda x. [\mbox{⟦wantijəλsəm⟧}^g(t_j)]]]] \\ \mbox{под окнами бегавшая собака                                           увидели}\]</span></li>
 </ol>
 <p>Анализ абсолютного времени в ОК как подъёма кванторов поддерживается независимыми данными о том, что на время не влияет референциальный статус ИГ, но при этом, если ИГ связана более высоким квантором, это блокирует абсолютную интерпретацию. Рассмотрим пример (9, a), где ИГ с ОК связана квантором <em>никто</em>. Заметим, что маркирование непрошедшим временем, которое интерпретировалось бы как абсолютное, здесь недоступно.</p>
 <ol start="9" class="example" type="1">
@@ -840,7 +848,7 @@ paarn-et’
 </section>
 <section id="семантика-формы-на--ma" class="level4" data-number="3.2.2.2">
 <h4 data-number="3.2.2.2" class="anchored" data-anchor-id="семантика-формы-на--ma"><span class="header-section-number">3.2.2.2</span> Семантика формы на -<em>(m)a</em></h4>
-<p>Общий элемент значения -<em>(m)a</em> в (15)-(18) – это семантика предшествования: в (15) событие, маркированное -<em>(m)a</em>, предшествует некоторой референциальной точке, заданной матричным предикатом; в (16) показатель -<em>(m)a</em> задает предшествование моменту речи; кросс-лингвистически в (плюсквам)перфекте тоже часто наблюдается семантика предшествования некоторой референциальной точке (среди многих других <span class="citation" data-cites="klein1994 bohnemeyer2014 nishiyama2010 wegner2019 bertrand2022">[<a href="13_references.html#ref-klein1994" role="doc-biblioref">11</a>–<a href="13_references.html#ref-bertrand2022" role="doc-biblioref">15</a>]</span>). В случае перфекта (17) референциальной точкой можно, упрощая, считать момент речи, а в случае плюсквамперфекта (18) – какую-то другую точку в прошлом, заданную контекстом.</p>
+<p>Общий элемент значения -<em>(m)a</em> в (15)–(18) – это семантика предшествования: в (15) событие, маркированное -<em>(m)a</em>, предшествует некоторой референциальной точке, заданной матричным предикатом; в (16) показатель -<em>(m)a</em> задает предшествование моменту речи; кросс-лингвистически в (плюсквам)перфекте тоже часто наблюдается семантика предшествования некоторой референциальной точке (среди многих других <span class="citation" data-cites="klein1994 bohnemeyer2014 nishiyama2010 wegner2019 bertrand2022">[<a href="13_references.html#ref-klein1994" role="doc-biblioref">11</a>–<a href="13_references.html#ref-bertrand2022" role="doc-biblioref">15</a>]</span>). В случае перфекта (17) референциальной точкой можно, упрощая, считать момент речи, а в случае плюсквамперфекта (18) – какую-то другую точку в прошлом, заданную контекстом.</p>
 <p>Далее мы будем, следуя <span class="citation" data-cites="klein1994">[<a href="13_references.html#ref-klein1994" role="doc-biblioref">11</a>]</span> и <span class="citation" data-cites="bohnemeyer2014">[<a href="13_references.html#ref-bohnemeyer2014" role="doc-biblioref">12</a>]</span>, формулировать свои наблюдения в терминах неорейхенбахского подхода к временной семантике. Для нас будут релевантны четыре временные точки: время события (event time, далее ET), топикальное время (topic time, далее TT), время перспективы (perspective time, далее PT) и время речи (utterance time, далее UT).</p>
 <p>В описании выше мы упомянули, что в примерах с отрицанием типа (16) -<em>(m)a</em> может располагать событие относительно момента речи. В таком случае его поведение похоже на абсолютное прошедшее время, так как стандартно считается, что абсолютное прошедшее время располагает TT до UT <span class="citation" data-cites="klein1994 chen2021">[<a href="13_references.html#ref-klein1994" role="doc-biblioref">11</a>; <a href="13_references.html#ref-chen2021" role="doc-biblioref">16</a>]</span>. Однако другие употребления -<em>(m)a</em> плохо сочетаются с анализом этого показателя как показателя абсолютного времени. Так, в примере (13) событие, маркированное -<em>(m)a</em>, располагается на оси времени после момента речи (но до референциальной точки в будущем), что не дает нам считать -<em>(m)a</em> абсолютным прошедшим временем. Пример (18), как и другие примеры с плюсквамперфектом, также говорит против такого анализа, так как в таких примерах нам пришлось бы считать, что в одной клаузе одновременно присутствуют два (самостоятельных) показателя абсолютного времени (на копуле и на причастии), чего, насколько нам известно, не зафиксировано в других языках (см. также <span class="citation" data-cites="chen2021">[<a href="13_references.html#ref-chen2021" role="doc-biblioref">16</a>]</span>). Таким образом, так как нашей целью является моносемический анализ -<em>(m)a</em>, мы считаем, что -<em>(m)a</em> не может маркировать абсолютное прошедшее время (в том числе и в примерах с отрицанием типа (16)).</p>
 <p>У нас остается два варианта того, чем может быть -<em>(m)a</em>: это либо относительное время, либо какой-то аспект предшествования (anteriority aspect). Различие между этими двумя категориями не такое очевидное. Единственная известная нам работа, которая предпринимает попытку их различить – <span class="citation" data-cites="chen2021">[<a href="13_references.html#ref-chen2021" role="doc-biblioref">16</a>]</span>. В качестве главного критерия в этой работе рассматривается способность показателя сочетаться в рамках одной клаузы с относительным или абсолютным временем. Если показатель обладает такой способностью, то он не может являться показателем времени, так как в одной клаузе не может одновременно присутствовать более одного показателя времени, не важно – относительного или абсолютного. Как мы видели в примере с плюсквамперфектом (18), -<em>(m)a</em> спокойно сосуществует с матричным глаголом прошедшего времени. Мы, вслед за другими исследователями (среди многих других <span class="citation" data-cites="cinque1999 ramchand2018">[<a href="13_references.html#ref-cinque1999" role="doc-biblioref">17</a>; <a href="13_references.html#ref-ramchand2018" role="doc-biblioref">18</a>]</span>, придерживаемся интуиции, что аналитический (плюсквам)перфект является моноклаузальной конструкцией. Таким образом, остается единственная альтернатива: -<em>(m)a</em> является ничем иным, как упорядочивающим аспектом (ordering aspect), а именно аспектом предшествования.</p>
@@ -1032,8 +1040,8 @@ l’ee-v
 
 </div>
 </div>
-<p>Интерпретации, которые получаются в (22)-(23), демонстрируют анафорическую природу причастия -<em>(m)a</em>, так как в обоих случаях топикальным временем является какой-то определенный (например, контекстно заданный) временной интервал в прошлом, в котором произошло соответствующее событие. Таким образом, анафорические интерпретации (22)-(23) подкрепляют использование в семантике (21) темпорального местоимения в качестве левого члена отношения (ср. анализ английского времени в <span class="citation" data-cites="gronn2016">[<a href="13_references.html#ref-gronn2016" role="doc-biblioref">23</a>]</span>, который базируется на идее <span class="citation" data-cites="partee1973">[<a href="13_references.html#ref-partee1973" role="doc-biblioref">24</a>]</span>).</p>
-<p>Тут следует заметить, что анафоричность доступных интерпретаций (22)-(23) нельзя свести к требованию на сохранение лексического результата, из которого следует существование конкретного предшествующего события. Предложение (23), помимо интерпретации с сохранением результата, может иметь такую интерпретацию, при которой результат не сохраняется в момент речи, то есть мальчик заточил топор в какой-то момент в прошлом, например, на прошлой неделе, а в момент речи топор уже является тупым, так как его много использовали. В данном случае утверждается лишь факт осуществления соответствующего события в определенный момент в прошлом. То же самое верно и для предложений с отрицанием: в (22) утверждается, что в определенный момент в прошлом имело место событие, когда говорящий не съел морошку, причем результат этого события может как существовать, так и не существовать в момент речи. Таким образом, мы приходим к выводу, что -<em>(m)a</em> действительно вводит теморальное местоимение в качестве левого члена отношения предшествования.</p>
+<p>Интерпретации, которые получаются в (22)–(23), демонстрируют анафорическую природу причастия -<em>(m)a</em>, так как в обоих случаях топикальным временем является какой-то определенный (например, контекстно заданный) временной интервал в прошлом, в котором произошло соответствующее событие. Таким образом, анафорические интерпретации (22)–(23) подкрепляют использование в семантике (21) темпорального местоимения в качестве левого члена отношения (ср. анализ английского времени в <span class="citation" data-cites="gronn2016">[<a href="13_references.html#ref-gronn2016" role="doc-biblioref">23</a>]</span>, который базируется на идее <span class="citation" data-cites="partee1973">[<a href="13_references.html#ref-partee1973" role="doc-biblioref">24</a>]</span>).</p>
+<p>Тут следует заметить, что анафоричность доступных интерпретаций (22)–(23) нельзя свести к требованию на сохранение лексического результата, из которого следует существование конкретного предшествующего события. Предложение (23), помимо интерпретации с сохранением результата, может иметь такую интерпретацию, при которой результат не сохраняется в момент речи, то есть мальчик заточил топор в какой-то момент в прошлом, например, на прошлой неделе, а в момент речи топор уже является тупым, так как его много использовали. В данном случае утверждается лишь факт осуществления соответствующего события в определенный момент в прошлом. То же самое верно и для предложений с отрицанием: в (22) утверждается, что в определенный момент в прошлом имело место событие, когда говорящий не съел морошку, причем результат этого события может как существовать, так и не существовать в момент речи. Таким образом, мы приходим к выводу, что -<em>(m)a</em> действительно вводит теморальное местоимение в качестве левого члена отношения предшествования.</p>
 </section>
 <section id="выводы" class="level4" data-number="3.2.2.3">
 <h4 data-number="3.2.2.3" class="anchored" data-anchor-id="выводы"><span class="header-section-number">3.2.2.3</span> Выводы</h4>
@@ -1461,42 +1469,55 @@ l’ee-v
 <p>Можно было бы ожидать, что основным фактором возможности / невозможности отрицательного согласования будет именно формальный тип (способ маркирования) зависимой клаузы. Однако в действительности это не так, причём зависимость от формального типа не соблюдается, так сказать, в обе стороны. С одной стороны, зависимые клаузы, содержащие одну и ту же форму глагола, однако при разных матричных предикатах, часто в разной мере допускают дистантное отрицательное согласование. С другой стороны, нередко оказывается, что при одном и том же матричном предикате способ оформления зависимой клаузы может быть разным – однако степень допустимости дистантного отрицательного согласования остаётся прежним.</p>
 <p>Фактивные глаголы – как когнитивной группы, так и группы эмоций – чаще всего не допускают дистантного отрицательного согласования (39). Напротив, глаголы, предполагающие ирреальность вложенного события или неполную степень его вероятности, сочетаются с дистантным согласованием лучше (40):</p>
 <ol start="39" class="example" type="1">
+<li><table class=" lightable-minimal" style="font-family: &quot;Trebuchet MS&quot;, verdana, sans-serif; width: auto !important; ">
+<tbody>
+<tr>
+<td style="text-align:left;">
+??Сарá
+</td>
+<td style="text-align:left;">
+й-гьы-сы-з-ды́ра-м
+</td>
+<td style="text-align:left;">
+аджв-гьи
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+я
+</td>
+<td style="text-align:left;">
+<span class="smallcaps">3sg</span>.<span class="smallcaps">n</span>.<span class="smallcaps">abs</span>-<span class="smallcaps">neg</span>.<span class="smallcaps">emp</span>-<span class="smallcaps">1sg</span>.<span class="smallcaps">erg</span>-<span class="smallcaps">pot</span>-знать-<span class="smallcaps">ne</span>
+</td>
+<td style="text-align:left;">
+кто_то-<span class="smallcaps">add</span>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=" lightable-minimal" style="font-family: &quot;Trebuchet MS&quot;, verdana, sans-serif; width: auto !important; border-bottom: 0;">
+<tbody>
+<tr>
+<td style="text-align:left;">
+ды-с-з-áй-уш-ны
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+<span class="smallcaps">3sg</span>.<span class="smallcaps">abs</span>-<span class="smallcaps">1sg</span>.<span class="smallcaps">io</span>-<span class="smallcaps">ben</span>-прийти-<span class="smallcaps">fut</span>-<span class="smallcaps">adv</span>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td style="padding: 0; " colspan="100%">
+<sup></sup> ‘Я не знаю, что никто придёт’
+</td>
+</tr>
+</tfoot>
+</table></li>
 <li></li>
 </ol>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>&lt;table class=" lightable-minimal" style='font-family: "Trebuchet MS", verdana, sans-serif; width: auto !important; '&gt;
-&lt;tbody&gt;
-  &lt;tr&gt;
-   &lt;td style="text-align:left;"&gt; ??Сарá &lt;/td&gt;
-   &lt;td style="text-align:left;"&gt; й-гьы-сы-з-ды́ра-м &lt;/td&gt;
-   &lt;td style="text-align:left;"&gt; аджв-гьи &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td style="text-align:left;"&gt; я &lt;/td&gt;
-   &lt;td style="text-align:left;"&gt; &lt;span style="font-variant:small-caps;"&gt;3sg&lt;/span&gt;.&lt;span style="font-variant:small-caps;"&gt;n&lt;/span&gt;.&lt;span style="font-variant:small-caps;"&gt;abs&lt;/span&gt;-&lt;span style="font-variant:small-caps;"&gt;neg&lt;/span&gt;.&lt;span style="font-variant:small-caps;"&gt;emp&lt;/span&gt;-&lt;span style="font-variant:small-caps;"&gt;1sg&lt;/span&gt;.&lt;span style="font-variant:small-caps;"&gt;erg&lt;/span&gt;-&lt;span style="font-variant:small-caps;"&gt;pot&lt;/span&gt;-знать-&lt;span style="font-variant:small-caps;"&gt;ne&lt;/span&gt; &lt;/td&gt;
-   &lt;td style="text-align:left;"&gt; кто_то-&lt;span style="font-variant:small-caps;"&gt;add&lt;/span&gt; &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt; &lt;table class=" lightable-minimal" style='font-family: "Trebuchet MS", verdana, sans-serif; width: auto !important; border-bottom: 0;'&gt;
-&lt;tbody&gt;
-  &lt;tr&gt;
-   &lt;td style="text-align:left;"&gt; ды-с-з-áй-уш-ны &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-   &lt;td style="text-align:left;"&gt; &lt;span style="font-variant:small-caps;"&gt;3sg&lt;/span&gt;.&lt;span style="font-variant:small-caps;"&gt;abs&lt;/span&gt;-&lt;span style="font-variant:small-caps;"&gt;1sg&lt;/span&gt;.&lt;span style="font-variant:small-caps;"&gt;io&lt;/span&gt;-&lt;span style="font-variant:small-caps;"&gt;ben&lt;/span&gt;-прийти-&lt;span style="font-variant:small-caps;"&gt;fut&lt;/span&gt;-&lt;span style="font-variant:small-caps;"&gt;adv&lt;/span&gt; &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;tfoot&gt;&lt;tr&gt;&lt;td style="padding: 0; " colspan="100%"&gt;
-&lt;sup&gt;&lt;/sup&gt; 'Я не знаю, что никто придёт'&lt;/td&gt;&lt;/tr&gt;&lt;/tfoot&gt;
-&lt;/table&gt;</code></pre>
-</div>
-</div>
-<ol start="40" class="example" type="1">
-<li></li>
-</ol>
-<div class="cell">
-<div class="cell-output-display">
 <table class=" lightable-minimal" style="font-family: &quot;Trebuchet MS&quot;, verdana, sans-serif; width: auto !important; border-bottom: 0;">
 <tbody>
   <tr>
@@ -1516,8 +1537,6 @@ l’ee-v
 <sup></sup> 'Я не хочу никуда идти (Белла)'</td></tr></tfoot>
 </table>
 
-</div>
-</div>
 <p>По нашим данным, матричные предикаты упорядочиваются по способности допускать дистантное отрицательное согласование в соответствии со следующей нестрогой шкалой:</p>
 <ol start="41" class="example" type="1">
 <li><span class="math display">\[\text{субъективная модальность, фазовые &gt; ?каузативные &gt; ?эпистемические мнения &gt; речи &gt; *фактивные знания, *фактивные эмоций}\]</span></li>
@@ -2065,7 +2084,7 @@ tadˊa-ŋa.
 <div id="fig-f2" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-f2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="images/formlab_pic2.tiff" class="img-fluid figure-img">
+<img src="images/formlab_pic2.png" class="img-fluid figure-img" width="632">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-f2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Рисунок&nbsp;3.2 – Среднее пословное время чтения (в мс) в Группе Ж (с названиями стереотипно «женских» профессий).
@@ -2079,7 +2098,7 @@ tadˊa-ŋa.
 <div id="fig-f3" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-f3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="images/formlab_pic3.tiff" class="img-fluid figure-img">
+<img src="images/formlab_pic3.jpg" class="img-fluid figure-img" width="632">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-f3-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Рисунок&nbsp;3.3 – Среднее пословное время чтения (в мс) в Группе М (с названиями стереотипно «мужских» профессий).
@@ -2116,7 +2135,7 @@ tadˊa-ŋa.
 <section id="согласование-по-числу-с-т.н.-малыми-именами-и-контроль" class="level3" data-number="3.6.3">
 <h3 data-number="3.6.3" class="anchored" data-anchor-id="согласование-по-числу-с-т.н.-малыми-именами-и-контроль"><span class="header-section-number">3.6.3</span> Согласование по числу с т.н. «малыми именами» и контроль</h3>
 <p>А. Перельцвайг <span class="citation" data-cites="pereltsvaig2006">[<a href="13_references.html#ref-pereltsvaig2006" role="doc-biblioref">66</a>]</span> утверждает, что в русском языке существует особая категория именных групп, не проецирующих DP — т.н. «малые имена», которые лишены некоторых синтаксических свойств, присущих полным DP. В позиции подлежащего такие именные группы не могут контролировать глагольное согласование. Кроме того, «малые имена» не могут быть контроллерами PRO. Это утверждение было оспорено в последующих работах (напр., <span class="citation" data-cites="matushansky2015 rudnev2024">[<a href="13_references.html#ref-matushansky2015" role="doc-biblioref">67</a>; <a href="13_references.html#ref-rudnev2024" role="doc-biblioref">68</a>]</span> на основе интроспективных суждений и корпусных данных. В рамках данного исследования способность русских «малых имён» быть контроллерами PRO была оценена в двух экспериментах.</p>
-<p><strong>Эксперимент 1. Дизайн.</strong> Эксперимент проводился удаленно на платформе PCIbex <span class="citation" data-cites="zehr2018">[<a href="13_references.html#ref-zehr2018" role="doc-biblioref">45</a>]</span>. Участников просили оценить приемлемость каждого предложения по шкале Ликерта от 1 до 7. Были привлечены 130 участников. При подготовке стимульных предложений варьировались три фактора: (i) единственное или множественное число согласования на глаголе; (ii) наличие или отсутствие предиката субъектного контроля; (iii) наличие или отсутствие QP-модификатора (напр., <em>около</em>). Первый и второй факторы проиллюстрированы в примерах (65)-(66).</p>
+<p><strong>Эксперимент 1. Дизайн.</strong> Эксперимент проводился удаленно на платформе PCIbex <span class="citation" data-cites="zehr2018">[<a href="13_references.html#ref-zehr2018" role="doc-biblioref">45</a>]</span>. Участников просили оценить приемлемость каждого предложения по шкале Ликерта от 1 до 7. Были привлечены 130 участников. При подготовке стимульных предложений варьировались три фактора: (i) единственное или множественное число согласования на глаголе; (ii) наличие или отсутствие предиката субъектного контроля; (iii) наличие или отсутствие QP-модификатора (напр., <em>около</em>). Первый и второй факторы проиллюстрированы в примерах (65)–(66).</p>
 <ol start="65" class="example" type="1">
 <li><p><em>Шестьдесят студентов хочет/хотят сдать экзамен</em> (±ед.ч.; +контроль).</p></li>
 <li><p><em>Шестьдесят студентов сдало/сдали экзамен</em> (±ед.ч.; –контроль).</p></li>
@@ -2775,8 +2794,8 @@ tadˊa-ŋa.
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./13_references.html" class="pagination-link" aria-label="СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ">
-        <span class="nav-page-text">СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./04_chapter.html" class="pagination-link" aria-label="Лаборатория по корпусным технологиям придумайте название!">
+        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Лаборатория по корпусным технологиям придумайте название!</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
