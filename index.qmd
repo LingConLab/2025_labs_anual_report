@@ -3,6 +3,7 @@
 
 library(tidyverse)
 library(bib2df)
+library(flextable)
 read_tsv("bibliography.tsv") |> 
   distinct() |> 
   df2bib(file = "bibliography.bib")
@@ -46,190 +47,178 @@ read_csv("data/people.csv", na = "NA") |>
 
 В настоящем отчете о НИР применяют следующие сокращения и обозначения.
 
-1 --- первое лицо;
+2 --- второе лицо;
 
-1du --- первое лицо двойственного числа;
+2/3 --- второе или третье лицо;
 
-1pl --- первое лицо множественного числа;
+2sg --- второе лицо единственное число;
 
-1sg --- первое лицо единственного числа;
+3 --- третье лицо;
 
-2 --- second person;
+3pl --- третье лицо множественное число;
 
-2/3 --- second or third person;
+3sg --- третье лицо единственное число;
 
-2sg --- second person singular;
+abl --- аблатив;
 
-3 --- third person;
+abs --- абсолютив;
 
-3pl --- third person plural;
+acc --- аккузатив;
 
-3sg --- third person singular;
+add --- аддитив;
 
-abl --- ablative;
+adv --- наречие;
 
-abs --- absolutive;
+agr --- согласование;
 
-acc --- accusative;
+an --- одушевлённый;
 
-add --- additive;
+aug --- наращение;
 
-adv --- adverb;
+ben --- бенефактив;
 
-agr --- agreement;
+caus --- каузатив;
 
-an --- animate;
+cng --- коннегатив;
 
-aug --- augment;
-
-ben --- benefactive;
-
-caus --- causative;
-
-cng --- connegative;
-
-comp --- complementizer;
+comp --- показатель подчинения;
 
 comp --- компаратив;
 
 coord --- сочинительный союз;
 
-cvb --- converb;
+cvb --- конверб;
 
 d1 --- демонстративы разных серий;
 
 d3 --- демонстративы разных серий;
 
-dat --- dative;
+dat --- датив;
 
-def --- definite;
+def --- определённый;
 
-dem --- demonstrative;
+dem --- указательное местоимение;
 
-detr --- detransitive;
+detr --- детранзитив;
 
-dim --- diminutive;
+dim --- диминутив;
 
-du --- dual;
+du --- двойственное число;
 
-edge --- edge;
+edge --- граница;
 
-el --- elative;
+el --- элатив;
 
-emp --- emphatic;
+emp --- эмфатический;
 
-emph --- emphatic;
+emph --- эмфатический;
 
-eq --- equative;
+eq --- экватив;
 
-erg --- ergative;
+erg --- эргатив;
 
-ess --- essive;
+ess --- эссив;
 
 f --- женский род;
 
-freq --- frequentative;
+freq --- фреквентатив;
 
-fut --- future;
+fut --- будущее время;
 
-gen --- genitive;
+gen --- генитив;
 
-i --- class I;
-
-imp --- imperative;
+i --- класс I;
 
 imp --- императив;
 
-impf --- imperfective;
+imp --- императив;
 
-in --- in a container;
+impf --- имперфектив;
 
-indef --- indefinite;
+in --- в контейнере;
+
+indef --- неопределённый;
 
 indef --- неопределенное местоимение;
 
 inf --- инфинитив;
 
-ins --- instrumental;
+ins --- творительный;
 
-int --- interrogative;
+int --- вопросительный;
 
-intj --- interjection;
+intj --- междометие;
 
-io --- indirect object;
+io --- непрямой объект;
 
-ipfv --- imperfective;
+ipfv --- имперфектив;
 
-it --- itive;
+it --- итив;
 
-loc --- locative;
+loc --- местный;
 
 m --- мужской род;
 
-msd --- masdar;
+msd --- масдар;
 
-n --- neuter;
+n --- средний род;
 
-neg --- negation;
+neg --- отрицание;
 
-nfin --- non-finite;
+nfin --- нефинитный;
 
-nfut --- non-future;
+nfut --- не будущее время;
 
-nom --- nominative;
+nom --- именительный;
 
-npfv --- imperfective;
+npfv --- имперфектив;
 
-npst --- non-past;
+npst --- непрошедшее время;
 
-nsg --- neutral singular;
+nsg --- средний род единственное число;
 
 o --- косвенная форма местоимения;
 
-obl --- oblique;
+obl --- косвенный;
 
-p --- patient-like argument of a canonical transitive verb;
+p --- пациентивный аргумент переходного глагола;
 
-pass --- passive;
+pass --- пассив;
 
-pf --- perfective;
+pf --- перфектив;
 
-pfv --- perfective;
-
-pl --- plural;
+pfv --- перфектив;
 
 pl --- множественное число;
 
-plz --- pluralization;
+plz --- множественность;
 
-poss --- possessive;
+poss --- посессив;
 
-pot --- potential;
+pot --- потенциалис;
 
-prf --- perfect;
+prf --- перфект;
 
 prn --- местоимение;
 
-proh --- prohibitive;
+proh --- прохибитив;
 
-prs --- present;
+prs --- настоящее время;
 
-pst --- past;
+pst --- прошедшее время;
 
-ptcl --- particle;
+ptcl --- частица;
 
-ptcp --- participle;
+ptcp --- причастие;
 
-purp --- purposive;
+purp --- целевой;
 
-ref --- referential;
+ref --- референциальный;
 
-refl --- reflexive;
+refl --- рефлексив;
 
-s --- single argument of canonical intransitive verb;
+s --- единственный аргумент непереходного глагола;
 
-sa --- S or A participant;
-
-sg --- singular;
+sa --- агентивный аргумент;
 
 sg --- единственное число

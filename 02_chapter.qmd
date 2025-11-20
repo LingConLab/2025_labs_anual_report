@@ -4,6 +4,7 @@ editor: source
 
 ```{r}
 #| include: false
+#| eval: true
 
 library(tidyverse)
 library(lingglosses)

@@ -7,16 +7,13 @@ book:
   subtitle: "ЯЗЫКОВОЕ И КОГНИТИВНОЕ МНОГООБРАЗИЕ В ФОРМАЛЬНЫХ МОДЕЛЯХ, КОМПЬЮТЕРНЫХ ИНСТРУМЕНТАХ И ОБРАЗОВАТЕЛЬНЫХ РЕСУРСАХ (заключительный)"
   date: "2025"
   date-format: "YYYY"
-  output-file: "ОТЧЕТ-О-НАУЧНО-ИССЛЕДОВАТЕЛЬСКОЙ-РАБОТЕ_2025_v1"
+  output-file: "ОТЧЕТ-О-НАУЧНО-ИССЛЕДОВАТЕЛЬСКОЙ-РАБОТЕ_2025_v2"
   chapters:
     - index.qmd
-    - 01_chapter.qmd
-    - 02_chapter.qmd
-    - 03_chapter.qmd
-    - 04_chapter.qmd
-    - 05_chapter.qmd
-    - 06_chapter.qmd
-    - 07_chapter.qmd
+    - 01_typology.qmd
+    - 02_language.qmd
+    - 03_formal.qmd
+    - 04_computer.qmd
     - 13_references.qmd
     
 bibliography: bibliography.bib
@@ -29,7 +26,7 @@ crossref:
   tbl-title: "Таблица"
 
 format:
-  html: 
+  docx: 
     df-print: kable
     html-table-processing: none
     echo: false
