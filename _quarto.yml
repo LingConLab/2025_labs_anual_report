@@ -7,15 +7,17 @@ book:
   subtitle: "ЯЗЫКОВОЕ И КОГНИТИВНОЕ МНОГООБРАЗИЕ В ФОРМАЛЬНЫХ МОДЕЛЯХ, КОМПЬЮТЕРНЫХ ИНСТРУМЕНТАХ И ОБРАЗОВАТЕЛЬНЫХ РЕСУРСАХ (заключительный)"
   date: "2025"
   date-format: "YYYY"
-  output-file: "ОТЧЕТ-О-НАУЧНО-ИССЛЕДОВАТЕЛЬСКОЙ-РАБОТЕ_2025_v3"
+  output-file: "ОТЧЕТ-О-НАУЧНО-ИССЛЕДОВАТЕЛЬСКОЙ-РАБОТЕ_2025_v4"
   chapters:
     - index.qmd
+    - 00_intro.qmd
     - 01_typology.qmd
     - 02_language.qmd
     - 03_formal.qmd
     - 04_logic.qmd
     - 05_computer.qmd
-    - 13_references.qmd
+    - 06_conclusions.qmd
+    - 07_references.qmd
     
 bibliography: bibliography.bib
 csl: gost-r-7-0-5-2008-numeric-iaa.csl
