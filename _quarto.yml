@@ -13,7 +13,8 @@ book:
     - 01_typology.qmd
     - 02_language.qmd
     - 03_formal.qmd
-    - 04_computer.qmd
+    - 04_logic.qmd
+    - 05_computer.qmd
     - 13_references.qmd
     
 bibliography: bibliography.bib
