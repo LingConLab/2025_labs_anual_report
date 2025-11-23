@@ -11,7 +11,7 @@ read_tsv("bibliography.tsv") |>
 
 # СПИСОК ИСПОЛНИТЕЛЕЙ {.unnumbered .unlisted}
 
-Руководители темы:
+Руководитель темы:
 
 ```{r}
 read_csv("data/people_head.csv", na = "NA") |>  
