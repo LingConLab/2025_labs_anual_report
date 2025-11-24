@@ -1,7 +1,7 @@
 crossref-fig-title: "рисунок"
 crossref-tbl-title: "таблица"
 crossref-exm-title: "Прим."
-crossref-ch-prefix: "Глава"
+crossref-ch-prefix: "раздел"
 crossref-sec-prefix: "раздел"
 crossref-eq-prefix: "Уравнение"
 crossref-lof-title: "Список рисунков"
