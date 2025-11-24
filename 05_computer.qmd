@@ -11,7 +11,7 @@ library(flextable)
 options("lingglosses.italic_transliteration" = FALSE)
 ```
 
-# Корпусная и компьютерная лингвистика
+# Корпусная и компьютерная лингвистика {#sec-computer}
 
 ## `RCaucTile` и `PyCaucTile`: плиточные карты для визуализации нахско-дагестанских языков
 
